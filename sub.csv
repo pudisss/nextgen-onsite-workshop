@@ -1,0 +1,2001 @@
+image name,Object_Type,distance,Location_Zone,Illumination
+a3a9173b-cbdc-41fe-bc5d-3dfb6f8dec5e.png,Clear Path,3.2764904499053955,Home Office,Dim
+f4e9acca-e50f-48d9-b6d2-247bdf7975e8.png,Clear Path,2.788393259048462,Corridor,Dark
+2571812c-24c3-438c-baca-e02cec49d213.png,Structural,2.744184255599976,Living Room,Dim
+3d5e66e7-da5f-44be-879d-75a5ad7c62a4.png,Clear Path,1.0670868158340454,Home Office,Dim
+ab576c52-d86d-45a9-b4ed-be35cf6cde1f.png,Small/Low Obstacle,3.266429662704468,Corridor,Dim
+10417a74-f9cb-44eb-a497-40d4a85e2760.png,Elevation Change,2.773655652999878,Corridor,Dark
+f00cb7ea-e1f3-48fe-b544-95101f3c7e78.png,Small/Low Obstacle,1.5488044023513794,Kitchen,Dim
+8f958a76-938b-4c10-a029-13f8afac508b.png,Clear Path,3.862051963806152,Living Room,Dark
+0f90030c-b5ac-4a7d-a3de-9837c30a507d.png,Clear Path,2.2545371055603027,Living Room,Bright
+e2d5ca65-5634-409e-8f33-74fa13fb7ee5.png,Clear Path,4.7354512214660645,Living Room,Dim
+c02235df-447c-4181-bdaf-1b11a31e6b64.png,Small/Low Obstacle,2.1219515800476074,Corridor,Bright
+0adbe36e-6e6a-4fd2-ac77-1bb8faf47b3c.png,Clear Path,3.503726005554199,Corridor,Dark
+db70b37f-7dce-430e-bb33-c44eff883ff4.png,Structural,2.60882830619812,Home Office,Bright
+c353e765-9ab7-46ad-8d82-a4b9ee439335.png,Clear Path,3.789443254470825,Corridor,Dim
+3b1ab05b-1940-427c-b56c-0644f6cf911d.png,Structural,2.554742813110352,Corridor,Bright
+fbae95a0-7970-4460-bf14-3485e09b4117.png,Clear Path,5.132116794586182,Corridor,Dim
+e9cb0c96-2c71-4d45-ba1e-385f6166e8c0.png,Structural,2.7782914638519287,Corridor,Dark
+db8d79ed-1c3d-479e-aa03-5462936f11ed.png,Structural,1.717013597488403,Kitchen,Bright
+1ed58dba-8055-44dc-8392-ba57669efc21.png,Structural,3.369145393371582,Corridor,Dim
+dd065e40-01ff-41ee-9f53-fca6965179f4.png,Clear Path,3.1476404666900635,Corridor,Dark
+6cef9d3f-2de9-4314-91ea-4aab981d9e0e.png,Elevation Change,1.3668930530548096,Home Office,Dim
+ae506ff7-461b-48f0-b7bf-a4cd320172fd.png,Clear Path,3.637264013290405,Living Room,Bright
+4c895c79-5edc-4ab1-aea2-0857a05c33ab.png,Elevation Change,1.8198766708374023,Kitchen,Bright
+66977149-0665-48ee-9de5-5aa96fc1f620.png,Large Obstacle,3.103937149047852,Living Room,Dark
+dc14f00d-6458-480e-bc49-100cbf7d4a78.png,Large Obstacle,1.6503998041152954,Corridor,Bright
+31b39d24-0cd1-4ef3-af01-ba38abd3c2f2.png,Small/Low Obstacle,1.1885920763015747,Kitchen,Bright
+6fc196b8-e9a2-4707-96f2-0ead1f3c2cdc.png,Large Obstacle,2.889355421066284,Living Room,Bright
+936db6ab-5d45-4b30-b8b9-989684127c4c.png,Structural,3.5683586597442627,Corridor,Dim
+c031f899-5b1a-4c22-8644-165b18d13f73.png,Small/Low Obstacle,1.862970352172852,Living Room,Bright
+d9425fbb-2cce-46ef-9776-44a4517b8783.png,Clear Path,3.033732414245605,Living Room,Bright
+6566e066-4d68-4a6b-a0c0-367fc37214d0.png,Structural,3.108714818954468,Corridor,Dim
+88037697-caf9-48da-a25e-2c9628ef9e82.png,Large Obstacle,2.4146206378936768,Living Room,Bright
+4e0b33f2-b980-4904-a1fe-654aad26f2d7.png,Large Obstacle,4.332167625427246,Living Room,Dim
+75a6406e-2ae2-4f70-8162-9c63ac63d8ee.png,Small/Low Obstacle,1.154178023338318,Kitchen,Bright
+6bbf616e-f02f-4a28-93a5-d257b415d214.png,Structural,2.855771541595459,Living Room,Dark
+ba3adaef-45c5-4d34-98c0-5f19dfd97508.png,Clear Path,4.296000480651856,Home Office,Dark
+f2b7f84b-6104-4615-a3af-88e01a3c7d05.png,Structural,2.066897392272949,Kitchen,Bright
+177c2ad3-5a27-4460-9d70-c482f3b30b84.png,Small/Low Obstacle,2.166804075241089,Corridor,Dim
+1d69f54b-aa05-4639-a2d9-1f0b0e80180a.png,Structural,3.000617027282715,Living Room,Dark
+54488d68-a562-4edb-a40d-3dc1ec83e008.png,Structural,2.040872812271118,Corridor,Dim
+047b757c-ad1c-49f7-8f5d-2f20cc40e26e.png,Structural,2.6861231327056885,Corridor,Bright
+f01a198e-c334-4ac6-a3d5-5b9f6c2dd5bc.png,Clear Path,2.9544122219085693,Kitchen,Dim
+96c4eaa7-39ab-4b74-88ca-bb98c6ee6f78.png,Clear Path,1.9646884202957156,Living Room,Dark
+d3beb152-5f1d-49a4-875b-67700159c99b.png,Elevation Change,2.654087781906128,Living Room,Bright
+23141c20-a336-4fc1-9e7d-aefad87e7979.png,Clear Path,2.969392776489258,Kitchen,Bright
+f6018ffe-3cb3-4af1-972b-d16ef67ce4e5.png,Clear Path,2.876511335372925,Living Room,Bright
+282d2fa5-1e75-4573-a5a0-04689f8591ba.png,Large Obstacle,2.0949277877807617,Living Room,Dim
+28a6292a-d447-4920-b762-a1f23daa1f94.png,Small/Low Obstacle,1.4908881187438965,Corridor,Bright
+4021cc13-92dc-499e-b3cc-f60128278e72.png,Large Obstacle,1.5952842235565186,Corridor,Bright
+92a566dc-b99c-4842-a232-8052080ba625.png,Clear Path,3.641260862350464,Living Room,Dim
+f0f430e1-44e0-45ad-805f-ba3c425ab321.png,Small/Low Obstacle,1.912407636642456,Living Room,Dim
+e4f9e4d1-67a6-4267-89e8-b48d26bc7c97.png,Structural,3.5548837184906006,Living Room,Dim
+908a75de-6cf8-4e05-a9df-a2e635c50538.png,Large Obstacle,1.481576442718506,Living Room,Dim
+733c73bf-15b2-4540-9908-6ab61bbc5c23.png,Elevation Change,1.3607274293899536,Home Office,Bright
+144893fc-8932-4026-b243-0bcf8be9ab6b.png,Large Obstacle,1.8706294298172,Living Room,Dark
+09574d92-3aab-42d6-bb8e-cffc5ef52e61.png,Clear Path,3.484131097793579,Home Office,Dim
+0cce2ad8-1bf2-4cbd-84a8-2ceaad69ba4d.png,Large Obstacle,2.014182806015014,Home Office,Dark
+c91fa06a-e33b-4c17-b95d-6ce8bf2dd4b5.png,Elevation Change,2.5309388637542725,Corridor,Dark
+08db2dd9-3050-4dcf-a83c-cde817d06644.png,Structural,2.108574390411377,Home Office,Bright
+42067a7b-8cea-47a6-9c5c-69910a74f80f.png,Structural,2.7336630821228027,Corridor,Dark
+0b21e4fb-8663-4581-952d-f25aaa2280ca.png,Elevation Change,1.4285966157913208,Home Office,Dim
+2942e5a7-7af8-4ce2-8399-9f20f795d110.png,Small/Low Obstacle,3.7851991653442383,Corridor,Dim
+6ca5cb24-babb-4dd3-955b-6dc751187f0a.png,Clear Path,3.3720390796661377,Living Room,Dim
+1838e3ef-fbd7-4517-b343-2d81ddd73877.png,Structural,3.0638978481292725,Home Office,Bright
+c8bc1021-9874-40e7-8adb-26979d53cc89.png,Small/Low Obstacle,1.4615886211395264,Living Room,Bright
+2d467d04-3b08-4ae7-96b2-8bd4424ddb07.png,Clear Path,3.3633458614349365,Corridor,Dark
+1c91b146-168f-4e81-9172-a9001dbe7b41.png,Small/Low Obstacle,1.8822975158691408,Home Office,Bright
+ca481aab-20ae-4e6b-9372-d90fa6617c42.png,Structural,3.119500160217285,Living Room,Bright
+b4d6fe8a-0171-487b-afc4-9839f37c6eb5.png,Small/Low Obstacle,2.8081233501434326,Home Office,Dim
+64754b9c-89c1-4b06-873b-a53508f5808b.png,Small/Low Obstacle,1.6790568828582764,Home Office,Dim
+adebabb4-9f34-45a9-a644-1b7451f24562.png,Structural,2.6134021282196045,Corridor,Dark
+31b79d92-af99-4648-86cc-8c84c889ffdd.png,Large Obstacle,3.715379238128662,Living Room,Dim
+e23cb0a6-4cef-4c73-a937-a9debe8f88eb.png,Clear Path,4.07286548614502,Home Office,Dim
+dfb39ad1-37a7-4ece-9631-b35dbaa51936.png,Small/Low Obstacle,2.2585432529449463,Corridor,Dark
+b83e9b57-7d19-4820-8496-3f5b77a1f1b4.png,Clear Path,4.219822883605957,Home Office,Dim
+926e7be4-b950-46d1-97e0-f9374c83691d.png,Clear Path,1.940993309020996,Kitchen,Bright
+1e800743-816e-4c3a-924c-9cd356a7875c.png,Small/Low Obstacle,1.5219969749450684,Kitchen,Bright
+d88383a0-ea30-4971-ae22-e7d53fbb9b4d.png,Large Obstacle,2.138704776763916,Living Room,Bright
+3e8cfb2c-04be-4804-bad8-65f37528a7cd.png,Structural,2.5749661922454834,Corridor,Dark
+7facb820-11c9-4f1a-8ce9-5b269980589b.png,Clear Path,3.107330799102783,Kitchen,Bright
+3a7040be-54d7-43b4-89d8-bc59ce16f125.png,Small/Low Obstacle,3.245863676071167,Home Office,Dim
+993910b2-6481-4b0b-85f7-e3cd727f6830.png,Small/Low Obstacle,1.5112295150756836,Living Room,Dim
+bca07c95-434a-47aa-ae9d-b3a81221ed54.png,Clear Path,2.0339019298553467,Kitchen,Dark
+316a48b6-e50a-448a-9ca4-8d626a48c67b.png,Small/Low Obstacle,1.591745376586914,Home Office,Bright
+777e7775-6086-4830-a413-ecb025b071f0.png,Clear Path,2.080770969390869,Living Room,Dim
+14ba41db-9b15-4001-be5d-aa0da8eaaff5.png,Structural,3.4929394721984863,Kitchen,Bright
+5b7b5780-67e5-4288-9c9b-44996dac300c.png,Structural,2.0688905715942383,Corridor,Dim
+854b9b2e-a895-465d-bba6-8d030ff7a742.png,Large Obstacle,2.7198486328125,Living Room,Dark
+33045648-3cfc-46d2-b0ea-ca9b8c25a640.png,Structural,2.67423939704895,Corridor,Dark
+e3bb7378-411b-42a1-9512-1dc429617e02.png,Structural,3.116316318511963,Living Room,Dim
+7c12c661-dfbf-4be7-8514-73cca44d41dc.png,Structural,3.923247575759888,Home Office,Dim
+427ea878-2dc4-4b83-9554-f2ff349445a9.png,Structural,2.1854240894317627,Kitchen,Bright
+948922ea-e46c-4d16-a41a-80257265c0c7.png,Small/Low Obstacle,1.3688033819198608,Home Office,Dark
+b7debee0-f984-41b0-b378-1131bb1aa1ad.png,Elevation Change,2.2115843296051025,Corridor,Dim
+9c7a753f-0ea9-497d-8960-b5f79b77150f.png,Structural,2.69414496421814,Home Office,Dark
+e48e848c-82d5-4360-866f-a2b0b09ee44c.png,Structural,2.345069169998169,Corridor,Dark
+e6ec1c42-705c-4cf1-8ec0-741c4513f402.png,Elevation Change,1.416381597518921,Home Office,Bright
+d6428282-9d6e-4054-bb51-d5ddda885dc5.png,Clear Path,4.70281457901001,Corridor,Bright
+58a26ac5-b7a3-423f-a8a1-5e621e022763.png,Large Obstacle,2.4292304515838623,Living Room,Dim
+23eeffba-f4e3-4710-b2c4-cd068fdf218d.png,Structural,2.9522883892059326,Corridor,Dim
+b80aff60-9bb4-4b0c-bb78-373d1d0ba916.png,Structural,2.348100423812866,Corridor,Dim
+63343a3b-5a37-4de9-9166-9289e38da4b8.png,Structural,2.3538296222686768,Corridor,Dark
+343565c5-274c-4f44-8cff-4f6efabdeab4.png,Clear Path,3.4362688064575195,Home Office,Dim
+e2846b8e-d7c8-4388-8444-6e0deb626da7.png,Large Obstacle,1.7430027723312378,Home Office,Bright
+923c3644-783d-4d22-b524-abe0911a3ef4.png,Structural,2.6309187412261963,Corridor,Dark
+6ab78cd1-8bcc-45c1-9ab6-567807bfabed.png,Structural,2.4814870357513428,Corridor,Dim
+4d9ce46b-e6a9-4321-89d1-25c293ab54c9.png,Structural,2.536803960800171,Living Room,Bright
+321b1bff-2324-4e53-8e3a-22aa79b8783a.png,Large Obstacle,1.889572024345398,Corridor,Bright
+95b3660a-9db1-4cc4-b719-93aeded877d5.png,Structural,2.834277868270874,Corridor,Dark
+fadaaa43-2f19-48e2-9097-2257bbf49aeb.png,Large Obstacle,1.560063362121582,Corridor,Dim
+390d6d04-2f87-49bf-9e14-910f5df7d322.png,Clear Path,2.73803973197937,Corridor,Dark
+ad52f8fd-e351-4513-a2be-842bd4c2805b.png,Structural,4.342057228088379,Living Room,Dark
+9ba328e9-db02-4f7e-b03f-40c7e8607a43.png,Small/Low Obstacle,1.7749965190887451,Living Room,Dim
+ca0284d4-4e91-4e0a-a16e-874139cadd5c.png,Structural,1.045103907585144,Living Room,Bright
+ab242dec-38f2-4cc6-bd38-9d5ef6596b6d.png,Structural,3.2361862659454346,Living Room,Dim
+63ecee97-c4e4-48dc-862c-c9b50f47b04a.png,Large Obstacle,1.5411937236785889,Home Office,Bright
+e9f74283-f6bc-4c30-830a-9b249f36b9b2.png,Large Obstacle,2.4539804458618164,Living Room,Dim
+b39bfa55-5db1-4f5d-85f0-28bc3d13e7eb.png,Small/Low Obstacle,1.3494796752929688,Living Room,Bright
+5beadb1d-f181-4825-900d-aeb1138f26a6.png,Clear Path,4.8697285652160645,Corridor,Dim
+24be565b-e72f-45b6-b745-d68868740069.png,Clear Path,3.969203233718872,Living Room,Dim
+0f2ece33-2b6c-461a-b0e1-54e4365ee0ff.png,Structural,2.906219005584717,Corridor,Dim
+a9f35d66-a18f-4e8e-b58d-36e8b2c21289.png,Clear Path,2.7539687156677246,Home Office,Dim
+14fb148c-b00e-4dd2-9db7-3041b7050073.png,Elevation Change,1.5817127227783203,Home Office,Dim
+3a649303-790d-49e6-b065-b2d9731010c4.png,Clear Path,4.093317031860352,Living Room,Bright
+cd7d3028-e6ff-4760-9380-879dd713a32f.png,Clear Path,3.025294303894043,Corridor,Bright
+99809bd6-291e-4b1f-8cb8-9ec97e6c6127.png,Clear Path,2.7638368606567383,Corridor,Bright
+537aefc7-e574-4069-84ff-63d4a4d7726c.png,Small/Low Obstacle,1.5774961709976196,Living Room,Dim
+0f8f6076-bf71-4375-8d1f-db2bc5108160.png,Small/Low Obstacle,1.9081419706344604,Corridor,Dim
+a489d3d1-9905-4e30-a1c1-7e0d01b5e494.png,Small/Low Obstacle,1.5997111797332764,Home Office,Bright
+0abb9665-8ece-4b0d-9c15-3f1fe82067fc.png,Clear Path,5.196080684661865,Living Room,Dim
+e576b996-e0bd-4f14-964f-864ba9ec8b2c.png,Clear Path,3.563721179962158,Home Office,Dim
+8bfd2823-c441-42ba-97eb-bbdb06743cab.png,Clear Path,4.720132827758789,Living Room,Dark
+6a26e8a0-a1e4-40ef-b7cf-a3fb03dd719c.png,Clear Path,3.109694004058838,Living Room,Dim
+d40e6a7f-c88c-4654-809b-9e1c5f150ada.png,Large Obstacle,2.686070680618286,Living Room,Dim
+3d910c2f-4895-4fbe-8659-e39d96d25f6c.png,Clear Path,2.4135777950286865,Corridor,Bright
+2589eda7-ebd4-438e-92e6-7291f8636509.png,Structural,1.771099328994751,Corridor,Bright
+fbb0491a-9dcc-42b7-bf92-2dee04701e21.png,Elevation Change,1.4923120737075806,Kitchen,Bright
+b2023ffb-b69f-46fb-afb4-1ef0abd45655.png,Elevation Change,1.418389081954956,Home Office,Dim
+aeca8a86-a454-4303-999f-f0599780ab14.png,Structural,2.5918915271759038,Living Room,Dark
+bdb5ff7e-ad45-46a3-8037-18875a6577f3.png,Clear Path,3.414822816848755,Living Room,Dark
+8ae90f9a-c644-4d66-9fea-de8dca016b28.png,Clear Path,2.060509443283081,Kitchen,Bright
+bab70ac0-ec51-4555-9809-e104e111dd14.png,Structural,1.9478908777236936,Home Office,Bright
+9366baec-12dd-4015-bb65-3d6f85cff869.png,Large Obstacle,3.120647668838501,Living Room,Bright
+3b8e7b9d-c08b-4e73-a907-26893417ab82.png,Structural,2.5376434326171875,Corridor,Bright
+f4b33752-8202-46ed-a83e-8e84659a380f.png,Large Obstacle,1.4505820274353027,Home Office,Dim
+56e463b5-d0f2-4d80-9236-e0e1d70fd2c1.png,Structural,2.4943296909332275,Living Room,Dim
+14d4ba3c-204f-4f94-92d2-211e37b71674.png,Large Obstacle,3.162379026412964,Living Room,Dark
+c9d3d333-6181-4a4c-a288-2756b59294df.png,Large Obstacle,2.564449548721313,Living Room,Bright
+28a68791-c15b-4238-9a0c-240f8d9520c3.png,Structural,2.448212146759033,Corridor,Dark
+1f13fd97-2a78-4137-8aed-3c9b285867dd.png,Large Obstacle,2.3389875888824463,Home Office,Bright
+6bcc397f-4882-4330-9b15-1211eb4eb4ce.png,Structural,3.1303155422210693,Corridor,Dark
+05aed309-80cc-40d7-9832-565fda53455f.png,Small/Low Obstacle,2.921618700027466,Corridor,Dim
+4018a8f6-d97a-4fd7-aa6f-6a139ec01850.png,Small/Low Obstacle,1.2650097608566284,Kitchen,Dim
+9a6fc9a6-f4d7-4701-bba2-1846445efdfb.png,Structural,3.0608391761779785,Living Room,Dim
+96dad201-1e81-43a3-89d7-438cf5012af7.png,Elevation Change,1.8233572244644165,Kitchen,Dim
+c7d7391a-6002-43c8-80a3-b9ba88b7de2b.png,Structural,2.030336618423462,Corridor,Dim
+6a87af1a-1e21-4700-8b23-5c28843b93ca.png,Structural,2.196958303451538,Living Room,Dark
+d02e3e17-b809-4595-8388-338bebac8e80.png,Small/Low Obstacle,1.6537717580795288,Living Room,Bright
+53960a76-4213-4dbd-963e-e6e1ffd80a0c.png,Large Obstacle,1.3945459127426147,Living Room,Dim
+0d4fc2f6-59a2-4f59-a406-cbaf09fcd5b6.png,Clear Path,4.112100601196289,Living Room,Dim
+9d2ddfd7-7341-4f41-880c-8e0fa884d85d.png,Large Obstacle,1.9382641315460205,Corridor,Dark
+973943b4-e907-45e1-ae29-2b548878307b.png,Clear Path,2.3596513271331787,Kitchen,Dark
+7ead13d2-570e-448a-a2ec-8d933788865b.png,Small/Low Obstacle,2.7768537998199463,Living Room,Bright
+aca5b6ee-922f-4bc0-9cae-81db6c3b00af.png,Clear Path,2.9323413372039795,Kitchen,Bright
+c03abf6b-2821-4915-b8d4-4c186470ea59.png,Structural,2.9552536010742188,Living Room,Dim
+9cd08609-cdd3-492b-9a08-671dd434b9e4.png,Structural,2.618584394454956,Corridor,Dark
+f40647d4-ce3a-4c01-bb3f-e51e891c25d1.png,Structural,2.855684518814087,Corridor,Dark
+e53db526-c18e-463f-9c78-a9dd20ccdca7.png,Clear Path,4.288886070251465,Home Office,Dim
+c5090644-1b63-4255-9d4f-c719ce9af10a.png,Clear Path,4.257551670074463,Living Room,Bright
+f08ebeab-ebf4-452c-ba58-49f61fc11f05.png,Clear Path,4.175582885742188,Home Office,Dim
+8e9add8c-55ba-4519-b345-eca291286082.png,Large Obstacle,2.38016414642334,Kitchen,Bright
+f72242b8-7b15-4b2a-ac20-2f63a5c0e127.png,Elevation Change,1.013886332511902,Home Office,Dim
+59c0c7e4-e0db-4d40-9cd5-0028f61be3f8.png,Structural,3.924016714096069,Home Office,Dim
+6940a959-f3fc-4696-9a24-e71ce2e168c7.png,Large Obstacle,2.274165630340576,Kitchen,Dim
+22ed886a-c33d-46e4-bdf8-a837eaf49252.png,Clear Path,4.38031816482544,Home Office,Bright
+e8c3f49b-23bc-4a85-a1ae-b2572a2945e0.png,Clear Path,4.861972808837891,Living Room,Dim
+76f79e01-3179-4e13-98c3-bd1fdafaf1ed.png,Elevation Change,2.488699436187744,Living Room,Dim
+f84838d2-1342-4d33-9e0a-d08dae43dd06.png,Large Obstacle,1.372406005859375,Corridor,Dim
+13791667-8647-4b5f-900c-0cc97ac79cc3.png,Large Obstacle,2.49790620803833,Kitchen,Dim
+d1121a34-60b1-49d8-bfe4-4f4ef465f7a0.png,Large Obstacle,2.235922574996948,Home Office,Dim
+c8f02786-d329-4b23-a9f7-a3b2f3d2bf5c.png,Clear Path,3.2490031719207764,Kitchen,Bright
+3e5f4ab4-c8fa-4bb7-af82-ccd6bc701189.png,Structural,2.163762092590332,Corridor,Bright
+fe58a742-7ae4-4922-afc2-84e2bf776c36.png,Large Obstacle,4.1209869384765625,Living Room,Dim
+d7103de5-d6e6-42cf-b58f-94ad5d117576.png,Clear Path,4.796943664550781,Home Office,Dim
+b023896b-2f96-4e6c-8d16-3f3942afdd46.png,Structural,1.7460777759552002,Corridor,Dim
+a7e6dc98-d25e-4821-ac4f-0dec046dca5a.png,Small/Low Obstacle,1.8684806823730469,Kitchen,Dark
+898e0c82-8b88-4957-8b4c-fc1bbaac0987.png,Large Obstacle,3.008312463760376,Home Office,Dark
+6909d10b-616c-4edc-8713-71cdbcbc9e09.png,Small/Low Obstacle,2.5467240810394287,Living Room,Dim
+09bf4b74-e840-4eea-9301-c99418169dd7.png,Large Obstacle,1.825339674949646,Living Room,Bright
+49a5a05d-7dfe-495b-9846-eae2730c522d.png,Structural,2.0132853984832764,Home Office,Bright
+f70c9634-67c9-43f5-b1b8-48cbdb6c901c.png,Large Obstacle,1.584871768951416,Corridor,Bright
+c957de32-5d34-4aa7-8c5a-adab464e6893.png,Clear Path,2.2807493209838867,Kitchen,Dim
+4341d64b-4e47-447b-819b-d7c391a5524f.png,Clear Path,4.254928112030029,Living Room,Dim
+3b749c9e-eb44-4748-b56e-2485effb1010.png,Clear Path,3.971644639968872,Home Office,Dim
+a43ddb51-513d-49d7-b0e7-687e6c2b1175.png,Small/Low Obstacle,3.1547813415527344,Corridor,Dim
+d6eafbb8-c158-4794-b43a-bc687e880a39.png,Large Obstacle,3.5436153411865234,Living Room,Bright
+76f098f4-413a-4729-9cca-70732eebeac5.png,Small/Low Obstacle,1.1696679592132568,Home Office,Bright
+d694d290-0c5d-4206-8a93-f7d55349eab6.png,Clear Path,2.5431644916534424,Kitchen,Bright
+53cf6dba-55d5-4d66-9f19-bdd30f5afb07.png,Structural,1.6739994287490845,Kitchen,Bright
+2fbd081d-0b13-4f09-9abd-b2cab5270a2e.png,Large Obstacle,3.3351354598999023,Living Room,Dark
+ad7e056c-b627-4dd0-b55f-c6b142bb7d86.png,Structural,3.2804672718048096,Kitchen,Dark
+5bdf34a2-794b-4a17-a4b2-47a13b4d1944.png,Structural,2.578885793685913,Kitchen,Dim
+38358e23-05b5-488b-8cf1-7b800ef54636.png,Clear Path,4.925074100494385,Home Office,Dim
+e152fb5c-01df-4f43-b8fe-e34ccbfe081d.png,Large Obstacle,2.4944405555725098,Home Office,Bright
+c8d1500c-f737-40c9-a5fa-5ecdb338124e.png,Structural,1.455421805381775,Living Room,Bright
+c90485a6-7556-42cb-8227-d66fb0170f4b.png,Small/Low Obstacle,1.8038265705108645,Living Room,Dim
+5decf304-2a9d-4730-8d9b-0970256ef1f9.png,Large Obstacle,2.917682409286499,Living Room,Bright
+f6c31ee6-8441-4f50-84bf-ac4bc08bf59c.png,Large Obstacle,3.178496599197388,Home Office,Dim
+0e450b50-ebc5-4e8f-a725-a0616d956dab.png,Structural,3.749746322631836,Home Office,Bright
+0348d751-b9ed-41e5-bbb4-0e43d4a969e3.png,Structural,2.945955991744995,Living Room,Bright
+f3c360de-0027-4e7b-a9fe-cc7bdb173ead.png,Small/Low Obstacle,0.7807003259658813,Living Room,Bright
+ef429511-f345-4a77-a5a9-daf0293341ab.png,Clear Path,4.483798503875732,Living Room,Dim
+9d90f8ab-788d-4597-8e2d-4de18462a334.png,Clear Path,2.7235183715820312,Living Room,Dim
+1dec1cc5-f180-4af2-b9dd-f0618944d072.png,Large Obstacle,2.2922284603118896,Corridor,Bright
+3ff65a86-0c91-49e1-ba6d-774e77656cbe.png,Clear Path,3.6598129272460938,Kitchen,Dim
+eef80d30-6f80-460a-affc-2d275aaa0372.png,Clear Path,4.847515106201172,Living Room,Dim
+b43f2744-7bd3-4389-872a-3106774cb553.png,Clear Path,1.8633549213409424,Kitchen,Bright
+a6afbf8c-699f-43d9-8662-aa0d1888cfad.png,Large Obstacle,2.1199450492858887,Living Room,Dark
+319429b6-3c67-48e0-943d-f97412659bce.png,Structural,2.4367618560791016,Living Room,Bright
+312f9cdd-9ddf-4041-b290-497e95dd77ed.png,Clear Path,4.957496643066406,Home Office,Dim
+05d4ff0c-de98-427b-8d44-e89d3e5dd622.png,Small/Low Obstacle,1.263399600982666,Home Office,Bright
+28212731-c89e-4d72-be5f-0991aa8f418c.png,Structural,2.9814674854278564,Home Office,Dark
+a92b7e08-ddb9-447d-a42f-a916e402f0b4.png,Large Obstacle,1.8477413654327397,Living Room,Bright
+c0ee88da-0df0-48e3-af42-9387150ebf6e.png,Structural,1.7557423114776611,Corridor,Bright
+8f814b67-30ee-471a-9f6e-911bee36aef6.png,Small/Low Obstacle,1.594918966293335,Living Room,Bright
+cdc07f0f-efe1-4345-b4da-300ebada57d7.png,Large Obstacle,1.991516590118408,Living Room,Dim
+b6013c55-4886-4359-8c53-eb3f0799fe36.png,Clear Path,5.162179470062256,Living Room,Dim
+60d2e741-602c-46ac-b086-af5e6e1b7a49.png,Elevation Change,1.3883280754089355,Home Office,Dim
+42c7a556-9345-41ae-bb63-522c0c47ba56.png,Clear Path,2.8496077060699463,Corridor,Bright
+05bf65e5-4de4-4c38-a647-8149cf449694.png,Clear Path,3.501157522201538,Living Room,Dim
+774bdfbb-0e8d-418d-b7b4-2a63ff21a156.png,Clear Path,3.541968822479248,Home Office,Dim
+d663e560-d7cf-4c26-a719-06b842d44652.png,Structural,2.7172672748565674,Living Room,Bright
+243b9ac6-58ef-46a6-b96e-2740a9cb0c25.png,Elevation Change,2.9920318126678467,Living Room,Bright
+a39c7c5f-c5fb-4a0f-820d-a8d09cb41b80.png,Small/Low Obstacle,1.4489831924438477,Kitchen,Dim
+eb27fe6e-0f43-451f-bbf1-fe7736377cd1.png,Small/Low Obstacle,1.1058136224746704,Home Office,Dim
+f392d5f7-a678-41c8-a276-fbb54d9c3317.png,Large Obstacle,2.0354537963867188,Home Office,Bright
+d2f64026-4d08-4fea-a98f-edf1e0cbd8d5.png,Elevation Change,1.835981130599976,Kitchen,Dim
+410f1795-e0b6-40c2-b94d-3a145e1ef4cb.png,Small/Low Obstacle,1.545898199081421,Home Office,Bright
+4eecd4a3-83ef-4b49-ac08-77e7ea3a7bbe.png,Structural,1.6817691326141355,Living Room,Bright
+86ed8db5-e132-46a0-b747-c7926c19fc60.png,Clear Path,1.757568359375,Living Room,Dim
+49f3cb59-19df-47d7-a3e8-0c826ae22b71.png,Small/Low Obstacle,2.2633211612701416,Corridor,Bright
+103df233-eb1f-4330-a727-642b5422b0b4.png,Large Obstacle,1.785610318183899,Home Office,Bright
+350f02c1-3dfd-4e83-b219-9f69fd7c2aac.png,Structural,3.7382233142852783,Corridor,Dark
+07533eef-c71c-45bd-8d8b-1795568b561c.png,Structural,3.1761634349823,Home Office,Dim
+f01b97f7-0ba0-4ba8-b61c-f9517e93fa74.png,Clear Path,3.1680190563201904,Living Room,Bright
+16351d96-f069-4c6b-bc0d-1cc090f966d1.png,Structural,2.180098056793213,Corridor,Dark
+d0d68153-a597-42fd-a163-addeb9931a6a.png,Small/Low Obstacle,2.254180669784546,Home Office,Dim
+808947b7-f128-4002-a506-6e6ad211d620.png,Large Obstacle,2.3295466899871826,Living Room,Bright
+c5e8e4df-d3bf-4100-bbf5-a11af5f02354.png,Elevation Change,1.4134129285812378,Home Office,Bright
+9a652370-5628-4409-abe5-c28c8a315b5a.png,Clear Path,4.890418529510498,Living Room,Dim
+bdcc0db8-e20e-4c62-a01c-821778ae4068.png,Small/Low Obstacle,1.1812578439712524,Home Office,Dim
+f7fa9679-8dde-4fc0-a4ec-47f6366bc80c.png,Structural,4.550097942352295,Living Room,Dim
+44ab8dbd-f544-4a96-9421-bd1b100163e9.png,Large Obstacle,2.575556516647339,Home Office,Dim
+03e3596f-f1be-4d83-a4af-33e779a20964.png,Clear Path,4.810422420501709,Home Office,Dim
+ff0b323f-b6bc-4f14-9726-655a5427d2ed.png,Structural,2.1807937622070312,Corridor,Dim
+576f0e1f-4f3a-40f3-b315-50c2c168c85e.png,Elevation Change,1.5033657550811768,Living Room,Bright
+bab21ba8-d190-403d-87f9-f84d6e1bba2e.png,Small/Low Obstacle,1.7907493114471436,Living Room,Bright
+1f143ac9-565e-4851-a93b-f3faf296fe89.png,Small/Low Obstacle,2.6879723072052,Home Office,Dim
+ae421547-833a-4260-991e-e07be2fc2e05.png,Small/Low Obstacle,1.5403887033462524,Living Room,Dim
+993e3778-1556-48f6-85a9-aa8e57008aac.png,Large Obstacle,2.4477763175964355,Living Room,Bright
+b3b909d7-8f09-4622-859c-36b630c4f24a.png,Structural,1.3453311920166016,Home Office,Dim
+96510368-f51e-4077-86d9-5aac00b4be50.png,Structural,2.657434225082397,Corridor,Dark
+9ea45439-749c-4ade-916c-cbfbf458d5eb.png,Small/Low Obstacle,2.3409125804901123,Home Office,Bright
+2e197462-ca6d-4b43-b9ac-9459b9cdf3ec.png,Structural,4.325833320617676,Living Room,Dim
+9226cc93-3d9b-4ba9-87d2-43bce06bf88b.png,Clear Path,4.458721160888672,Home Office,Dim
+50c724e2-7b27-4026-bc0f-938a233245a6.png,Large Obstacle,2.2829220294952397,Kitchen,Dim
+7caf50a2-74dc-4199-8b6d-f9b27fb81768.png,Clear Path,4.770055770874023,Living Room,Dim
+a7aa1aef-8978-4459-af5c-4f64908f7405.png,Large Obstacle,1.6323875188827517,Home Office,Bright
+9be97e14-2c15-4af6-8548-d2d1251ee748.png,Large Obstacle,1.9000710248947144,Home Office,Dim
+f04b085f-faa6-4e70-a3b3-692c437cdf5b.png,Small/Low Obstacle,2.0613996982574463,Corridor,Dark
+874b6e51-a183-42db-97df-83f806827e52.png,Structural,2.320246934890747,Kitchen,Bright
+9361dfd1-345d-4bb1-9c54-3426ec562499.png,Structural,2.422652006149292,Living Room,Bright
+89b89966-7e2a-448a-aeb4-eb6d3f2665b5.png,Structural,1.6589725017547607,Kitchen,Dim
+ee17f3e7-d26b-4d7e-956c-848a11a7aa2b.png,Clear Path,3.781738996505737,Home Office,Dim
+11952c72-559a-4280-88ff-fefd1b8b481e.png,Elevation Change,1.1990182399749756,Home Office,Bright
+3b59e9a2-0a5c-437e-be13-8e3fb66bc5a3.png,Large Obstacle,1.428901433944702,Kitchen,Bright
+976a96d1-8a40-4cb5-a3a4-f51eccfffd7f.png,Structural,2.368847131729126,Living Room,Bright
+7d43c017-2046-4d5a-936d-6afa6dfc9c6d.png,Small/Low Obstacle,2.955741167068481,Corridor,Dim
+b25277a0-cd86-4d1d-8d18-cf8d6025ec38.png,Elevation Change,1.9822460412979128,Corridor,Dark
+78b738d7-b0d2-41cf-9b00-d92a7f28d133.png,Structural,2.0308725833892822,Living Room,Dark
+c8917cad-06f0-445e-9627-a0cd3d92fea5.png,Large Obstacle,2.19321870803833,Corridor,Dark
+b4a44cb4-57f0-4a5e-8eef-5cba376a24bd.png,Large Obstacle,1.8298726081848145,Home Office,Dim
+dff8b4c3-732d-48dc-98f2-e357cc2bf0e2.png,Structural,3.716076374053955,Living Room,Dark
+c7669c11-5d6f-48a2-bed8-df11937ad974.png,Large Obstacle,1.383495211601257,Corridor,Bright
+52b77b7a-f4d2-4700-93a4-4d28d19ab5e4.png,Elevation Change,1.9662768840789795,Corridor,Bright
+6b7ac355-0436-467a-9106-47525c1e3968.png,Elevation Change,2.2157576084136963,Living Room,Dim
+6a64ff74-a7c2-4ffa-9969-47d5fc485df6.png,Structural,2.5828487873077397,Corridor,Dim
+163b1176-2628-41ae-ab86-1ee2b5c5af74.png,Clear Path,4.161210060119629,Home Office,Dim
+26d90a45-754e-45be-8221-857978cc34e0.png,Small/Low Obstacle,1.764938235282898,Home Office,Bright
+55163d44-a553-4dde-a47f-7fc05a9e9948.png,Structural,2.666505813598633,Home Office,Dark
+4a264224-e44c-412d-b8c5-3f2475b6b17b.png,Structural,1.935152888298035,Corridor,Dark
+b2ba015c-8294-4fa2-b625-a755b738ff58.png,Clear Path,3.818593740463257,Living Room,Bright
+fef47756-9f3b-4abe-8fd3-9698f539209d.png,Structural,2.888350248336792,Corridor,Dark
+7a21069c-0f7c-4ae1-abdb-c7deebb976af.png,Structural,1.7504321336746216,Kitchen,Dim
+06ca5f27-58ed-48bf-ba27-c9556721ee25.png,Structural,2.3104729652404785,Corridor,Dark
+42450590-8403-401a-b210-940375e8ae0a.png,Small/Low Obstacle,1.2057565450668335,Kitchen,Bright
+00780c02-ee9f-42b6-809d-6cae648ba412.png,Small/Low Obstacle,1.9860997200012207,Living Room,Bright
+c3ba61df-27cd-4a59-b096-aa5fe0cb5948.png,Structural,1.5845292806625366,Home Office,Bright
+53b8257e-0761-41d0-9904-fc3780432ba2.png,Small/Low Obstacle,1.2955317497253418,Home Office,Dim
+e4939c98-ce77-4c00-9b50-21d2ceb1b147.png,Clear Path,3.1800076961517334,Living Room,Bright
+21dbf401-0ba3-47a9-b2ab-acb22291727f.png,Structural,2.0093953609466557,Kitchen,Bright
+23692e2e-f26c-49ef-8252-63fb1b7fe006.png,Elevation Change,1.7881015539169312,Kitchen,Dim
+3493a27b-4d94-49a6-89d6-3fc1e222bc85.png,Large Obstacle,2.2618539333343506,Living Room,Bright
+1f05e7cd-f511-453d-a186-67721bc7ff24.png,Structural,2.47607684135437,Corridor,Dim
+9fc3be23-32bf-455c-ad40-266d8d978394.png,Clear Path,3.428421258926392,Living Room,Dim
+298ec6b8-0938-4d04-807e-0c5d6ab1786a.png,Small/Low Obstacle,2.901146411895752,Living Room,Dim
+e687dc6f-35cd-4632-b298-42e44cff7350.png,Structural,1.955886483192444,Living Room,Dark
+39273305-81f7-495d-aa5e-6f8c6f44fb86.png,Clear Path,4.614482879638672,Home Office,Bright
+da0c73a1-0858-4bb7-b438-083794677a38.png,Large Obstacle,1.8235150575637815,Home Office,Bright
+99dba45a-99a2-40dc-832f-1a17e74295e9.png,Large Obstacle,2.416632890701294,Living Room,Bright
+efbc8648-5c5c-4bcd-9461-9f1efd3a6fef.png,Structural,2.248907804489136,Corridor,Bright
+5781ed6c-cfcc-4934-aa14-28fd22ab65ed.png,Clear Path,2.5979607105255127,Home Office,Dim
+8abd0ca0-66d9-4174-ad24-aba5055a7722.png,Structural,2.2746095657348637,Kitchen,Bright
+fedea220-856f-4f77-8299-6296ec01386b.png,Large Obstacle,3.121953248977661,Home Office,Dim
+3458d222-4652-4197-878e-d6c93ef0f542.png,Large Obstacle,2.766604423522949,Living Room,Dim
+8db71672-a190-41fc-b03d-e22141fee559.png,Structural,2.1077184677124023,Corridor,Bright
+0bf7ceb6-ac0c-4948-a612-f0a56f05de6d.png,Small/Low Obstacle,2.142685890197754,Home Office,Dark
+2dc35b7e-b0ca-412b-9daa-172188c3bc80.png,Structural,2.350893497467041,Home Office,Dim
+5b11ff5b-fb31-4497-9bcc-9d107c4832a9.png,Small/Low Obstacle,1.5603673458099363,Living Room,Dark
+43b37f5a-0e11-48bd-a507-d66aa1bef634.png,Clear Path,3.409188032150269,Home Office,Bright
+b21cf330-0fee-4e72-83eb-fe8781676d65.png,Elevation Change,1.4592649936676023,Home Office,Bright
+85303c14-b686-4890-8f78-ef919331fe8e.png,Clear Path,3.129753589630127,Living Room,Dark
+ec9f4185-e02c-47c8-979d-c73ca8a35878.png,Structural,1.8710381984710691,Corridor,Bright
+3db39150-21f9-48da-beab-414bd0b3a8b5.png,Elevation Change,3.744384527206421,Living Room,Dim
+26a8d52f-4a2c-4268-b69e-97affdd8198c.png,Elevation Change,2.252453327178955,Corridor,Dim
+e684caf3-aba0-4593-a9e9-89f66213f775.png,Clear Path,4.014688968658447,Living Room,Dark
+b6964722-7625-4ac7-adfa-a6bbe983d158.png,Large Obstacle,1.950084328651428,Home Office,Bright
+c49c9f23-0708-4801-bfad-4139cbeb708a.png,Small/Low Obstacle,1.9218961000442505,Corridor,Bright
+c9125e62-838d-463f-9521-37995ffb2742.png,Large Obstacle,1.5734930038452148,Home Office,Dim
+3604bf0f-700b-4154-8be8-b898c02a57e9.png,Clear Path,4.958467483520508,Home Office,Dim
+48414111-4f67-4491-b34f-c94937230067.png,Clear Path,2.752225637435913,Home Office,Dim
+a1907142-8081-4680-8ce3-bc7d175c9396.png,Large Obstacle,1.7730973958969116,Home Office,Dim
+f97c636e-c144-42d7-a48b-105926fd2167.png,Large Obstacle,2.307810544967652,Home Office,Bright
+bccf6ab2-98a5-4690-831c-51d814638cf7.png,Small/Low Obstacle,2.752916097640991,Corridor,Dim
+f9d53288-d055-488f-ae82-3774491c660c.png,Structural,1.6498712301254272,Corridor,Dim
+6b0daa5f-c126-474f-bdaf-c3593d4544be.png,Structural,1.826512575149536,Home Office,Bright
+26f96399-85d1-40bd-8e83-a518ecd8e21e.png,Clear Path,3.620671510696411,Corridor,Dim
+40dbfc48-e33c-4801-b3cb-63bbf9afa7a8.png,Structural,1.789352536201477,Corridor,Bright
+ebffb252-f71c-4101-819e-7320025d1b54.png,Small/Low Obstacle,2.905930519104004,Corridor,Dim
+e7e1e6dc-2241-4e4b-b6c7-af839186ebb4.png,Elevation Change,2.407558917999268,Corridor,Dark
+dd69ca77-5a6e-44eb-925d-155cbb23a8a8.png,Small/Low Obstacle,2.055312156677246,Home Office,Dim
+75c44ce4-8ba5-4ed2-84d0-bc14c03c7423.png,Structural,2.351921796798706,Corridor,Dark
+36104ac1-acc1-4fd1-a5a0-52efeec80680.png,Structural,2.3279120922088623,Kitchen,Bright
+5df4886d-be15-4ce3-a616-95c496b8578a.png,Clear Path,3.785773992538452,Home Office,Dim
+39705193-375a-4cb4-ba3d-531db355d918.png,Small/Low Obstacle,1.13548743724823,Home Office,Bright
+8a787ca9-6d1f-4a6d-9e58-0765f3e1ef01.png,Clear Path,4.337297439575195,Home Office,Dim
+eb8baa76-b143-4fc8-8944-116ed95f9780.png,Small/Low Obstacle,0.98682302236557,Home Office,Dark
+b0353018-3d33-499f-ad55-ba6ea7ff0f03.png,Small/Low Obstacle,1.9432258605957031,Living Room,Bright
+e9550cdd-f546-42b6-bf86-eb28a9fd0cd7.png,Clear Path,3.985707998275757,Home Office,Bright
+9613f9f4-6c93-4bb1-b210-36a0eef48484.png,Structural,2.3858418464660645,Living Room,Bright
+85fe14e2-775a-43bb-be6f-ef54c35114d3.png,Large Obstacle,2.7252004146575928,Living Room,Bright
+54cb6fe3-aef4-4d51-9c89-d5dc05929aa3.png,Clear Path,2.1630699634552,Kitchen,Dark
+3a418b79-8b6c-46b6-adf0-7843277d23c4.png,Large Obstacle,2.265184164047241,Living Room,Dark
+935c3d35-0725-4c29-9a1e-1fba6cd68899.png,Structural,2.889567852020264,Corridor,Bright
+f98d8655-e38a-478e-8d65-84c603f0b3ca.png,Small/Low Obstacle,1.277336359024048,Home Office,Dim
+1995930e-dd62-47ea-904d-1d73925b6edb.png,Structural,2.7776031494140625,Living Room,Dim
+8662b57f-96ed-4a55-b135-1e0d1d1c0745.png,Elevation Change,1.887655019760132,Home Office,Dark
+76286391-45d6-49c3-8aa7-1283890c1261.png,Clear Path,2.949911594390869,Home Office,Dim
+723e4c10-6246-41f7-bacc-76dff7b453c9.png,Clear Path,2.5087826251983643,Living Room,Dim
+3a5287dd-6fe1-49d9-aead-67c1f0ebb1f1.png,Large Obstacle,2.6816272735595703,Living Room,Bright
+86af5c8a-3ef9-4dba-ab17-347b579df7a8.png,Large Obstacle,2.492705821990967,Corridor,Dim
+5bbab3b3-4ead-4b4d-80a0-810786787cd0.png,Large Obstacle,2.171070337295532,Kitchen,Dim
+5ee78228-e8f9-4888-a6dd-98818e47ebcc.png,Elevation Change,1.3551369905471802,Home Office,Dim
+6f0b406a-498e-4d73-895f-1337eabca7bc.png,Small/Low Obstacle,2.1036765575408936,Living Room,Bright
+25986252-5742-4ed8-b5dc-97816d021fda.png,Small/Low Obstacle,2.0494308471679688,Kitchen,Dim
+9bc6ff37-d4e1-43b7-908f-d5a4a631372c.png,Large Obstacle,2.6465377807617188,Living Room,Dim
+08342fbb-fabd-435d-9d27-faf80564fc8e.png,Small/Low Obstacle,2.008469343185425,Kitchen,Dark
+928e09f1-cb49-43ca-a974-bd0c2510b67c.png,Large Obstacle,2.327069997787476,Living Room,Dim
+d9eff868-f6b3-45eb-ad08-7eb72a2dac18.png,Large Obstacle,2.08084487915039,Living Room,Dark
+d1f13679-ec20-46f7-9336-b0ed5c4a69c6.png,Clear Path,3.2926127910614014,Home Office,Dark
+d2a1ab03-830a-4110-aeb2-b2f73816602e.png,Structural,1.7483876943588257,Corridor,Bright
+f05d58de-c1e4-4a48-a1ab-29d5a0903b1f.png,Structural,3.0722410678863525,Home Office,Dark
+e65c4f11-6c2e-4877-8f85-2d6122435f47.png,Structural,2.7480485439300537,Corridor,Bright
+6dc4903e-79c7-4da7-b002-386c33b6f882.png,Clear Path,4.278067588806152,Living Room,Dark
+6d6d31b0-d988-48e4-ac2a-2388c4e9ef99.png,Structural,1.601581573486328,Corridor,Dim
+15aa259b-2643-4398-83b3-cf13e07ca3b4.png,Elevation Change,1.3209466934204102,Home Office,Dim
+60d44a8a-791a-4eba-9736-11cfaec19f72.png,Structural,1.730060338973999,Kitchen,Dim
+cc8831a2-e112-4c30-b96e-c9d5f381c8f4.png,Structural,1.6530832052230835,Corridor,Dim
+c278d6e4-4b70-46cc-a1c9-bcf2f2369d0b.png,Clear Path,2.4189023971557617,Home Office,Dim
+fc6f05e7-722f-4583-a55d-9ee27cc22d74.png,Large Obstacle,2.4094009399414062,Living Room,Dim
+e24ee6e7-c2b0-4239-8a56-d9a7947b2e45.png,Clear Path,4.623830318450928,Living Room,Dim
+a5eb9d26-3741-4f9c-9537-97150a2f3955.png,Large Obstacle,1.6670517921447754,Home Office,Dim
+e832e7f4-d877-42d9-90ab-9b45638a8126.png,Clear Path,2.886940717697144,Living Room,Bright
+43ef27fd-ab08-4f84-ba0a-f45ace52e9ce.png,Large Obstacle,2.392396211624145,Home Office,Dim
+1c0eb005-0583-426b-8da6-e5a76512bcbf.png,Structural,2.094552755355835,Corridor,Dim
+2004a623-d6ea-4e1c-974d-b1fb05758e0f.png,Small/Low Obstacle,1.3068766593933103,Home Office,Bright
+1336928d-14b0-46cc-8dbe-16f775ba48f7.png,Structural,2.1464438438415527,Corridor,Dim
+384782ac-b7fe-43cc-a61c-c1482d2bc2fe.png,Small/Low Obstacle,1.6500566005706787,Corridor,Bright
+49ce335b-2fa9-4929-b0ef-19de9abd65a9.png,Large Obstacle,1.980265974998474,Corridor,Bright
+04c41a5a-f161-4d25-9b1c-8d67ea37bf0a.png,Small/Low Obstacle,1.048389196395874,Living Room,Bright
+4e3ce3d1-fab7-4115-b391-5532af3d7a8e.png,Clear Path,3.0288567543029785,Living Room,Bright
+21a930d1-ccad-4e61-9e1e-088438d83cf1.png,Clear Path,2.135932922363281,Home Office,Dark
+f4877f0f-4b11-4d58-af8b-db8481df9594.png,Clear Path,3.2293832302093506,Living Room,Dim
+1147a4d9-f288-4696-ae5d-085b45b4e4b6.png,Structural,2.458500385284424,Home Office,Dark
+3e144997-4fc5-4313-8b70-31810e953c9a.png,Structural,2.036273002624512,Kitchen,Dark
+910fef55-9800-43eb-894d-d485710ac5c4.png,Small/Low Obstacle,1.779756784439087,Home Office,Dark
+17eb3237-6dc7-401c-a01a-03739863cbdf.png,Structural,2.0139083862304688,Corridor,Dark
+37bf24a0-3b7c-45f0-9936-557501272d63.png,Clear Path,2.9565672874450684,Living Room,Dim
+59c1390e-2fe6-4c39-9f76-e2cd973c0b5c.png,Structural,1.8908878564834597,Corridor,Dim
+4cbd1639-0835-4741-bbf2-db7105ea7455.png,Structural,2.8898627758026123,Living Room,Dark
+bb26736d-7214-4c42-8e43-f6c9457fac4b.png,Small/Low Obstacle,1.708027720451355,Kitchen,Dim
+de727c77-54a6-453a-b0ac-8d53298688cb.png,Clear Path,3.457965612411499,Corridor,Dim
+716de1ed-4d80-4ed7-82e7-869c7fceff91.png,Large Obstacle,2.0549628734588623,Home Office,Dim
+b47c3e7f-8dc7-467f-9aac-f6f4c4afac59.png,Structural,2.9944121837615967,Corridor,Dim
+dbcf1bb1-3425-4968-8b6c-6719dbc96e9b.png,Large Obstacle,2.0658438205718994,Home Office,Bright
+42cd6041-9ee1-4d79-a2ea-2bc27bcbd5be.png,Structural,2.1301398277282715,Corridor,Bright
+1fa7e829-9ad5-4604-b54c-52e950d948a9.png,Small/Low Obstacle,1.2939300537109375,Home Office,Bright
+189b379b-dcfb-40b1-adc8-f7381b980a1d.png,Small/Low Obstacle,2.012980699539185,Kitchen,Bright
+b78523da-51d2-4447-87c9-08484b88b7fa.png,Clear Path,2.6720902919769287,Living Room,Bright
+f0ba7d40-b6ee-4343-92c7-bfa816cc0b88.png,Elevation Change,2.08394455909729,Corridor,Bright
+d35d55a7-2844-4913-b175-62a1659744f0.png,Clear Path,2.7495346069335938,Home Office,Dim
+fffdb7f1-7c6e-4286-a8d4-15488eab689a.png,Clear Path,4.348708629608154,Home Office,Dim
+be2b8658-60cc-4ba5-abfd-662ad3c78fd4.png,Small/Low Obstacle,2.139357805252075,Corridor,Bright
+44cc40ed-006e-4890-8667-2268207c47ed.png,Elevation Change,2.500049352645874,Living Room,Bright
+d76e27bc-105e-4ec7-8290-2325581ccfa0.png,Large Obstacle,3.4914417266845703,Living Room,Bright
+da4dcf77-7289-4fa4-aa26-83e1903933b5.png,Small/Low Obstacle,1.747716784477234,Kitchen,Dim
+6ec08e09-6021-4f3f-bd18-fcb320f3abbe.png,Structural,2.94317889213562,Home Office,Bright
+02ffffa0-7611-4c57-8bb8-ec6cff25dedb.png,Elevation Change,1.8647449016571045,Corridor,Dim
+849549e2-04e9-4112-9ced-de7ebaf3cad8.png,Clear Path,3.4208405017852783,Home Office,Dim
+cb18f3ff-1d56-4084-b4e8-b22030fc11b2.png,Structural,2.186039924621582,Living Room,Bright
+23680cf9-bc86-4a88-b17a-4caf2a34b1ce.png,Large Obstacle,2.6708803176879883,Living Room,Dim
+9f61b1e6-1c7d-41e5-a76a-0e01a8796f81.png,Large Obstacle,1.678040623664856,Corridor,Dim
+eef4a673-4ac3-4e74-ad5c-7e9a106560f8.png,Clear Path,3.1078665256500244,Living Room,Bright
+06f7af4d-4310-48f4-8c7b-2c6acd028845.png,Small/Low Obstacle,1.8144292831420896,Kitchen,Dim
+8dd0eeb5-36e2-41e8-979c-33cff44af6b1.png,Small/Low Obstacle,1.842373490333557,Home Office,Bright
+4faf5c09-692a-40d8-bb34-2a6c92751d76.png,Large Obstacle,1.7247145175933838,Home Office,Dim
+4aabbd58-871e-4ffd-8f9f-9f4a2ac4760b.png,Clear Path,3.249562263488769,Home Office,Dim
+20a540ac-c26f-4fdc-931f-ca2ca5b0c077.png,Clear Path,2.3263089656829834,Living Room,Dim
+33b1a77d-e1af-4888-8325-2814051f074d.png,Small/Low Obstacle,0.995047092437744,Home Office,Bright
+a0cdbf00-b13e-417e-85f3-f3ce8480869d.png,Clear Path,3.7581863403320312,Living Room,Dim
+1f2a2033-adec-4598-a8ed-e7d804e5f182.png,Clear Path,3.7618095874786377,Home Office,Bright
+4a15c4f2-8937-44a6-8b92-8bbdf5cf0305.png,Elevation Change,2.9676852226257324,Corridor,Dim
+3cca8cc1-28c6-4880-808e-35e907b56017.png,Structural,2.648618459701538,Kitchen,Dim
+f06334a4-43a7-4418-b723-d72782da22d1.png,Small/Low Obstacle,2.20806097984314,Corridor,Bright
+4834d00a-302e-4344-83cb-c80d2422b32f.png,Large Obstacle,2.138300657272339,Corridor,Dark
+5227b915-8cad-4ef6-b43b-ca617c86e077.png,Clear Path,5.869564533233643,Corridor,Dim
+9d2ddcad-6d4a-492b-ba64-93d47a4c93e2.png,Structural,2.6854817867279053,Corridor,Dark
+f513f69f-1272-4e7e-8c81-bcc1b3347909.png,Large Obstacle,2.267140865325928,Living Room,Bright
+44df69bd-8042-4ae7-923a-cf75446da109.png,Clear Path,4.258074760437012,Living Room,Bright
+973fdcf7-ab3d-49b6-a2a6-3babf9a8842a.png,Structural,2.2951672077178955,Kitchen,Dim
+653f6910-1646-4f7d-b07f-0d78c4a24455.png,Small/Low Obstacle,1.5020138025283811,Living Room,Bright
+113b5e63-4b00-4863-bf1c-a13f191328c3.png,Elevation Change,1.948888182640076,Home Office,Dark
+1e1caaf0-f4bc-4981-9cdc-512a30c8aa35.png,Small/Low Obstacle,1.8122320175170896,Home Office,Dark
+803b951c-15a4-4600-a813-a4a2c37c295b.png,Structural,3.3040261268615723,Living Room,Dark
+99c18d3f-36c3-4e05-ba5f-5693c867aeff.png,Structural,2.452377796173096,Corridor,Dim
+d55dc8bb-c74a-4a46-95d2-c14cc194bc47.png,Structural,1.6902270317077637,Corridor,Bright
+fad47de5-64fe-4d23-9ba4-3e63880ed029.png,Clear Path,3.5068647861480717,Living Room,Dim
+14760a47-7d72-4bce-924a-103ecdebf2d1.png,Elevation Change,3.389004230499268,Living Room,Dark
+c1cc1788-e437-4776-a7f5-11b265fd8a2f.png,Clear Path,2.5759642124176025,Kitchen,Dim
+5fb9fc76-9b5c-49a5-bbcf-206f95e7f470.png,Large Obstacle,0.9155309796333312,Corridor,Dim
+2ab5ec74-9320-430b-a8c1-22c127fee889.png,Structural,1.553019404411316,Corridor,Dim
+354da64a-4787-4be0-8ef8-56df5acd344d.png,Clear Path,2.763665676116944,Home Office,Dim
+0cd737af-0c8b-4c2f-a7cb-2b8927d9549d.png,Structural,2.732597827911377,Home Office,Dim
+89a09dfa-3c50-47a8-8c47-ec4de34ad279.png,Clear Path,2.888451337814331,Corridor,Dim
+f252ab74-95c9-44fd-ade2-5b65163bb108.png,Large Obstacle,3.84643030166626,Home Office,Dim
+cf89e722-0d27-44e2-880c-7664af272e23.png,Large Obstacle,1.806593656539917,Living Room,Dark
+29c4a436-165d-4012-bcda-abe8b05ae3eb.png,Clear Path,3.1953234672546387,Home Office,Bright
+756c5beb-bca9-464c-ba60-fcade4ac3aa0.png,Small/Low Obstacle,3.6559789180755615,Living Room,Dim
+be9bcb94-f14a-4e20-8227-0594f5650c60.png,Structural,2.58268404006958,Home Office,Bright
+96b9ce16-3058-4ee0-bfd2-8943ddc2c12d.png,Small/Low Obstacle,3.730275630950928,Corridor,Dim
+b866987a-0eaf-46e0-aa49-9264c459e856.png,Clear Path,3.092396974563598,Living Room,Bright
+7ccece6c-f30b-4b15-a11e-d0594e971d1a.png,Small/Low Obstacle,2.526698589324951,Home Office,Bright
+3eacc325-9a32-4a79-8881-aeef903a12a2.png,Structural,3.418186664581299,Living Room,Bright
+324568a1-491e-4fdb-9284-3826ce6de0db.png,Structural,2.2298007011413574,Home Office,Bright
+fe3113e8-e98f-40f4-9a24-4af7d78bb094.png,Large Obstacle,1.7749218940734863,Home Office,Dim
+c3a5d98a-0267-45b5-9b4f-30def66c8d1b.png,Clear Path,2.70188307762146,Kitchen,Bright
+a3f9b64b-4fba-4237-8599-bcf5bac75f92.png,Large Obstacle,3.5712716579437256,Home Office,Dim
+40a6e437-6d49-4f44-b6dc-325a77127945.png,Small/Low Obstacle,1.846019506454468,Home Office,Bright
+1d58f35f-7ab0-4307-ae9d-effd90f44ef4.png,Structural,3.303112745285034,Living Room,Dim
+ce2751f0-96ac-481e-a7c1-79faedef8bda.png,Structural,2.087810039520264,Kitchen,Bright
+2d6b658e-6c0c-4e0a-9bf4-fb2f7e2ab20a.png,Large Obstacle,3.359529733657837,Living Room,Dim
+100d0a3c-63e9-4182-9a53-f1ba5bc7a465.png,Elevation Change,3.263371706008911,Living Room,Dark
+b9808bb7-52e9-40c0-a909-ed7a37179842.png,Large Obstacle,2.3824727535247803,Living Room,Bright
+6dbc3364-07e2-47e6-8046-57e85bb25f89.png,Large Obstacle,2.6701982021331787,Living Room,Dark
+af3ceafb-6ef7-4923-8ad6-faa692c19cc5.png,Structural,2.2542495727539062,Corridor,Dim
+e022336d-dd1e-4005-9dde-73502f782339.png,Clear Path,1.989793062210083,Kitchen,Bright
+2a95864e-38b0-48fd-b256-d103766e0e7c.png,Clear Path,3.837049245834351,Living Room,Bright
+0920484d-caa9-4674-ae66-dc321340f9fa.png,Structural,2.768580436706543,Corridor,Dim
+827912af-70d7-4507-b2df-df20c761aa4b.png,Large Obstacle,3.321908473968506,Home Office,Dim
+79130ad0-72bb-4598-9056-760d96641480.png,Small/Low Obstacle,2.661561965942383,Corridor,Dark
+668f98ed-dd8c-48cf-8b21-705839e89616.png,Structural,2.5076377391815186,Living Room,Dim
+5abe0832-8eaf-47dd-9d83-7535c38ec832.png,Small/Low Obstacle,1.7150475978851318,Living Room,Dim
+f1e24f96-164a-401a-874e-c80290cbb4f8.png,Small/Low Obstacle,2.7585577964782715,Corridor,Bright
+e136e241-4b43-4ac4-bd67-cd86781ccd5a.png,Structural,2.527888059616089,Corridor,Dim
+0b9137d7-e754-4193-be78-0af6aad8890b.png,Large Obstacle,2.469694137573242,Living Room,Bright
+fb33680f-300e-4446-9e44-2ce42b994829.png,Structural,2.3193347454071045,Kitchen,Bright
+b9853e19-a117-4332-af3c-232e4d9aafc0.png,Clear Path,3.470444202423096,Home Office,Dim
+4f5d6921-cd68-48ab-b785-61873c6dc976.png,Small/Low Obstacle,2.966127395629883,Living Room,Dark
+42080131-a176-4b22-a90a-b14bbfcc2c1c.png,Large Obstacle,1.2017395496368408,Living Room,Bright
+a0da2cdf-55ae-4acf-a961-2bbbb4871bc1.png,Clear Path,2.864659786224365,Corridor,Bright
+cefca08a-62db-443c-b5e5-eae910e62aab.png,Clear Path,3.278938770294189,Living Room,Bright
+cb802544-3bd0-4740-9f96-8f40eb95ba22.png,Elevation Change,1.6433939933776855,Living Room,Bright
+0641bb78-3955-420c-b433-43738109e298.png,Clear Path,3.4994242191314697,Corridor,Bright
+060f3ac1-9201-4419-892b-9e4d94148000.png,Clear Path,4.362687110900879,Living Room,Dark
+f61e3ae4-f729-4c65-9363-79addaae7f81.png,Small/Low Obstacle,1.0439714193344116,Kitchen,Bright
+f706dc00-4e3f-4f3c-b534-769219fd3a82.png,Structural,5.233307838439941,Living Room,Dim
+47f34121-dd5a-488b-a27d-98bcf656ada8.png,Structural,2.435097932815552,Living Room,Dim
+b330f154-a060-4e6c-95b8-995464941507.png,Clear Path,4.3628411293029785,Living Room,Bright
+6fe35db7-658f-4ca8-a65e-2ff81fc48a85.png,Large Obstacle,1.4965112209320068,Kitchen,Bright
+18a39727-8cce-426b-8658-acb9375f8140.png,Elevation Change,1.9863165616989136,Living Room,Bright
+6483a81d-551f-4bce-a64c-6c5710ba61de.png,Structural,2.074016571044922,Kitchen,Bright
+aa148550-cf54-419c-aa74-74d405c812d8.png,Large Obstacle,1.685709834098816,Living Room,Bright
+1679030f-6952-41c6-bd62-cba426ff3d9f.png,Structural,2.6077916622161865,Kitchen,Dark
+72b49581-43de-49c4-b97d-25b626292a83.png,Structural,3.269235849380493,Corridor,Dim
+427a1540-63e5-4477-b887-5b326c521beb.png,Structural,3.174557447433472,Living Room,Bright
+03fdfd37-1d84-4d4c-8517-c2186a5854dc.png,Small/Low Obstacle,0.948647141456604,Living Room,Bright
+a0efc5df-d40a-4acf-b2ac-5d27ce984266.png,Structural,2.9229166507720947,Home Office,Dim
+557d3dc9-8681-46de-9cd0-651970b4ac6d.png,Structural,2.4323863983154297,Home Office,Dim
+e50d163c-9ee0-4de0-9368-29e8a9af06b2.png,Clear Path,4.266842842102051,Living Room,Dim
+00fdace0-c4b1-4bdc-8547-a1ed3ffc47b5.png,Small/Low Obstacle,1.1443837881088257,Kitchen,Bright
+e99b8dda-5030-4b49-8d2f-e2c261f855e0.png,Structural,2.5447781085968018,Corridor,Bright
+161514d9-dac0-4948-a069-682aa50aa8cd.png,Clear Path,4.569429874420166,Home Office,Dim
+1d8040b5-3d1f-46b1-a8d5-11308840e3fc.png,Small/Low Obstacle,1.2436975240707395,Kitchen,Bright
+3ce3aecc-385d-4d43-9cc3-8f8d93a4e21e.png,Large Obstacle,2.998800039291382,Living Room,Bright
+0e4a9cd6-f6ef-419d-bb4b-e02720c50a61.png,Structural,2.8183934688568115,Living Room,Dark
+47b4b173-3dd3-4524-b2c0-b28328ec8d6a.png,Clear Path,6.80907154083252,Home Office,Dim
+531604e6-83c0-4287-beed-9d2961365941.png,Small/Low Obstacle,1.1278250217437744,Living Room,Bright
+d02451c3-0c82-4c1f-8276-45fcbae19125.png,Structural,1.4731271266937256,Corridor,Bright
+99edc161-08d9-47f8-b6c2-502aa9a86901.png,Large Obstacle,1.7968894243240356,Corridor,Dim
+57f040c4-68c8-4225-8810-84f0ded9cea7.png,Small/Low Obstacle,2.3292229175567627,Home Office,Bright
+06143eb5-339e-427a-b790-054a410c0a09.png,Small/Low Obstacle,1.3184750080108645,Home Office,Bright
+07a6984f-e23a-494f-854d-d0bc5c5256c4.png,Small/Low Obstacle,2.839524984359741,Corridor,Dim
+d75771ce-2f10-4d0a-870f-ba377cae8b98.png,Structural,2.079399347305298,Kitchen,Bright
+d25be131-18b2-400b-8da0-4baa2bad0b0b.png,Clear Path,4.652586936950684,Living Room,Dim
+cdfe52ab-a30f-44c3-ae3b-33bbf574ef95.png,Structural,2.313946485519409,Kitchen,Dim
+b732745b-76bf-485b-9b49-f2ae52cd0334.png,Clear Path,3.8628218173980713,Home Office,Dim
+220af545-c9a0-4d52-907a-8a6169a0f123.png,Structural,1.9324151277542116,Home Office,Bright
+b408aa32-0794-4bb5-b634-62b783ab7113.png,Clear Path,3.155261754989624,Living Room,Dim
+4ea7ebaa-1821-4952-aa4f-d66219749dc7.png,Structural,2.5624446868896484,Kitchen,Bright
+a9e15336-0029-49f3-ac62-2301a02e8be4.png,Large Obstacle,3.054847002029419,Living Room,Dark
+92418a30-3809-4168-aa16-0bb214b8972a.png,Structural,1.836450695991516,Corridor,Bright
+a86c02a7-8d5e-430e-83e0-65b98afc8a27.png,Structural,2.505845785140991,Home Office,Dim
+6de13781-9c0e-46f7-9f00-72f439ad572d.png,Small/Low Obstacle,1.6889508962631226,Corridor,Bright
+5233f1dc-aa7d-4ff0-a6a3-f2ce4631f0c0.png,Large Obstacle,1.5150868892669678,Living Room,Bright
+0fb03fe8-284e-4f3a-a45b-def03d0e9cd9.png,Clear Path,3.6519033908844,Living Room,Dim
+a8113a9a-7748-4e67-a1ba-1fe9cf4eb114.png,Structural,2.334869146347046,Living Room,Bright
+0fee567b-0ea2-4c9e-b06c-44c917211255.png,Clear Path,5.133912086486816,Living Room,Dim
+fefa9a11-9780-4f44-bcf9-a5f3ae896a67.png,Clear Path,2.9221031665802,Living Room,Dim
+f4cb6792-75d0-4e73-8471-aa8482feb643.png,Elevation Change,1.599177598953247,Corridor,Bright
+d5dd4a4f-3d82-4be8-82d0-8d9782a51795.png,Large Obstacle,3.3845064640045166,Home Office,Dim
+48361986-57a6-4c74-bb2c-c5077be4eabe.png,Small/Low Obstacle,3.141525983810425,Corridor,Dim
+b46d96fc-e61e-4715-9fe0-e8752c45439b.png,Small/Low Obstacle,1.8649975061416624,Living Room,Bright
+f9770f23-eb36-493e-81d8-4a34885973aa.png,Structural,2.751939296722412,Corridor,Dark
+28e5b0da-3853-480a-a803-28c0ec732379.png,Large Obstacle,1.5554741621017456,Home Office,Bright
+9111ee76-e716-4c8f-9f05-d790dfa4296c.png,Large Obstacle,1.4402674436569214,Corridor,Dim
+0858cde3-9aa8-4aaf-93ba-47d66d08799a.png,Structural,2.325387716293335,Home Office,Dark
+4f190b56-f760-415e-b6d4-f14c8763ff3e.png,Clear Path,4.051876544952393,Living Room,Bright
+bcf853b0-174c-405a-8cfe-1686cd8a0cdd.png,Clear Path,4.579345226287842,Living Room,Dark
+659f3dff-d774-452d-bcd7-d316615e6e0e.png,Structural,1.935375928878784,Kitchen,Dim
+491387bf-6b58-4b0b-b144-da59d96165d7.png,Structural,1.8122682571411133,Corridor,Bright
+60f7d887-1a37-484c-adbf-f512d96e121f.png,Structural,2.395902156829834,Corridor,Dark
+e0a89ef5-dab4-4545-a384-289b5f226b6c.png,Large Obstacle,2.7514002323150635,Living Room,Dark
+f2c618d4-55b9-4bf2-add3-cb42bd4866bf.png,Clear Path,2.5789499282836914,Living Room,Dim
+9cc80200-58a8-4efd-b57d-f2b0b3b26e22.png,Clear Path,1.389870524406433,Home Office,Dim
+2eafd6ac-4558-4606-876a-2dce4764cdcd.png,Structural,2.247445821762085,Home Office,Dim
+da14a3b2-af2b-4789-9a3c-ef1a454e99f8.png,Large Obstacle,2.2142651081085205,Home Office,Dim
+7ea4d424-87e1-4293-9584-ba7a70bb1d19.png,Large Obstacle,1.6240510940551758,Home Office,Dim
+0907b983-407a-41be-9c36-c5abb5820022.png,Small/Low Obstacle,1.988335967063904,Kitchen,Bright
+15eb2b9b-da36-4353-972c-16de5a461daf.png,Structural,2.1616854667663574,Corridor,Dark
+c7c305f7-c52d-40b8-b117-c5aefc35aedc.png,Clear Path,4.6068949699401855,Home Office,Bright
+b84c3ee5-6ad2-4c60-a358-c51223c17aff.png,Small/Low Obstacle,3.232916116714477,Corridor,Bright
+bef6696b-fa6b-4ade-b2e2-6dbea7ebf7be.png,Clear Path,3.4765639305114746,Living Room,Bright
+dbf07cb6-05cb-40b6-8e1b-619a09b891cf.png,Small/Low Obstacle,2.0893232822418213,Kitchen,Dark
+3cc46d48-a377-44e6-a9f9-f080db1ce61f.png,Structural,2.6178975105285645,Corridor,Dark
+ead8c075-6766-4165-ae69-b5a56f95e08b.png,Large Obstacle,2.113022327423096,Corridor,Dim
+b570d72d-f612-4a6d-ab6b-87c491417c68.png,Large Obstacle,2.5192058086395264,Home Office,Dim
+e7cd7cfc-1c48-4d28-b870-61040aa6850d.png,Structural,0.9393970370292664,Living Room,Bright
+3c7eade1-d9d3-4934-a40e-5115525b727a.png,Structural,2.4474527835845947,Corridor,Dark
+78e1d8d5-0798-4309-8b7d-61f40e94364d.png,Structural,1.3977181911468506,Home Office,Bright
+14da1ed7-edd3-4eba-956f-b62066497478.png,Clear Path,2.934077739715576,Corridor,Bright
+fe085fe9-adf2-4468-96ba-87f5980bf396.png,Structural,3.29248571395874,Corridor,Dim
+2cfa8c9e-4a83-4b46-a13a-bc95aa6a249f.png,Structural,4.76548957824707,Living Room,Dim
+21f9b0d3-a197-4281-b21a-a65d0bb511e4.png,Small/Low Obstacle,1.5903990268707275,Home Office,Dim
+fa02370e-1973-4b4c-8d33-99ccc4bf4aca.png,Small/Low Obstacle,2.438108444213867,Corridor,Bright
+0d254699-bb5f-428d-a38c-0a7d1b110005.png,Large Obstacle,2.422302722930908,Living Room,Bright
+b1341679-670f-4e09-a7da-30f3777707e2.png,Small/Low Obstacle,1.7327595949172974,Home Office,Bright
+b07d1d24-7ff9-4011-8097-13b2d79deea6.png,Structural,2.429823398590088,Home Office,Dark
+4e66bbae-6c7e-4aad-9691-96417bb9b571.png,Small/Low Obstacle,1.1068137884140017,Kitchen,Bright
+f0a6b32d-c496-42ec-b30a-2261665d7120.png,Elevation Change,3.273977279663086,Living Room,Dark
+162942e0-f74a-4325-bdd2-af7c73a4547a.png,Clear Path,4.9029645919799805,Living Room,Bright
+fffcd879-be2f-4eb2-919a-0bf36a8dd6a5.png,Large Obstacle,2.2761664390563965,Living Room,Dark
+54e60f01-c05c-4548-8c11-ec7f41adde82.png,Large Obstacle,1.7447737455368042,Corridor,Dim
+31e8a318-e7df-476b-ba5a-860b5d5a67aa.png,Clear Path,2.2288949489593506,Home Office,Dim
+3c20189f-dc14-4c5c-ac24-97ac7ee11d54.png,Small/Low Obstacle,2.029207229614258,Home Office,Bright
+4b16acf3-64c5-474d-a008-8fab208f6184.png,Clear Path,3.1841516494750977,Living Room,Dark
+c08b3dde-fa85-4fdb-ac60-210bf7c44f5c.png,Elevation Change,3.643851518630981,Corridor,Dim
+ba476c22-2e2c-4313-b4a6-7af11cd91cf1.png,Large Obstacle,1.816896677017212,Home Office,Bright
+724c6829-4916-4474-8250-bafd36be35ef.png,Large Obstacle,2.0225062370300293,Home Office,Dim
+c5457379-e215-4c20-9ac7-98e7e6e424c2.png,Structural,2.6523683071136475,Kitchen,Dark
+9ffe1bb5-0aec-489b-897d-f3283fe307d0.png,Small/Low Obstacle,2.4299495220184326,Living Room,Dim
+5b46beba-3f28-497a-8cbd-cf6154e5b701.png,Small/Low Obstacle,1.0775185823440552,Home Office,Bright
+22f16693-d156-483f-a8e8-73586e041c42.png,Small/Low Obstacle,1.217574954032898,Home Office,Bright
+ee72a12c-93ed-47ad-b21e-13f31f40de42.png,Small/Low Obstacle,2.6636300086975098,Living Room,Dim
+f1824561-7b69-4628-b1d8-b5b9e66bbffd.png,Large Obstacle,1.7899216413497925,Corridor,Dark
+a4156ad5-3d4a-4c81-b23c-46de53df00e7.png,Structural,1.9646666049957275,Kitchen,Dark
+6d1c66b8-ff50-4fbd-ab5a-c4e9ab86c4a6.png,Structural,4.86945915222168,Living Room,Dim
+9647d295-1656-41e2-bf00-b95840bce517.png,Elevation Change,1.705280900001526,Home Office,Dim
+a92cc490-2e7d-43bd-9114-6b83b2085663.png,Clear Path,1.739963173866272,Living Room,Bright
+1b122fdf-ff64-4737-8aec-3f88827d2c89.png,Clear Path,4.560547828674316,Living Room,Bright
+6e308b70-d25e-4eea-9809-1cbac0600dbd.png,Structural,3.201256036758423,Living Room,Dark
+9cec654a-dad8-4f30-b63a-950cd7780410.png,Elevation Change,1.2748936414718628,Kitchen,Bright
+a1a7f318-f85f-4238-b9e9-aa3cab739890.png,Structural,2.8585205078125,Living Room,Dark
+f496cf5d-7fa8-4908-8f96-3becb133a7e5.png,Structural,1.9025907516479488,Corridor,Dim
+3206619c-be3d-4553-946d-1f67d7fe8020.png,Small/Low Obstacle,1.147446870803833,Living Room,Dim
+a4d3b2aa-6099-4f2f-9930-6ed97d7e3182.png,Elevation Change,2.4143388271331787,Corridor,Dark
+f34b2dab-8f3b-4e69-966f-47bf35794245.png,Clear Path,3.0776913166046143,Kitchen,Dark
+73ac5569-2fe0-4a36-beee-4c23f04fc5b6.png,Structural,1.7331290245056152,Living Room,Dim
+8d5a1b8b-3992-4c26-86f7-e9eccd20cb4a.png,Elevation Change,1.1340413093566897,Living Room,Bright
+f5de758e-7f63-410d-86b5-d9ae59ee8485.png,Structural,2.110803604125977,Home Office,Dim
+cfb1c562-f43a-4d1f-a386-4cd8e84379e1.png,Clear Path,3.385107040405273,Living Room,Dim
+85047fb9-b2ad-4681-9dd0-be6693075a56.png,Structural,2.640667676925659,Corridor,Dark
+da41f674-952a-4e10-9943-42c410b759f8.png,Structural,2.908989667892456,Living Room,Dim
+a14b8b83-5dcc-4e95-b640-97ddc756c1e8.png,Structural,4.025435447692871,Corridor,Dark
+0ea7e413-d0f7-47ab-9348-708735139f65.png,Large Obstacle,2.045036554336548,Corridor,Bright
+55441b5e-a2c8-44d6-8d86-ae0cc90f3212.png,Clear Path,1.9975857734680176,Kitchen,Dim
+d4048bdc-cbc8-40fe-b911-de42961da249.png,Clear Path,3.816959619522095,Living Room,Dim
+af4168f9-f5b7-4767-9115-a50e16f91ab0.png,Clear Path,2.388571262359619,Kitchen,Bright
+42c597e8-2bd7-4a35-b5e6-f8c6ece1124b.png,Large Obstacle,2.083881139755249,Home Office,Dim
+d50cd310-6420-47cd-9ac0-983af5218a70.png,Clear Path,2.967905282974243,Living Room,Dim
+b99bb5cc-b3ab-4516-99f8-5a7dd401585c.png,Large Obstacle,3.3483805656433105,Living Room,Dark
+f5019b75-8eb7-434a-a21f-855f1517bb15.png,Small/Low Obstacle,2.717457056045532,Living Room,Bright
+81ca491a-97f9-4282-8e27-76d3b8f4217b.png,Clear Path,4.98289680480957,Corridor,Dim
+ddedcee8-0ab6-4570-935c-4b3e44cbf5a0.png,Clear Path,3.2763893604278564,Home Office,Dim
+c4187c40-0539-4322-bc05-ef99000db4b8.png,Structural,2.572638511657715,Kitchen,Bright
+a6c9d2b1-f49b-4f12-8b89-b83f4e00c540.png,Large Obstacle,2.063429355621338,Home Office,Bright
+cdd9d0ef-2faa-4c40-974f-7fa1c7ec38c4.png,Elevation Change,0.9851064085960388,Home Office,Bright
+7e0b8a46-19bc-46be-a5e4-ceefe7a4e44a.png,Clear Path,3.9847912788391113,Home Office,Dim
+733f7e1b-f369-47ea-aa91-b71ce27443e9.png,Small/Low Obstacle,1.137248396873474,Kitchen,Bright
+0d324382-a157-4f68-b8ff-1ddaf736f8b4.png,Elevation Change,2.645482063293457,Corridor,Dim
+85ddad6f-4595-48c8-8142-129fca64c387.png,Small/Low Obstacle,1.3253198862075806,Kitchen,Dim
+e1fc6cd9-8e79-428a-b794-eae20124b266.png,Structural,2.8940603733062744,Home Office,Dim
+8943ca44-2b4b-447c-ae3b-5485ed30742b.png,Small/Low Obstacle,2.191230773925781,Home Office,Bright
+9df7e881-21f6-43a0-9469-1a89cf7a02ef.png,Small/Low Obstacle,2.643789052963257,Corridor,Dark
+cfd1c578-2c92-41b8-8232-85a63251eb13.png,Large Obstacle,2.6174633502960205,Living Room,Dark
+2fab725a-f13b-47ce-8aee-4f2e16cc5473.png,Structural,2.376373052597046,Kitchen,Dark
+14e1231a-b13b-4c98-abd4-16f31158a6c5.png,Structural,1.9935051202774048,Kitchen,Dark
+f8ac417a-da00-49eb-b3b9-fc1a81c91104.png,Small/Low Obstacle,1.766010046005249,Corridor,Bright
+fab34b99-1205-43b9-adbb-dc9a1e0e0de8.png,Large Obstacle,2.0818324089050293,Kitchen,Dim
+ab76a8a6-f767-47d4-8422-39378e809edb.png,Structural,1.824751019477844,Kitchen,Bright
+75e8dd3b-cefe-4fcf-9c74-bf92efbd78bb.png,Clear Path,4.483458518981934,Living Room,Dim
+c271509d-6f06-4cdb-9daf-0390c4c645d5.png,Structural,2.715100049972534,Home Office,Dark
+edc050ae-58b9-45ac-bf4b-57c2b2548295.png,Clear Path,4.346104621887207,Corridor,Bright
+0e4a9357-7093-4b6d-b96c-481d84771a15.png,Structural,2.250279188156128,Kitchen,Dim
+680905b4-458c-40c9-97c2-faf54a3509b3.png,Clear Path,3.5001471042633057,Living Room,Bright
+ab7b9e65-496a-455c-8b48-f03ce0fb9f84.png,Small/Low Obstacle,2.6373300552368164,Home Office,Dim
+520e3d61-1825-4740-8adb-22783606a10d.png,Structural,1.7781105041503906,Living Room,Dim
+a1a1a140-9b0a-4c36-a9b1-232f82be0d1d.png,Structural,1.7407748699188232,Corridor,Bright
+88f33699-e882-44b0-ba22-a240d03f7eca.png,Structural,2.9687788486480717,Living Room,Dark
+5907bed6-bfe2-4b7e-af91-a2867b398652.png,Structural,3.4917967319488525,Corridor,Dim
+f8743390-66be-4516-aeff-6e4d05bbe120.png,Small/Low Obstacle,1.9053096771240237,Home Office,Dim
+735d7dd7-91c8-4dd6-9df0-d795c131dfa6.png,Structural,1.744619369506836,Kitchen,Bright
+d973edd5-56e7-4620-b44f-c3dadb1a88b7.png,Structural,2.018007040023804,Home Office,Bright
+386688ec-5aef-4b68-be46-3d1c5383a336.png,Small/Low Obstacle,2.224290609359741,Home Office,Dim
+bc46b4a4-9eb2-4697-b1be-2ceec8927385.png,Small/Low Obstacle,2.469312906265259,Living Room,Dim
+02d2dd53-a806-4434-8f83-8a355f51cb5a.png,Structural,1.9621522426605225,Corridor,Dim
+80d3369d-4584-4abc-899e-d0bfaf21f0ad.png,Large Obstacle,2.291358709335327,Home Office,Dim
+f6cd6dc2-287e-438f-b5d1-2c4d6698dd5b.png,Small/Low Obstacle,2.888204574584961,Living Room,Bright
+6bf71026-1bc0-4d4e-9ad7-9dfc731c00c3.png,Large Obstacle,2.318396806716919,Living Room,Bright
+8b14f393-ec4a-45a9-9e6f-4a39d594dde9.png,Elevation Change,1.5024125576019287,Home Office,Dim
+e95d602a-568d-40be-9219-66eb5ce112c0.png,Structural,2.26137924194336,Kitchen,Dim
+d92a67bb-e818-4799-8fe9-d4e28bc54087.png,Structural,4.972018241882324,Living Room,Dim
+db00fa9d-cec4-47fe-b632-7dffe3131dfa.png,Structural,2.547786235809326,Corridor,Bright
+928ba143-b511-4a92-8606-d4bb75498759.png,Structural,3.966176748275757,Living Room,Dim
+90daec00-d085-4564-8986-e9966b5c7c25.png,Clear Path,2.440511703491211,Kitchen,Bright
+f7329dcf-b015-4e00-ad40-e449a618764d.png,Structural,2.200403928756714,Kitchen,Dark
+61d66b1a-eaf0-4d85-b718-c3280b9f570b.png,Structural,4.450338363647461,Living Room,Dark
+3b784f08-74d6-4412-a4b8-ff93fb723c1e.png,Small/Low Obstacle,1.9886958599090576,Corridor,Bright
+cade0b0e-3493-40b3-ab85-3413dd15db4b.png,Small/Low Obstacle,0.8613613247871399,Living Room,Dim
+29db2dfd-ddd9-4973-9f93-4b8175dfc51e.png,Structural,2.6288838386535645,Living Room,Dim
+cb1026bd-2c06-425e-98a1-ff32f6266b0d.png,Clear Path,3.13391637802124,Corridor,Dark
+5766f0c9-e67e-4f84-ba53-1cb28fc3f26c.png,Small/Low Obstacle,1.7162411212921145,Home Office,Dark
+d03bfc29-c457-4fac-b6a8-1fd812f4d824.png,Structural,1.832167744636536,Home Office,Dim
+dacc587f-b77f-4e1f-b16f-dd9350e820d1.png,Structural,3.014864444732666,Home Office,Dim
+bb608159-3fb6-45cc-b36a-7c48a0e8072f.png,Structural,1.6708523035049438,Corridor,Dim
+97daf4cc-2273-4228-affb-d71ac26fca44.png,Clear Path,4.116795539855957,Home Office,Dim
+00e189f0-902d-4db2-9e33-d450daa5cf91.png,Large Obstacle,1.981481671333313,Living Room,Dark
+3c170b97-1894-405e-90ed-f4db25c83a53.png,Clear Path,3.274610996246338,Home Office,Dim
+ffe5f37c-8725-41c5-af8e-8ff8b783dd72.png,Structural,1.8356633186340328,Living Room,Bright
+30cb539c-eb16-4938-ad9f-e57d24ac1f58.png,Large Obstacle,3.669209480285645,Home Office,Dim
+612ca407-1a27-4be9-b16b-64ed4cc87e20.png,Clear Path,5.006584644317627,Living Room,Dim
+af5ae643-0c23-4902-bc02-c2aaa8a82cf9.png,Elevation Change,2.6395909786224365,Corridor,Dim
+8f0211d3-63fd-40a9-b2ce-577ef56306a2.png,Clear Path,4.465243339538574,Living Room,Bright
+49a137c8-3039-48a7-bc22-c52af6b0c722.png,Structural,1.9256569147109983,Living Room,Dim
+21336911-61e7-4610-81f6-ddb4efe497d5.png,Clear Path,4.089962005615234,Living Room,Dim
+bdd1542e-982d-4993-9d40-0f17a83b83ed.png,Structural,2.554929256439209,Home Office,Dark
+1c1d6b15-13f7-4e76-a089-a6af73185ed3.png,Structural,2.098041534423828,Kitchen,Bright
+af89ed1b-0ed6-454f-ba13-95954542ea94.png,Large Obstacle,3.0414786338806152,Home Office,Dim
+2fa06e74-861f-4f66-99cf-97d69f24bddc.png,Small/Low Obstacle,1.5687060356140137,Kitchen,Bright
+f59c08e3-7317-4c65-bd05-b56bd41b5a55.png,Structural,1.7574312686920166,Corridor,Bright
+63743aac-b4db-4752-86b2-0a94cf009611.png,Small/Low Obstacle,2.429048776626587,Corridor,Bright
+c39d7c5f-1e46-440e-b99a-8dd1e19c1415.png,Structural,1.6762990951538086,Corridor,Bright
+94223183-4734-4f5e-b244-0f3369f8f823.png,Clear Path,3.5310752391815186,Home Office,Dark
+35a3b65c-f38a-48c2-8587-13d1e5c8364c.png,Clear Path,5.632054805755615,Corridor,Dim
+f5aa37cb-56a1-4ace-b77c-b2b47b664ae9.png,Large Obstacle,1.5880779027938845,Corridor,Bright
+0227837b-286f-4c0d-b919-c82818fc502c.png,Small/Low Obstacle,3.039251804351806,Corridor,Dark
+6bd207d3-b2b9-45fc-9402-5dc3b745d165.png,Large Obstacle,2.205488443374634,Home Office,Dark
+fb1a0a91-990c-4ff3-ad3f-ca56b3a10bee.png,Large Obstacle,1.7963898181915283,Kitchen,Dim
+ceef7c17-a4ce-4010-bd66-e460d1efeae0.png,Elevation Change,1.6555851697921753,Home Office,Bright
+b8f05f95-73f0-4120-a733-5bc4cc7fae8c.png,Clear Path,2.062629222869873,Living Room,Bright
+c9a013ac-499f-4bc1-a515-9eac2c0fdc73.png,Large Obstacle,2.5107455253601074,Living Room,Dark
+5236c168-4fda-45cc-83e5-b466abdfc849.png,Large Obstacle,2.144603490829468,Living Room,Bright
+9d0a4918-1621-42db-9858-981c32e15236.png,Small/Low Obstacle,2.685908079147339,Home Office,Dim
+a43315e1-46cd-4e32-a158-522b60d7d9d7.png,Large Obstacle,3.717580318450928,Home Office,Dim
+70c44ced-01ce-45b0-81a1-bf1fde2fc11c.png,Structural,2.831110715866089,Living Room,Dark
+264c9548-c8ea-496d-ae30-735bfac96493.png,Clear Path,4.274354934692383,Living Room,Dark
+7d459e18-2bc6-4a9e-87b1-c5b3e50231b2.png,Elevation Change,1.2065774202346802,Home Office,Bright
+1645c959-8fb3-4c16-bd4e-d49fef525da1.png,Elevation Change,1.1723421812057495,Home Office,Dim
+e5b08675-8573-454e-96af-9a64a9108b05.png,Small/Low Obstacle,2.0978035926818848,Home Office,Dark
+e28b27c1-ba97-4540-8ccb-ce5252bf72a5.png,Small/Low Obstacle,2.0093657970428467,Home Office,Dark
+ddf6daed-f12f-4c35-b03f-a49b6afbb1eb.png,Clear Path,2.4189722537994385,Home Office,Dim
+225f8a80-2b03-4eae-827e-825d1c5a970c.png,Large Obstacle,2.597414255142212,Home Office,Dim
+f2de6a69-918c-4608-b25e-fae805129b13.png,Structural,2.310096502304077,Living Room,Bright
+d6a700f2-7fb4-4a7e-80aa-12d0fc6e49ba.png,Clear Path,4.546337604522705,Home Office,Dim
+9a874d0a-5f32-4f5f-bbca-c841eff4533c.png,Clear Path,4.214192390441895,Home Office,Dim
+86c983d1-5d23-4db2-a959-c99a6ed57c81.png,Structural,2.8377392292022705,Living Room,Dark
+ffa3e135-4abf-4cc7-b36e-e183fbdd9311.png,Large Obstacle,2.617499351501465,Kitchen,Dim
+dac60aae-a3f4-419f-81d5-2831071f32e7.png,Clear Path,2.535995960235596,Corridor,Bright
+82064b08-39ba-4b4e-aa2d-e134163685e5.png,Large Obstacle,2.13198471069336,Corridor,Dark
+d2929cbf-d0b2-40a4-af7e-67fc6178e4a4.png,Small/Low Obstacle,2.9904229640960693,Corridor,Dim
+4d72591c-e9f7-4531-8616-86fe0b036e1c.png,Clear Path,2.84537124633789,Home Office,Dim
+ed243342-2ec4-4525-99c8-97038d95e08c.png,Large Obstacle,2.0898325443267822,Kitchen,Bright
+a6c7d58d-9369-4be1-acb1-72b2d3968b23.png,Clear Path,4.253176689147949,Home Office,Dark
+5cd226c6-706e-4628-a4e3-fcab8639df8c.png,Small/Low Obstacle,2.3383138179779053,Home Office,Bright
+4f45dee6-023e-49e5-a534-e5bb2dcb4b3f.png,Structural,2.5316390991210938,Home Office,Dim
+93c4f530-81d1-46fe-8609-5d776905187e.png,Elevation Change,2.10406494140625,Kitchen,Dark
+39f8b3db-45ac-4d27-a6c3-dce0e9a4df89.png,Structural,2.3583617210388184,Living Room,Dark
+2a620653-7f0a-4a9f-9352-e18ac6969166.png,Small/Low Obstacle,1.8803706169128416,Home Office,Dim
+d98cd6d8-ce75-46c5-b498-705a16f1c0f8.png,Small/Low Obstacle,1.412370204925537,Living Room,Bright
+11e818db-ba90-46a1-8fa1-f3d8b91b7f14.png,Clear Path,2.8854901790618896,Home Office,Bright
+fd860745-84d1-4cae-bc61-a83c749833ec.png,Clear Path,4.713891983032227,Living Room,Dim
+23839352-eb06-4e78-aef3-b1ec7480ecde.png,Elevation Change,1.0508450269699097,Home Office,Bright
+5414d819-e3e5-4a22-8f7e-3241d10b29ab.png,Elevation Change,1.87186598777771,Corridor,Bright
+cbf95e28-5455-4a99-a745-66cbc6e39562.png,Large Obstacle,1.378474473953247,Home Office,Dim
+33c35609-6a14-4322-9a8d-9e14fded36b1.png,Clear Path,3.897714614868164,Home Office,Dim
+8dd85604-623c-47a3-b9e4-57b9f7ec3a0e.png,Clear Path,3.28486704826355,Home Office,Dim
+c52bc7bd-55b6-4258-8a40-3b3579b7350d.png,Clear Path,3.0526883602142334,Corridor,Dim
+75a38381-3ec8-4827-8c51-bf5b60b6f70f.png,Structural,1.7610347270965576,Home Office,Bright
+83458f76-cc42-4e73-8f8a-1096068b44e0.png,Small/Low Obstacle,2.373367547988892,Home Office,Dim
+d14076f3-4cfc-4fd8-a2f1-10b1cb767bca.png,Clear Path,3.7004873752594,Living Room,Dim
+ab7b07b5-edb0-4a79-acdc-70da627acf80.png,Clear Path,4.587616920471191,Home Office,Dim
+16fd7d8d-c617-4e45-834b-fa3d8ff12d6f.png,Clear Path,3.9998157024383545,Home Office,Dark
+3ccb0f5d-a685-4732-ac25-00e0177feef7.png,Large Obstacle,2.2829160690307617,Living Room,Dim
+d0e932f8-dd31-484a-9149-5720935716eb.png,Large Obstacle,1.7532036304473877,Home Office,Bright
+59bb91d8-f27d-4fe8-85f2-ddbb985bca35.png,Clear Path,3.185677051544189,Kitchen,Bright
+0ad9f208-be82-4320-ad53-9b53a1b78efe.png,Clear Path,3.728068590164185,Living Room,Dim
+1e114420-7b4e-4ca9-854a-138932922fef.png,Large Obstacle,2.692976236343384,Living Room,Bright
+de4c1e2c-87b1-4794-aec8-85ff45616f91.png,Structural,2.328892946243286,Corridor,Dark
+57147a22-07fd-4368-885a-b6a66fdefb0f.png,Large Obstacle,1.1491098403930664,Home Office,Bright
+806c1fa0-e616-406c-b259-5a399fe62015.png,Structural,2.863885402679444,Home Office,Dim
+be0d6bcc-9be3-45c7-ad98-7bd8305b46ce.png,Small/Low Obstacle,1.835012912750244,Living Room,Dim
+19399e44-98fa-4748-994a-f3a8d342f15f.png,Small/Low Obstacle,1.3175429105758667,Home Office,Dim
+77ff91bd-6f70-4235-80e6-8f5046b80b2d.png,Clear Path,2.688140153884888,Corridor,Bright
+ec5f23fc-d292-4692-bcb4-c4da71977d90.png,Structural,2.337876558303833,Living Room,Bright
+dd59884b-f755-4c0c-b1c4-75c95cd60c02.png,Structural,2.080650568008423,Kitchen,Bright
+8596a47e-4109-47a3-907f-ae56e02f5832.png,Large Obstacle,1.4370265007019043,Corridor,Bright
+de25b730-d158-40b4-90aa-15a0d1a89a43.png,Small/Low Obstacle,2.631544351577759,Corridor,Dim
+f801606a-2106-4001-94f7-fd37309406cf.png,Small/Low Obstacle,3.0305521488189697,Corridor,Dark
+89657dbf-d1bb-44bc-ab1b-6f05aad0bb84.png,Small/Low Obstacle,1.3719544410705566,Home Office,Bright
+f666a0b0-c3a9-4182-b4a6-f7fad0df6344.png,Small/Low Obstacle,2.172544240951538,Home Office,Dim
+a458ab30-84cb-49df-8096-2c2a787663ee.png,Small/Low Obstacle,1.4927743673324585,Home Office,Dark
+f0fe80d4-9d56-4b84-9528-84cd4cf0a79b.png,Small/Low Obstacle,2.076056241989136,Corridor,Bright
+75b65a2f-ab06-4191-be08-97e9a83644c1.png,Clear Path,3.749821662902832,Home Office,Dim
+fc8cdb57-ece8-494d-8499-642bd31422b4.png,Large Obstacle,2.4475884437561035,Home Office,Dim
+569ae46f-e592-4055-b753-572eb5702464.png,Clear Path,5.069859981536865,Home Office,Dim
+940c0314-e04b-4252-bcea-2b5dec0e1cfb.png,Clear Path,3.188423156738281,Home Office,Dim
+686ef571-720f-4a72-98c2-d6497b5c21ad.png,Clear Path,4.631295204162598,Living Room,Dim
+4a318586-f0f6-4076-b016-5d3d178dacea.png,Small/Low Obstacle,2.6525347232818604,Living Room,Bright
+cb0dd48d-7586-4cd3-b280-2990d78a2bf5.png,Elevation Change,2.159665107727051,Home Office,Bright
+852f1f07-3753-48bb-8797-84dd9d35d42f.png,Clear Path,1.8716872930526731,Kitchen,Bright
+7c1c9526-d440-4e3d-9176-04bfec1a32f3.png,Large Obstacle,2.2333731651306152,Home Office,Dim
+d838abc0-1269-4759-96e5-df3f735c4dd8.png,Small/Low Obstacle,1.7220659255981443,Kitchen,Bright
+a3e8bb78-f00f-44b8-a476-d225e05e7624.png,Elevation Change,1.0968201160430908,Home Office,Dim
+03f3eeff-122a-44af-b411-598d1ef9f9b4.png,Large Obstacle,2.411073923110962,Living Room,Bright
+4fcec746-6497-40d2-ac66-181ec5fad019.png,Structural,1.7018409967422483,Home Office,Bright
+5fa65305-90d3-4e77-ac8b-74fbd3d5fd3c.png,Clear Path,3.1609349250793457,Living Room,Dark
+5b5227ac-974b-4c10-b1e1-4c1fb2318c70.png,Structural,1.5480502843856812,Kitchen,Dark
+024fc629-e220-4da2-a1d1-415f889fccc7.png,Small/Low Obstacle,2.203498363494873,Living Room,Bright
+ea0c2f7e-11a8-40a8-a5bd-a64caf5a25a2.png,Structural,2.861044883728028,Corridor,Bright
+2cd5280d-667c-4dbc-8f70-d0598120e9bc.png,Clear Path,3.8173227310180655,Living Room,Dim
+dfd245a6-ffb7-4f7e-aa90-d56daa85dbde.png,Structural,1.993901014328003,Living Room,Bright
+ea7abcbc-5e0b-482b-ae65-c95853bf30a5.png,Large Obstacle,2.102238178253174,Living Room,Bright
+159b5171-1e00-4adb-a91e-e32bb6498183.png,Structural,2.105191946029663,Corridor,Dim
+e88dcf04-d719-49dd-afae-11ee23fe99d2.png,Large Obstacle,1.2977896928787231,Kitchen,Bright
+e70b7ae0-aca6-4255-b6b8-5013f7619ebf.png,Structural,1.7672840356826782,Kitchen,Dark
+c31fcc16-5c70-49e6-9a3c-e2b3a2ebf80e.png,Clear Path,3.3624467849731445,Living Room,Bright
+07aca7c5-f3a2-48cc-ab9b-04a058783828.png,Structural,1.9382423162460327,Home Office,Dark
+adbe8bf4-85bd-400c-856c-588f0d9301cc.png,Structural,2.1976592540740967,Corridor,Dark
+fbdd4edf-84fb-495a-a08f-782df7794c7d.png,Structural,2.778270483016968,Living Room,Dim
+88930b16-6d72-4849-b378-86691b42318d.png,Elevation Change,3.0644466876983643,Living Room,Bright
+08fd544f-df73-485a-af44-de0175dfa248.png,Clear Path,3.5545716285705566,Home Office,Dim
+b2089e77-ea0a-4fbf-8a62-635186220555.png,Small/Low Obstacle,2.6941967010498047,Corridor,Dark
+22911506-1d4a-4a1a-8aa3-72c8469225d1.png,Structural,2.180539131164551,Living Room,Dim
+2bcd9a23-f851-4723-b9c4-007aba9fa400.png,Small/Low Obstacle,1.6905525922775269,Home Office,Bright
+a682a021-cc6c-4e81-bd73-6126ba10ae29.png,Large Obstacle,2.890945672988892,Home Office,Bright
+5961e817-ee10-4079-85e1-e82bb98427db.png,Clear Path,2.642132520675659,Corridor,Bright
+202cde10-6e66-43eb-ac0b-ab5bae008e44.png,Large Obstacle,3.124490261077881,Living Room,Dark
+71dbe7c1-42be-46f6-aecd-a8f932338beb.png,Structural,2.216705799102783,Corridor,Dark
+9e9423ab-5475-4542-afa9-a026d137fdc7.png,Small/Low Obstacle,1.66082501411438,Living Room,Dark
+0224799b-d113-4b69-b304-e4c9f3020868.png,Small/Low Obstacle,2.392688035964966,Corridor,Dark
+c930e8f3-757c-4244-bd2b-d5618ee9e670.png,Small/Low Obstacle,3.3925487995147705,Home Office,Dim
+49c37455-8eff-4703-9e41-3aad13d5057a.png,Small/Low Obstacle,2.632508516311645,Living Room,Dim
+26e573ba-a1e4-4473-8dfb-1d6a5504a95d.png,Clear Path,3.5380427837371826,Living Room,Dim
+d0042d1f-3790-4ad0-b560-5fb9b6519dd2.png,Structural,1.833566665649414,Living Room,Bright
+f184e8a5-4bd3-4c1e-b6f7-c1021e17f4e4.png,Structural,4.040698051452637,Corridor,Dim
+6012fc92-f751-4aa7-8ec6-5833b5e25b5f.png,Clear Path,3.440938949584961,Home Office,Bright
+3c4529f1-c6bb-4525-b826-b62a81abe785.png,Structural,1.800516128540039,Living Room,Bright
+c518dea2-1bf3-460c-9ca3-f74288ed5980.png,Small/Low Obstacle,1.1243492364883425,Home Office,Bright
+16c49a87-1952-4610-b4a5-4391a7609c21.png,Large Obstacle,1.63798725605011,Living Room,Bright
+c3728174-def4-49be-ae52-f8f9396a34c8.png,Clear Path,2.7582032680511475,Corridor,Bright
+a8cab2b7-1167-41a7-bc67-25e232f516a2.png,Small/Low Obstacle,3.657596111297608,Corridor,Dim
+c0ef0eae-a5c2-4746-af4d-d672944ec03c.png,Large Obstacle,1.7544633150100708,Corridor,Bright
+724beeb4-ef8c-494f-bdf1-11b6e0caa126.png,Clear Path,2.3503212928771973,Home Office,Dim
+7854e8eb-b12b-4cad-bf4f-b877328758c8.png,Large Obstacle,2.360435009002685,Living Room,Dark
+a1eb6634-5a93-41ea-aab6-6e358e3ab39a.png,Clear Path,2.9580039978027344,Corridor,Bright
+53b54cf4-09d6-4d89-ac3f-52c189de4cf5.png,Small/Low Obstacle,1.7925375699996948,Home Office,Dim
+bfacf71c-78e8-409a-8d13-37d7159ef5dd.png,Small/Low Obstacle,2.93916916847229,Living Room,Bright
+69498790-3f02-46dc-8b1d-e0129e6fc729.png,Large Obstacle,1.91680920124054,Kitchen,Bright
+286d15db-66ad-4f60-a243-7c6bd55ae6cb.png,Clear Path,4.977659702301025,Home Office,Dim
+e1451df7-68c3-41f9-b6c2-62eeb6bc93cf.png,Structural,1.9554542303085327,Kitchen,Dim
+b593e1a5-e488-4d82-8d0c-6791d99cad50.png,Elevation Change,2.796931743621826,Living Room,Dark
+779f008e-dc1b-46a8-b80e-afd84ebf4ce5.png,Small/Low Obstacle,1.5863611698150637,Living Room,Bright
+00e2a401-dc60-4670-b40e-9841a6fcceff.png,Elevation Change,2.1997036933898926,Living Room,Bright
+9ff6de1e-9add-442f-ad26-59b5959e5d99.png,Small/Low Obstacle,1.2167762517929075,Living Room,Bright
+881e2687-840a-455b-a212-5817c2a7253d.png,Elevation Change,2.6036217212677,Living Room,Bright
+e26a5a01-e873-45df-af05-e5e1ace45329.png,Small/Low Obstacle,1.2657413482666016,Kitchen,Dim
+fd80e261-e679-4af2-92d5-d9b07a350fdf.png,Clear Path,4.214449882507324,Living Room,Dim
+0d795493-b01b-4796-b60f-50ac34d9363a.png,Clear Path,2.701852798461914,Corridor,Bright
+2d763200-9b2b-4874-8019-9a42f724271f.png,Structural,1.0211337804794312,Living Room,Bright
+eb587fe8-c639-4ed7-a188-70ebcfc2b11a.png,Large Obstacle,2.976052045822144,Kitchen,Dim
+f4d2d3b9-1fb7-44a0-a529-05362a584827.png,Small/Low Obstacle,2.9420371055603027,Home Office,Dark
+ffa09a32-2c2d-4d51-a8df-324afd21c08f.png,Large Obstacle,0.82981938123703,Living Room,Bright
+39e674b5-6f57-43c4-9154-680d4c9365c3.png,Small/Low Obstacle,1.0305871963500977,Home Office,Bright
+ae122525-82e5-44e4-9404-ca55e2f50851.png,Large Obstacle,1.3225268125534058,Home Office,Dim
+fb0e3a6f-1a22-429d-b106-eb0f18683ff1.png,Structural,2.6527462005615234,Corridor,Dark
+bcd55ea5-3e80-40e4-8818-f9038f0c3a93.png,Clear Path,5.225344181060791,Living Room,Dim
+8ac42f3b-1841-4456-bd45-2d6812d5b650.png,Elevation Change,1.935186743736267,Home Office,Bright
+a982a1e1-2bcf-4923-9361-bb41f763c9a1.png,Clear Path,3.647525787353516,Living Room,Dark
+ef3598d3-6831-4c87-9127-9984a19d4462.png,Structural,2.636197090148926,Living Room,Dim
+95b27802-c243-4174-b345-4228dafe3e2d.png,Clear Path,2.8863203525543213,Living Room,Dim
+cf068c97-846a-49c4-b062-6757c990257b.png,Clear Path,2.4941155910491943,Kitchen,Dim
+a16ebf82-3d9a-42b3-8710-010c40865763.png,Structural,3.121943950653076,Kitchen,Dark
+3e6681f0-da56-4349-a99f-f2adc27c6381.png,Clear Path,2.594883441925049,Corridor,Dim
+b0328865-286a-44e2-8bd8-1d78a3df13da.png,Clear Path,3.5083250999450684,Home Office,Dim
+4ebb0cfd-369f-421d-bb05-c028bbf582ad.png,Structural,2.087086677551269,Living Room,Bright
+b6d860c8-e5a5-4723-a61c-b8360966b338.png,Large Obstacle,3.141634941101074,Living Room,Dark
+a45179de-b2ac-4f5b-86fb-50d64e08056a.png,Structural,2.211216926574707,Corridor,Dim
+b6930eb4-076f-4fcf-b902-39c2a5d881e7.png,Elevation Change,1.711318850517273,Living Room,Bright
+d7bfb75f-b2cb-4b24-ad98-47a409b5591b.png,Clear Path,2.094103574752808,Living Room,Bright
+3bcf16ee-6311-4560-91e9-e6e7e2088f5f.png,Clear Path,3.042575597763061,Home Office,Dim
+1023c935-f6ec-431f-9a7f-a59362ffa278.png,Structural,1.716685771942139,Kitchen,Dim
+0f5ca847-0abf-4440-8efc-937499a9d727.png,Large Obstacle,1.9530372619628904,Home Office,Dark
+35f344c3-764e-4000-b82b-9cc1f23d6a5e.png,Elevation Change,1.3145320415496826,Home Office,Dark
+86b9fb9b-e496-40bc-b811-3fdb4e39e0cd.png,Clear Path,3.39936900138855,Home Office,Dim
+80a658c4-1053-4bc8-9ce1-0b9ac963eeff.png,Large Obstacle,0.7827889919281006,Living Room,Dim
+d3181f94-ee5a-4732-b17b-a6809d0bd466.png,Clear Path,4.615129470825195,Home Office,Dark
+c50e9777-11fb-47f6-aa83-f3f24f85b1a1.png,Clear Path,4.227601528167725,Living Room,Dim
+00897822-dda6-48e9-b81b-29e5e02b63f3.png,Clear Path,3.3065297603607178,Corridor,Dim
+f6248e6b-8ee7-41f9-9503-5a7e120f817d.png,Structural,2.124472618103028,Kitchen,Bright
+6f8ee682-88ed-4643-894a-e40dfe1a6fc2.png,Structural,2.910164833068848,Living Room,Dim
+b28bc676-55db-4f42-be95-e2ef78edee2c.png,Clear Path,2.960273027420044,Living Room,Dim
+f1f3d6cb-86ba-4e53-a59e-745e5a1d4305.png,Small/Low Obstacle,0.788618266582489,Home Office,Dim
+0b38353d-384f-4c65-8860-55e18bbc8f0d.png,Structural,1.719761848449707,Corridor,Dim
+17a1ca12-a98d-4683-8fe6-cc5b22ecd9cc.png,Structural,1.6108460426330566,Corridor,Dim
+63d30abb-ddcc-40a1-894d-cc25a9a774c9.png,Elevation Change,3.8832294940948486,Living Room,Dim
+41e85a6b-01b1-4b91-9f46-2f2cde97065f.png,Large Obstacle,1.8061152696609497,Kitchen,Bright
+84bc5448-53f7-41a8-b2de-528fcc205415.png,Clear Path,3.293513536453247,Living Room,Dim
+43531375-ee43-4e14-9465-cff53357a4af.png,Elevation Change,1.3203177452087402,Kitchen,Dim
+b9fd2051-90e5-497a-9fd3-a3a37d879e0c.png,Elevation Change,1.7087440490722656,Home Office,Bright
+1f2f84a0-a699-4ae7-b802-284ed42836ed.png,Structural,2.018800735473633,Corridor,Dim
+fdfe9331-a4fa-481b-b2a1-943961ef6e39.png,Elevation Change,1.6773183345794678,Home Office,Bright
+ef9145e0-1351-4275-a1e2-abb0d3515dc0.png,Large Obstacle,2.2150769233703613,Kitchen,Dark
+e4dec0d6-f715-476b-b97b-4aa035d48917.png,Elevation Change,1.6978875398635864,Home Office,Dark
+628485ca-6497-4f07-ab0f-525c851e83d8.png,Clear Path,2.775176525115967,Home Office,Dark
+7037e9cb-fdf2-4cfd-9dc3-d7cb54ea2ecd.png,Small/Low Obstacle,2.274798631668091,Living Room,Bright
+16d7a957-8a37-4595-b5a1-346d8cd6d843.png,Structural,3.078603982925415,Corridor,Dim
+29ff5e1c-0781-4163-9aa0-d5a9850e7998.png,Structural,2.326287031173706,Living Room,Bright
+598b7cdc-1ac0-431c-a639-d14408098555.png,Large Obstacle,2.070113182067871,Kitchen,Dark
+e3b92ebd-cb6e-49c0-8248-67c13b40ceb9.png,Small/Low Obstacle,2.789320468902588,Home Office,Dim
+9af5f301-897d-4bfb-801a-7d94d4d30cc3.png,Clear Path,3.2258718013763428,Living Room,Bright
+74ec52e6-46df-4f92-849f-560a12ddedf6.png,Large Obstacle,1.000739336013794,Home Office,Bright
+88fa3e7a-3eae-4d4c-905b-27d57f861bec.png,Structural,1.982052564620972,Kitchen,Dim
+04f2bd5f-a048-4589-9bfd-1ae879e33c77.png,Clear Path,4.805710792541504,Living Room,Dim
+941b2a4a-c00c-4c67-87b4-70bc076c4993.png,Structural,2.0958027839660645,Living Room,Bright
+5abd34c4-be66-4764-aa09-4ef27368d37d.png,Structural,3.2193291187286377,Home Office,Bright
+ff4b9df8-29d6-40b4-9f6b-27bbde47ae5c.png,Large Obstacle,1.7729694843292236,Home Office,Dim
+d5c8ddf7-03d6-4f58-9123-0f01aff0d319.png,Clear Path,2.3946149349212646,Corridor,Bright
+b3cc0cd3-b3c0-4f18-be65-3cba8a60848b.png,Structural,2.0551326274871826,Corridor,Bright
+bd33f035-3999-418c-bd9e-9494c713197d.png,Clear Path,2.60355281829834,Corridor,Dim
+40dcec27-78cf-4d31-bfaa-5879135a6efa.png,Large Obstacle,2.2778737545013428,Living Room,Dark
+0c1c54a7-b090-498c-b196-b60b997f9f99.png,Clear Path,2.757814407348633,Home Office,Dim
+b4ca3a0c-0dcb-4f3e-bf59-5b454030bbeb.png,Clear Path,3.6774826049804688,Living Room,Bright
+cd02c307-6811-4a09-9737-e4cd7dd89aaf.png,Large Obstacle,1.6430702209472656,Corridor,Bright
+cf860fc5-be1f-48ae-a609-02bcc42b7b4e.png,Structural,4.500025749206543,Home Office,Dim
+b03f70fd-d39c-476c-a864-1764b71979ca.png,Clear Path,4.494607925415039,Living Room,Bright
+ec0353d9-f8cc-47ee-ba4d-8933eeaf4637.png,Large Obstacle,1.6693779230117798,Kitchen,Dim
+fd48d00f-ea64-4da5-b449-4bcd36820663.png,Elevation Change,1.628268480300903,Kitchen,Dim
+a6bd63a9-96f4-4e80-998b-14d5e219711d.png,Clear Path,3.9677655696868896,Living Room,Bright
+48f703b6-d6c0-4da0-89ab-648e26a0fbec.png,Structural,2.2465529441833496,Corridor,Bright
+0f8227fe-e398-48fb-814e-e89e70a05fe0.png,Large Obstacle,1.4914640188217163,Home Office,Dim
+017febe7-bc46-49d2-b254-ac7fece765bb.png,Structural,2.21429443359375,Living Room,Dim
+587d65ba-b89c-4632-9bc8-21d3fbb25979.png,Large Obstacle,2.654956817626953,Living Room,Bright
+0d8b937b-527d-4d51-8d6e-5e73b4afe79b.png,Large Obstacle,1.909371852874756,Living Room,Bright
+341f395f-860b-40aa-8769-465a82fa8445.png,Small/Low Obstacle,2.923480272293091,Corridor,Dim
+dd4f02ac-0130-4f8a-a9d0-2c1603fc84b3.png,Clear Path,2.9358022212982178,Corridor,Dark
+d6a665d1-d9db-421a-a7d9-484a0e6039cf.png,Structural,1.5830525159835815,Corridor,Dim
+219fec6e-f280-41fc-9944-57f2a4e94cb9.png,Clear Path,3.314582586288452,Home Office,Bright
+512978e3-2e92-4be4-91f3-b7b8622867af.png,Small/Low Obstacle,0.8118771910667419,Living Room,Dim
+5725835e-95cc-413d-8a3b-fe0071590b9f.png,Structural,2.240584135055542,Corridor,Bright
+726d4850-a6d1-42ff-a6d9-a740a47eb6e8.png,Small/Low Obstacle,2.3101494312286377,Corridor,Dim
+f0438cdf-e6a9-4e6e-b911-06018b51516e.png,Structural,1.7673240900039673,Corridor,Bright
+690eb855-be8c-4d54-bacd-a14d93cd0baa.png,Structural,1.915029525756836,Corridor,Bright
+b05b6834-0066-4434-923b-bee568f4cf9e.png,Large Obstacle,2.541494131088257,Living Room,Dark
+165cd3ca-e710-49ab-ba96-3e4a47b6fb6c.png,Large Obstacle,1.7070684432983398,Living Room,Bright
+06333bad-d168-4816-b0fa-40b15d1409f0.png,Structural,2.039849281311035,Corridor,Bright
+eb7eb608-fa13-4403-961a-f38ee8237a92.png,Clear Path,2.749626636505127,Living Room,Dark
+6342d445-fa38-46c0-b235-89c494c8a125.png,Elevation Change,2.1578245162963867,Corridor,Bright
+ec094e29-92e3-4036-99e0-9dd522849f96.png,Large Obstacle,1.4326802492141724,Home Office,Bright
+8c96e264-9dfe-4541-a592-7dd3780b7933.png,Large Obstacle,1.2808998823165894,Home Office,Dark
+b649b5c9-1a1a-42d9-8e65-a31f2e099ed5.png,Structural,3.36775803565979,Home Office,Dim
+8d996910-9b22-453d-a250-99cdb5904144.png,Structural,2.139656782150269,Corridor,Dark
+7a59e30c-d7de-45ba-88ce-cfd633c94635.png,Structural,1.8132688999176023,Corridor,Dim
+39a753b1-7f0d-4f0e-850f-7e49bed15346.png,Large Obstacle,3.2302584648132324,Home Office,Dim
+cb043b8b-55c2-4fa9-8add-4f9bcc4b904b.png,Structural,4.448291301727295,Home Office,Dim
+f1eb43b3-d942-45eb-bfee-38910651d34e.png,Structural,1.3000351190567017,Home Office,Dim
+93d1df90-37ec-4d9e-8d49-627213a442eb.png,Elevation Change,2.4864797592163086,Living Room,Dark
+48fa9f25-d819-4f41-b5ec-f4d3911b92ad.png,Large Obstacle,2.271278381347656,Living Room,Bright
+676379f9-701d-44dc-9dfb-9da27e452b52.png,Structural,2.280478477478028,Corridor,Bright
+c2a54b78-6bfe-4030-b281-11eae1d72b43.png,Elevation Change,1.7277830839157104,Home Office,Dim
+b7bc8790-0e8c-4308-9c32-6a62085372d1.png,Clear Path,3.789036750793457,Living Room,Dim
+da885cbe-a906-41a7-b216-42c56ee0c387.png,Clear Path,3.8649497032165527,Living Room,Bright
+f66deebc-0c9a-423a-bfd8-9081790fb3a0.png,Structural,1.665917158126831,Corridor,Bright
+5bd1bf73-7547-430d-8621-e549519ee278.png,Clear Path,3.600629568099976,Living Room,Dark
+cf5412ac-9e9b-4781-ae47-a5bb8093c277.png,Small/Low Obstacle,2.4501097202301025,Corridor,Dim
+2ebd8932-d5ea-4fa2-919f-04475c91f46f.png,Structural,2.9484362602233887,Corridor,Dim
+e0229349-3b15-49d7-a39e-83cf619a6c5c.png,Large Obstacle,1.201174259185791,Home Office,Bright
+c805aeb7-377f-43ce-b168-fa2b7ab2d3da.png,Clear Path,4.435184955596924,Home Office,Dim
+4bd3a690-38b1-4ecb-98fa-ac84491ad4a9.png,Structural,2.409163236618042,Living Room,Dim
+7bcd7684-bfa2-4fac-9608-d41bfb11c3e3.png,Elevation Change,2.089597702026367,Corridor,Dim
+aa796771-3f13-4b00-ac0c-a9b74b1f7410.png,Clear Path,1.4214223623275757,Living Room,Dim
+12acfb0a-56bd-466f-9470-46d70ffec34c.png,Clear Path,3.5267553329467773,Home Office,Dim
+cd35f0e5-0259-4dcc-8cdc-4f7475cdfbca.png,Small/Low Obstacle,2.1687352657318115,Living Room,Dark
+3b5a710c-ee49-4158-9224-1f2ec0062484.png,Clear Path,4.877458572387695,Living Room,Dim
+a7bec927-e9e8-45a2-bee9-4c2e6221bc19.png,Small/Low Obstacle,2.684138059616089,Home Office,Dim
+7ca87169-3103-4259-966e-14149abe80d8.png,Structural,2.424155712127685,Corridor,Bright
+f9396864-b5a7-4b96-bfb9-214a2bdbb868.png,Structural,3.303001642227173,Corridor,Dim
+e832d16b-2799-4ce7-bab8-08794ffb2e9e.png,Large Obstacle,1.9225319623947144,Corridor,Dim
+0f403f4f-2faa-4ebe-a5af-debd6862eb37.png,Clear Path,2.6240477561950684,Living Room,Dim
+b82309b9-8d9d-4003-bf40-1c3194af73cf.png,Large Obstacle,2.677917718887329,Living Room,Dark
+2bcc5057-9279-4c6c-9365-ec78ed9af776.png,Structural,3.003504514694214,Corridor,Bright
+ea20c9e5-6a03-4bb2-a220-f78047ac3551.png,Small/Low Obstacle,0.9637587666511536,Living Room,Bright
+ef36226e-3727-44a8-b59b-26bb515b7f8a.png,Structural,3.777466773986816,Living Room,Dim
+cf074fc5-b9e7-4128-88dc-a8bbc7129fae.png,Clear Path,3.548580884933472,Home Office,Bright
+47651de4-81e5-43eb-ba1b-ec8ba658c0a7.png,Clear Path,2.8527753353118896,Living Room,Dim
+75cdb506-73fe-4a61-801d-da68fc01edd1.png,Structural,2.013397693634033,Corridor,Bright
+bfd5f09a-7500-4e8e-9112-9e57df89baa0.png,Structural,1.8136043548583984,Corridor,Dark
+c99048ed-9a36-456f-b9d5-f37b2a1b6870.png,Small/Low Obstacle,2.0085103511810303,Living Room,Dim
+27dcfbb0-8ff9-4ea0-bfaa-413779a991f5.png,Small/Low Obstacle,1.9793152809143064,Living Room,Bright
+2cd9f871-ac32-4703-994c-5170962063ff.png,Small/Low Obstacle,3.543236494064331,Living Room,Dark
+bd81bace-3ee4-4f2f-9b28-fb86d5afb984.png,Large Obstacle,2.8974783420562744,Kitchen,Dark
+33acecf8-d408-45c4-9902-ceb40375b6c3.png,Large Obstacle,1.3139740228652954,Home Office,Dark
+9b667152-bcf9-4ea0-ad83-0ebe8ccb1f01.png,Structural,1.7151912450790403,Kitchen,Bright
+fe4eb39b-7c83-4e74-a852-3bd0d3ac8fb3.png,Structural,3.1341025829315186,Living Room,Dark
+3e12f417-969e-4253-946d-decb7fa6171a.png,Clear Path,4.456418037414551,Home Office,Dim
+45566978-488a-4bd3-a074-e7d90134f81b.png,Small/Low Obstacle,1.7526907920837402,Corridor,Bright
+8c209c28-a4df-48b6-a847-d7877b3ad6d6.png,Structural,2.2530579566955566,Living Room,Bright
+3986abba-2c7b-45f7-bb40-af037f6332d6.png,Small/Low Obstacle,2.536082029342652,Corridor,Dim
+158f5068-de18-4f1d-ba31-c43b0bcdb866.png,Clear Path,3.388649702072144,Living Room,Dark
+41fc68a6-283f-4865-9568-2a19694637fd.png,Small/Low Obstacle,1.3353382349014282,Kitchen,Dim
+384ea432-ea01-4568-9fba-b6d51530ad8c.png,Clear Path,2.4337000846862797,Home Office,Bright
+eeca3323-f17b-419f-b017-30f741a1a60c.png,Large Obstacle,1.6474933624267578,Home Office,Bright
+df59f29c-9c7d-4513-abc3-1bfba8954853.png,Structural,2.6343882083892822,Corridor,Dark
+182847c5-3509-4c01-bc78-762605e64ba7.png,Small/Low Obstacle,2.5851809978485107,Living Room,Dark
+2c382057-ab8d-4fe8-8d90-4cb2a3d25a05.png,Structural,1.61176598072052,Corridor,Dim
+d32e4d9a-9587-4b27-a773-a91f7bf66319.png,Large Obstacle,1.0368562936782837,Home Office,Bright
+6311141c-2103-4382-9b05-a53475f2ea59.png,Clear Path,2.3220484256744385,Home Office,Dim
+50da5c62-e313-42cb-8e02-90e6cc52c2fe.png,Structural,2.975604295730591,Living Room,Dim
+a790f84e-9025-494b-9f61-b5abcfb9f0c4.png,Small/Low Obstacle,1.399010419845581,Home Office,Bright
+5837bd09-1115-4829-bd7c-497346a0f3a0.png,Structural,2.827686309814453,Living Room,Bright
+b50506cf-5bb0-43c8-8189-2e9246cba975.png,Large Obstacle,1.8177968263626096,Kitchen,Bright
+6be8533a-c106-4d11-9448-a90b91917442.png,Structural,2.01145339012146,Corridor,Bright
+bbe56753-22af-4fbd-8b81-696ca9f8d6a1.png,Large Obstacle,2.2331995964050293,Home Office,Dim
+3fc00370-2412-4df7-b0f9-6fcb6cf83d08.png,Clear Path,4.448797225952148,Living Room,Dim
+08a0ecaa-1aa7-416d-904e-8ce8c4364f8d.png,Clear Path,3.028879404067993,Living Room,Dim
+ff1dd68f-608b-4de1-be2b-59b063de4d46.png,Elevation Change,1.429805874824524,Home Office,Dark
+b6932384-4965-45f5-bc44-c89e966be9dd.png,Large Obstacle,1.6428998708724976,Kitchen,Dim
+f79a827d-cb14-4578-80ff-28001919a05c.png,Clear Path,3.6139211654663086,Home Office,Dim
+a7f4f159-6313-4798-9469-d4d5f3927d92.png,Clear Path,4.912171363830566,Living Room,Dark
+faa5f078-bd96-4a8a-9e4c-0800708c9f81.png,Structural,2.1053383350372314,Home Office,Dim
+efaa7b55-f6a9-4985-aaf5-2344745d4615.png,Structural,2.821011543273926,Home Office,Bright
+9f25cf54-bca7-4d09-800e-7d11f8153c93.png,Clear Path,3.072581052780152,Corridor,Bright
+9b756974-1241-4258-b6f6-f4d61babf213.png,Large Obstacle,0.9945565462112428,Kitchen,Dim
+e4ab9492-f64e-4a6d-b5d2-1db333f8d1c4.png,Structural,4.043828010559082,Living Room,Bright
+ccf192be-27bb-4612-be78-34979c002afa.png,Large Obstacle,3.359416007995605,Living Room,Bright
+bf04c465-d645-4461-ba11-2a749c239bb6.png,Structural,1.1243565082550049,Living Room,Bright
+000f88f1-06f4-48ee-8acf-b09855614f8d.png,Structural,2.936833143234253,Living Room,Bright
+5f664506-8ef3-4e98-8efa-81703ba136a1.png,Clear Path,2.8213648796081543,Corridor,Dim
+c0cd20dc-862a-48f2-ae71-fa88bcb050a1.png,Elevation Change,1.275745868682861,Kitchen,Bright
+ef569c8a-3e55-4ea7-b0fc-943609bd8eb4.png,Clear Path,3.31634259223938,Corridor,Dark
+031e6a77-9d77-424c-9f9b-7db1f43a6b3a.png,Clear Path,5.013635158538818,Corridor,Dim
+f3435165-d224-4165-8d09-52360931db8e.png,Clear Path,3.841445446014404,Living Room,Bright
+e5129f5e-3596-4972-997e-b73711b6724a.png,Large Obstacle,1.5838574171066284,Corridor,Bright
+0ab0dcd1-493f-4df3-a979-916c70a531f2.png,Structural,2.7843735218048096,Living Room,Bright
+5dd7c408-6621-4372-813d-5c049539f23c.png,Small/Low Obstacle,2.4307940006256104,Corridor,Bright
+1cc53849-a4f6-49d1-b67b-97396c76ce55.png,Structural,2.819955825805664,Corridor,Dark
+20560f7d-0765-48fc-a55c-e97e0522848a.png,Large Obstacle,2.4520511627197266,Living Room,Bright
+24ac1f3d-9a29-4464-953c-d7a5a624471c.png,Clear Path,5.117480754852295,Living Room,Dim
+d0b66111-e4ba-4939-9237-b3599e2f8189.png,Structural,2.1315314769744877,Kitchen,Dim
+022d95f1-a502-4fe2-b585-e71bb16cd422.png,Small/Low Obstacle,1.4776605367660522,Home Office,Dark
+6788b325-c6e7-4ed9-a327-77d9c83f6edf.png,Structural,2.906127691268921,Home Office,Dim
+4b318401-99b8-45e7-94f8-2170e8101087.png,Structural,3.1953039169311523,Corridor,Dark
+af8676f5-5f88-4dfa-8526-3adacb4388b9.png,Structural,2.233968496322632,Living Room,Dim
+220cda2e-91f8-4830-8356-fe8f98d14a55.png,Small/Low Obstacle,3.119527101516724,Corridor,Bright
+d95617f8-ffaa-4034-8484-af483d6887a1.png,Small/Low Obstacle,2.2997865676879883,Corridor,Dark
+f3fdeff0-7ed1-4bde-ad22-d451c955aff3.png,Small/Low Obstacle,2.919017553329468,Living Room,Dim
+0d45e1dd-09bc-45b6-896e-9de7e2b12f69.png,Structural,3.3143680095672607,Home Office,Dark
+0f90a817-1916-43b3-bfce-739dea9769c9.png,Small/Low Obstacle,1.9187530279159544,Home Office,Bright
+332cdbe2-3b46-4903-9d52-292ab130d672.png,Clear Path,3.681509733200073,Corridor,Dark
+9f033154-c298-405d-a36c-2aa2f7a4b6ea.png,Clear Path,3.122843027114868,Corridor,Bright
+917bcf2a-2a3e-4f5c-a2d2-7c26f3d9c623.png,Clear Path,3.275918483734131,Corridor,Dim
+4aa39187-a33e-4223-81d4-4a8b8ecdfc2d.png,Small/Low Obstacle,2.1722772121429443,Corridor,Dim
+5effc021-db92-4f73-90fd-e8a5f9fc9ea9.png,Clear Path,3.800148963928223,Home Office,Dim
+6bc393cb-4a19-4232-b8f2-c05a440d2db8.png,Elevation Change,1.244082808494568,Home Office,Dim
+3b1d1294-d40b-4084-a6af-e3d837db9637.png,Structural,2.772815465927124,Living Room,Bright
+3230890a-ac6d-4b2d-854c-50e7419e16bf.png,Clear Path,2.627223491668701,Corridor,Dim
+efe744eb-d119-46f1-92f4-3ec4af148c67.png,Structural,3.248661994934082,Corridor,Dark
+1a351b8b-9123-4c32-9284-f9b4881c4a35.png,Small/Low Obstacle,1.5187629461288452,Living Room,Dim
+fdac4a3e-3f70-49f9-becc-142474664553.png,Structural,2.309454679489136,Corridor,Dim
+566e2ca6-861d-44ed-afa1-c431ee2e353e.png,Small/Low Obstacle,1.9047231674194336,Home Office,Dark
+3c6cfa5e-f23d-4ff0-bbfa-dbee8d595d53.png,Clear Path,2.4063174724578857,Kitchen,Bright
+0ada2a0d-c84c-4b44-9136-dc7d9bab9355.png,Large Obstacle,1.70771324634552,Corridor,Dim
+cc036ee2-abcd-4ec2-b908-53839c6999a6.png,Large Obstacle,2.6251742839813232,Living Room,Bright
+f34dd356-7752-458d-a936-21c17d5d226f.png,Structural,3.198559522628784,Home Office,Dim
+c74bcd3f-f41d-409c-9b96-3fc8fa440780.png,Structural,2.523625373840332,Home Office,Dim
+1bca202a-9823-4b41-b9ca-02939c398a9f.png,Large Obstacle,1.9239964485168457,Kitchen,Bright
+eeb8efd0-bb15-4ba8-9583-7894520bef4c.png,Small/Low Obstacle,1.138241410255432,Home Office,Bright
+f05bf8d8-884f-4020-9545-77a7a0e88be6.png,Elevation Change,1.7050820589065552,Kitchen,Dim
+94a782fc-337b-4329-9298-715da1f798da.png,Clear Path,3.3559577465057373,Corridor,Bright
+f743f007-9032-469e-9249-0bb049f96007.png,Small/Low Obstacle,1.171047925949097,Home Office,Bright
+13662b6c-0863-4b48-9db3-d96f0336f7ba.png,Small/Low Obstacle,1.8611516952514648,Kitchen,Dark
+eca99fac-f8d1-4862-ac01-29beea353887.png,Clear Path,2.276254177093506,Kitchen,Dim
+aa886ed7-e9e8-4c6f-b527-a030c03dc9f0.png,Clear Path,4.510651588439941,Home Office,Dim
+4b37998c-ed21-44e9-b61b-8ce1bd2aef6e.png,Large Obstacle,2.5830464363098145,Home Office,Bright
+13f840eb-c609-46cf-8f95-ff2ed923ebd1.png,Small/Low Obstacle,3.135646104812622,Corridor,Dim
+0758dba6-87cd-4efc-8c01-8502c695dec7.png,Small/Low Obstacle,0.8834368586540222,Home Office,Dim
+d515867d-30a2-42ba-bb81-4e64a8ee3d0b.png,Clear Path,3.177084684371948,Corridor,Dark
+c162cdda-8027-4705-a6fa-f23f15271c1e.png,Clear Path,3.623850584030152,Living Room,Dark
+24470a50-8587-47bf-95a9-35e58a949a22.png,Small/Low Obstacle,1.0458401441574097,Kitchen,Dim
+e7552aa9-3ce1-4f36-a198-79bc55ad229f.png,Large Obstacle,1.8824325799942017,Home Office,Bright
+699edd08-c795-4fcc-81a1-7bb446698bcf.png,Small/Low Obstacle,1.4604424238204956,Living Room,Bright
+5d15448c-4eee-498f-b4eb-6912b694a894.png,Structural,3.864936590194702,Home Office,Dark
+175a9a6d-c3c5-4876-93f0-bd951c3d736a.png,Structural,1.944424510002136,Home Office,Dim
+80b315da-af53-49dd-bcca-b125ff4ff362.png,Structural,2.24556565284729,Corridor,Bright
+04d31a3f-84c0-4ef7-8742-37a58e1e7e58.png,Small/Low Obstacle,1.253961443901062,Kitchen,Dim
+9b56a30e-1fd4-48f9-9b5e-847b04be0590.png,Large Obstacle,3.10735297203064,Home Office,Bright
+dcd160cf-bf11-4bd1-be03-0e6118dfe2dc.png,Large Obstacle,3.8182973861694336,Home Office,Dim
+66b830c2-db1e-4604-a950-8bd731e148ff.png,Large Obstacle,1.044906735420227,Home Office,Bright
+262ba430-e118-4fc8-9252-9a783a90b411.png,Clear Path,2.607008218765259,Corridor,Bright
+2aaf52f9-601a-469f-bdf4-6f957f98b9a3.png,Structural,1.5560646057128906,Corridor,Bright
+be4d2ddc-5ccb-4cbb-8fe3-e1fd380a87ab.png,Structural,2.043356418609619,Home Office,Dark
+5e045a55-e5e1-48ed-8547-cb0e0635589e.png,Clear Path,4.536189079284668,Home Office,Dim
+1757e098-e378-41ec-8fb9-0f2e52aed89c.png,Structural,2.3324806690216064,Corridor,Dark
+17e74aee-0f8f-45ee-ae9a-283895d604de.png,Small/Low Obstacle,2.384120225906372,Living Room,Dark
+f1cf50ad-2ef8-4d9c-8b4f-c118dacfd3ac.png,Small/Low Obstacle,0.7933506369590759,Living Room,Bright
+b4b30257-1932-4489-a77b-48044b63820c.png,Small/Low Obstacle,1.527565836906433,Home Office,Dark
+1f952e25-143b-40b9-b472-7111c6e8b8c1.png,Elevation Change,1.8870172500610352,Corridor,Bright
+d8bf588e-6297-4432-a9af-d97808cd414f.png,Structural,1.7508950233459473,Corridor,Bright
+52dbb113-6021-43fa-8697-b1ecc37474a9.png,Small/Low Obstacle,2.0802440643310547,Corridor,Dim
+54f0b037-1683-4dda-be1d-b623d82cc7c4.png,Small/Low Obstacle,1.7526750564575195,Home Office,Bright
+d1d035d4-c143-403b-aac5-58780ac83d48.png,Clear Path,3.51947283744812,Living Room,Bright
+6b736548-daac-4a5f-840c-c3b49342c9c3.png,Structural,1.7301628589630127,Living Room,Bright
+2f7b7ddc-e7e1-475a-b9f7-e37b835cb1d1.png,Large Obstacle,2.404155969619751,Kitchen,Dark
+fdbddf02-5db0-4b2b-9689-45f589fb6212.png,Clear Path,2.649637222290039,Living Room,Dim
+7fcacddc-57ab-4d82-8537-f8fd9c35c370.png,Elevation Change,1.984207391738892,Kitchen,Dark
+60ad247b-7be4-42b5-96ef-e29d9da97660.png,Structural,1.9824106693267824,Kitchen,Bright
+d7db40a9-0279-43a2-8129-8222546f1acb.png,Small/Low Obstacle,2.041447639465332,Home Office,Dim
+711c7aa6-8e93-431b-8a7c-0c6604ca5c7c.png,Clear Path,2.8248863220214844,Home Office,Dim
+2fe6e0f3-2674-4d93-8095-9d881e6b587e.png,Structural,1.8973369598388672,Living Room,Bright
+3b2d96f3-314a-429a-b358-87fc1e2307c2.png,Elevation Change,3.781249761581421,Living Room,Dark
+900c46c7-7d31-4364-8ef1-4414603fdda9.png,Clear Path,2.2269222736358643,Kitchen,Dark
+d5474e2c-0448-49d8-9c8c-ba34ec05559a.png,Clear Path,3.771221399307251,Home Office,Dim
+029b12e4-5eff-4225-82ca-a6aa5db541cc.png,Large Obstacle,2.44886326789856,Home Office,Dim
+40774f77-917d-45d8-a077-f2e8852325a7.png,Large Obstacle,1.5611350536346436,Corridor,Bright
+e60fe44c-b817-4bd1-8034-51b8b4fb2844.png,Elevation Change,1.7506183385849,Home Office,Dim
+089c86e9-72b9-43c0-9c22-7b2095be0ca4.png,Large Obstacle,2.892866373062134,Living Room,Dark
+697c5f2f-0823-4a79-b758-aa0d2dfbf6d8.png,Elevation Change,2.6072235107421875,Living Room,Dark
+18a3aa75-6cd5-486d-b775-1fcec299036c.png,Large Obstacle,1.79361093044281,Home Office,Dim
+785ff2f8-4efd-4b5d-8f77-6c5636ced823.png,Large Obstacle,2.2674522399902344,Home Office,Bright
+fd99ffd1-e4f6-4e06-9fd3-57a3af54d4c5.png,Large Obstacle,3.312483549118042,Home Office,Dim
+d206aec3-33c7-4d5c-ace4-0bc9dce58846.png,Structural,2.85841965675354,Kitchen,Dark
+7385edf5-b7f9-4137-a59b-d4e3a457c993.png,Structural,1.9645931720733645,Home Office,Bright
+4af12a31-090e-47bf-b723-faa44f46e42d.png,Elevation Change,1.935189962387085,Corridor,Dim
+31367a42-46bb-4298-aeab-eaa27694daee.png,Structural,2.219058990478516,Living Room,Dim
+db93690d-a04b-4ce1-bbb5-cfdce201060e.png,Small/Low Obstacle,1.3264153003692627,Living Room,Bright
+c95107c4-7497-4bcd-b857-336be752a78a.png,Clear Path,3.932852506637573,Living Room,Dim
+e6205156-7bf5-4378-a1b7-c53a3a7f318e.png,Structural,2.0849974155426025,Home Office,Dim
+3bc36f96-9489-4c7b-b964-6a1643975448.png,Small/Low Obstacle,1.6998651027679443,Home Office,Bright
+5a607eaf-64b5-4372-be72-f3cb9bab9cfa.png,Structural,2.545382261276245,Corridor,Dark
+e98cb183-805b-4547-bd54-420679f5ed2f.png,Clear Path,2.802952527999878,Corridor,Dark
+02899dbc-823d-4ea2-822a-c1518deef468.png,Large Obstacle,0.7220321893692017,Home Office,Bright
+f2ece879-ddb9-4322-a025-3dc03581f183.png,Structural,2.867377758026123,Corridor,Bright
+77b2738f-984f-4a23-a41e-121e813c55ae.png,Large Obstacle,2.560995101928711,Living Room,Dim
+a09d2010-364f-4480-9729-5c467bc8d515.png,Structural,2.5901684761047363,Home Office,Dark
+da6e68ef-6a5e-4fed-b3a4-a5a4ed15590c.png,Elevation Change,3.6913070678710938,Living Room,Bright
+b86b7541-4462-420b-af61-b3209b974f69.png,Clear Path,2.711978912353516,Corridor,Dim
+904fd6a2-dac7-411c-a5e8-2f2f20e69cb5.png,Large Obstacle,2.784668445587158,Living Room,Dim
+3ac7981e-b82d-42f8-88f3-30a35523ab6f.png,Structural,1.862250804901123,Home Office,Dim
+b5d340fa-eb9f-4994-80be-6b56a55477db.png,Large Obstacle,2.4331228733062744,Living Room,Bright
+6fc0bf6d-2af6-4e5e-b867-6d1ade2bbebd.png,Small/Low Obstacle,1.439185619354248,Kitchen,Dark
+34b1249e-a96c-4b53-b3b1-553fa52d7442.png,Clear Path,3.165783166885376,Corridor,Bright
+41c34e37-76e7-4159-b8c9-a99e338463b1.png,Structural,3.5696561336517334,Living Room,Dark
+724c98fd-f0c9-42b9-a24b-e7ce3a768227.png,Clear Path,2.6799962520599365,Corridor,Dark
+1a404937-8eb0-4bca-8e7c-edf01e819eda.png,Large Obstacle,1.853312849998474,Living Room,Dim
+f7ffb35c-4af8-49ca-8da4-56c21d472765.png,Clear Path,4.590887069702148,Corridor,Bright
+72ffce4d-bc51-4f43-845c-602fc674948e.png,Clear Path,3.6215970516204834,Home Office,Dim
+89cc6389-e6bc-4e92-93cc-df81c61b9779.png,Large Obstacle,1.4751278162002563,Kitchen,Dim
+f2b127b1-8c4e-4f84-802a-3aa361e57b3a.png,Small/Low Obstacle,1.1212509870529177,Home Office,Dim
+451c7777-1e15-4573-8e11-60bdbd86461c.png,Large Obstacle,2.1113901138305664,Living Room,Bright
+be49469b-6e0a-4134-8632-e4d392feefd1.png,Large Obstacle,1.3894349336624146,Home Office,Dark
+63ef12c4-4df9-4a15-b496-b02eb7121e5d.png,Elevation Change,2.725637912750244,Kitchen,Dark
+7cee3dc2-1fa0-4db6-98d2-ecfe85cc53d6.png,Small/Low Obstacle,1.732127666473389,Living Room,Bright
+0e254008-68ec-4eab-ac32-7edd53d84f9f.png,Clear Path,2.8240909576416016,Kitchen,Dim
+e1f29cf9-5c53-4a14-bed0-02b8b9bfa01b.png,Large Obstacle,1.641451120376587,Kitchen,Bright
+c61dd500-c033-47f1-90c6-affb7fd664d4.png,Large Obstacle,3.302730798721313,Living Room,Dim
+6a200a8e-be74-4c16-8180-d69fec8902ba.png,Small/Low Obstacle,1.952953100204468,Kitchen,Bright
+926a04f4-3b33-48a4-aacd-12cecc79237c.png,Clear Path,4.2610764503479,Home Office,Bright
+5679b5c4-148f-4998-b057-7672fe7bcffa.png,Clear Path,3.8838140964508057,Home Office,Dim
+885c29d2-5525-4d4d-af1e-bbc51ef2caaa.png,Elevation Change,1.5104985237121582,Corridor,Bright
+281cf187-12a1-4a55-aae0-a324663ff6df.png,Large Obstacle,2.355540037155152,Corridor,Dark
+2de8d71b-eb3f-490e-b911-b139403f3eed.png,Structural,2.0300498008728027,Corridor,Bright
+2be5254d-cfd9-4275-81cd-d38410c1f585.png,Clear Path,1.8570984601974487,Kitchen,Dim
+dd3da949-a894-4d35-9928-6b02df7e2e54.png,Structural,2.0117673873901367,Home Office,Bright
+15a79a40-e66c-47ad-88bf-c135203ba264.png,Small/Low Obstacle,1.7571901082992554,Living Room,Dim
+5e1432e3-65c5-49f3-9bfa-ba1dd17dd3ba.png,Large Obstacle,1.9706172943115237,Corridor,Bright
+c44f3172-18a8-42f4-9d25-8a2f5fcdf2cf.png,Structural,2.0386650562286377,Home Office,Dim
+8398af16-d01f-40bf-a395-93e58f03ce67.png,Elevation Change,2.2473976612091064,Kitchen,Dim
+e576aee9-4df7-46f5-a3bb-48dfd8ab6bb7.png,Large Obstacle,3.0839831829071045,Home Office,Dim
+cf0216e8-fb57-4d56-bb09-1a64e88e6680.png,Large Obstacle,2.418092966079712,Home Office,Bright
+ee79c9e0-a429-4ed4-b679-371be2c6028a.png,Clear Path,2.2076869010925293,Kitchen,Bright
+7afbfc1b-be6b-40f8-bc35-98b7e545640c.png,Small/Low Obstacle,1.267383098602295,Home Office,Dim
+8f119d7d-d76c-4b8a-a095-6fb16b83ac5e.png,Large Obstacle,1.424758791923523,Living Room,Dim
+11e02210-9e28-41c5-9998-a2162489713d.png,Clear Path,5.096903800964356,Living Room,Dark
+b81e5931-bec0-4380-9bdc-c8966ad620b9.png,Small/Low Obstacle,1.284860372543335,Kitchen,Dim
+81078279-2a51-49b7-8206-1e2ca86f6cd4.png,Small/Low Obstacle,2.668154001235962,Corridor,Bright
+ac20806d-974e-487a-b803-1098de97b3f8.png,Structural,1.8441338539123533,Home Office,Dim
+a89840a2-49ca-452c-b571-8b88d54ec8ec.png,Structural,2.187240600585937,Kitchen,Bright
+dea3eb2a-c611-4991-b62f-da67e2cc681a.png,Large Obstacle,3.937105655670166,Living Room,Dim
+11a08504-1130-4bca-a149-bf14af9082c1.png,Small/Low Obstacle,1.8220077753067017,Corridor,Bright
+d0deebe7-608e-4143-9a60-2389cab39ecf.png,Small/Low Obstacle,1.4840213060379028,Living Room,Dim
+d2858df9-2954-4948-b39b-7f58d92ceb9c.png,Structural,1.893844485282898,Corridor,Dark
+17df23ec-948d-4f26-ba61-bfb834c1eff0.png,Small/Low Obstacle,1.5094082355499268,Home Office,Dim
+8af8823d-1ee4-4184-80ab-43f46471b746.png,Small/Low Obstacle,1.5840232372283936,Corridor,Dim
+65956134-8f2c-4706-9c40-372670720799.png,Small/Low Obstacle,1.136252760887146,Kitchen,Bright
+61941bcb-aada-45bf-b4ee-f189fad0a060.png,Structural,2.7330572605133057,Home Office,Bright
+99b3a62c-96e8-45a9-8caa-f29b24679ccd.png,Clear Path,6.634409427642822,Corridor,Dim
+0cc3d044-fc10-4d4e-955a-930cd5d3729b.png,Structural,2.3826870918273926,Corridor,Dark
+3ccae2dd-7778-49d8-9536-db29170c0c1b.png,Structural,1.8284437656402588,Corridor,Bright
+7f9cfc9d-8255-4ae6-84af-84793dd948c4.png,Structural,3.611660480499268,Living Room,Dim
+d23f1483-a15b-40e0-a2f3-b90d3e45189e.png,Small/Low Obstacle,1.0252050161361694,Home Office,Bright
+c30507de-c861-434d-aca4-2a74923a2dd4.png,Large Obstacle,2.3772709369659424,Home Office,Dim
+f7bace29-682a-4a30-9fc2-90e3e6185b65.png,Clear Path,5.182302951812744,Living Room,Dim
+f66a53bd-d1ae-4bcb-bc30-7642a4cbeb17.png,Structural,2.8486251831054688,Corridor,Dark
+20b36226-7133-4578-b1f7-1a33b574c95b.png,Large Obstacle,1.9058892726898196,Kitchen,Dark
+06c25d57-4f54-49ca-a28f-1f32d93ad6cd.png,Large Obstacle,3.118921995162964,Living Room,Dark
+ddbe9493-04ff-4d6e-9b33-bf9534f403d6.png,Clear Path,3.2987654209136963,Living Room,Bright
+0e2a1f20-0a50-4cf9-b989-426df12aea3b.png,Structural,2.776200294494629,Corridor,Dark
+ef201c87-8af3-41c2-bc6a-746f737c1bb6.png,Elevation Change,1.4476124048233032,Home Office,Bright
+1b46586a-10d2-43c4-92c7-5c53c81daf31.png,Large Obstacle,1.746658444404602,Corridor,Bright
+34f0aec9-bc03-4f41-b932-ea9990704953.png,Structural,2.134061574935913,Corridor,Dim
+12c831f7-0a8f-4115-bee9-81dbed8787e8.png,Structural,1.91573166847229,Home Office,Dim
+852cce24-2f01-494c-8468-711c25ea2d8b.png,Small/Low Obstacle,2.663820743560791,Home Office,Dim
+128610be-2de9-4a4f-a035-6327fb317aed.png,Structural,3.646497964859009,Corridor,Dark
+c5b0495b-d3b4-4bbe-91c3-6e5a7e6084fa.png,Elevation Change,2.7946763038635254,Living Room,Dark
+4999aee1-a71d-4215-9e9a-d138d400294d.png,Clear Path,3.7959277629852295,Living Room,Dark
+b920aaf2-778e-4da6-8d2a-1d957dee6c75.png,Small/Low Obstacle,2.234908103942871,Corridor,Dim
+66f90a73-9cf2-4547-88c0-1aa37e1e0039.png,Structural,2.4835145473480225,Living Room,Dark
+41f6bd15-b7a2-4265-9b0c-7a6b87f4db6d.png,Small/Low Obstacle,1.3936196565628052,Corridor,Bright
+dbfe6eae-5315-4b27-9123-82dd195d6a1e.png,Elevation Change,2.942123889923096,Living Room,Dark
+24f4af2e-ce05-4e9f-8b8d-db9b63c2f869.png,Small/Low Obstacle,1.7086292505264282,Home Office,Dim
+210584f0-cb79-4298-8f4b-982f0facd3ba.png,Structural,2.2936882972717285,Kitchen,Bright
+50c90762-0dd5-4efb-bde3-2f64176777df.png,Structural,2.374812364578247,Corridor,Bright
+1a4272b2-7b4c-40ca-b1c7-4fd7246b8936.png,Structural,1.6298549175262451,Corridor,Bright
+fa922c84-7817-470a-8ef8-868a009c1e8d.png,Clear Path,3.676551580429077,Corridor,Dim
+6758f2ae-cbe7-461e-895c-a18e68ba9be1.png,Small/Low Obstacle,1.372971534729004,Kitchen,Bright
+6f4f03ac-7e48-4717-ab59-65a8f79b357e.png,Large Obstacle,1.0474568605422974,Home Office,Bright
+886cd9b1-5d0f-4ced-a541-4001bf5e0c8d.png,Structural,1.7283499240875244,Living Room,Dim
+25c9e6ec-cc9a-4d03-a19f-0df977fefe02.png,Small/Low Obstacle,2.636432886123657,Home Office,Bright
+01487d43-65e6-462b-9af5-4e2935d602d7.png,Small/Low Obstacle,1.7456345558166504,Home Office,Bright
+f707b19c-26af-4802-a195-469b27b96514.png,Structural,2.926720142364502,Home Office,Dark
+489e90b9-4a65-4982-829f-e5155abf9dd0.png,Large Obstacle,2.5720250606536865,Home Office,Bright
+25b7a43e-feef-4038-9c5d-cea66723eb39.png,Clear Path,3.361885070800781,Living Room,Bright
+ebebed3b-5736-4086-8ed2-fe2da81feb75.png,Large Obstacle,1.4022117853164673,Home Office,Dim
+652049fc-aa8f-473e-943f-c8c9f05258d7.png,Elevation Change,2.0813653469085693,Kitchen,Dark
+896ca239-d6cb-4afa-8c5e-09d5c19b157b.png,Structural,2.0428614616394043,Living Room,Bright
+9ef6d626-1045-4249-bc83-82849fd31042.png,Clear Path,4.022286891937256,Living Room,Dark
+8867ef2e-fda4-4ae1-94f5-ddf1bbe9160e.png,Large Obstacle,1.8375223875045776,Living Room,Dim
+fe9c10a8-80b0-4d19-bc4d-2f350348b400.png,Structural,3.3306381702423096,Corridor,Dim
+b6553baa-99fc-43db-81ce-02b0864c3dbf.png,Structural,3.5088579654693604,Living Room,Bright
+3b82be9d-574d-448c-9a07-3041371af91d.png,Clear Path,3.286540508270264,Corridor,Dark
+b058876c-0a17-49c3-b3db-ff3e80e815fd.png,Structural,1.2454664707183838,Living Room,Bright
+3b1cb988-1863-413d-b903-59fc463a989b.png,Clear Path,2.7205970287323,Kitchen,Bright
+54e63a23-7b26-452a-b99c-0d4af8e3963f.png,Large Obstacle,3.030206680297852,Home Office,Dim
+a999c3c5-01b6-4ab7-891c-4f6d74948fdf.png,Small/Low Obstacle,2.3152084350585938,Living Room,Dim
+1722cf8f-2f13-4954-a410-daf5664a9843.png,Clear Path,4.1684088706970215,Home Office,Bright
+d6c94228-a8e7-4420-bbaf-a3e8012e9ead.png,Structural,1.2858985662460327,Living Room,Bright
+3dc24843-6c68-4b0c-8764-25e9bb25463a.png,Small/Low Obstacle,1.4488959312438965,Kitchen,Dim
+bb782635-1b88-48f1-92a9-01fb1caead5f.png,Small/Low Obstacle,2.3221206665039062,Living Room,Bright
+15976ec6-cd04-4eed-9858-980deb5d7fbe.png,Elevation Change,2.056318044662476,Kitchen,Dim
+729a02cd-949e-4fdb-81e1-ce7e4a00d293.png,Structural,2.929408550262451,Home Office,Bright
+c9a57e5b-c8d8-4a3d-b089-830008c96c79.png,Clear Path,2.0179190635681152,Living Room,Bright
+740847ce-41e0-46f1-9662-02d2dc9e6cb4.png,Large Obstacle,1.4878236055374146,Corridor,Bright
+0ff5b6db-d36b-4c46-b95b-10cbc92a6248.png,Clear Path,3.072420597076416,Corridor,Bright
+54183059-6832-426c-9c45-400e37d90475.png,Small/Low Obstacle,2.038832664489746,Corridor,Dark
+8882d744-884a-48ea-860d-bad6b8de7dbd.png,Structural,2.489755630493164,Living Room,Bright
+d601f834-afaf-4792-8c4a-fea7c3b4890f.png,Large Obstacle,1.8437306880950928,Corridor,Dim
+432b6be3-768e-4ce8-841e-bfc862891514.png,Clear Path,5.088042259216309,Home Office,Dim
+ca9fe947-5f4a-45fc-992f-f897d7e9497c.png,Elevation Change,2.1617159843444824,Home Office,Bright
+f181ba34-d2ce-4bed-9f40-03351dbf980e.png,Large Obstacle,1.754562258720398,Kitchen,Bright
+f07b183d-5fa4-4a1b-95db-0b5b9f5bbf70.png,Clear Path,3.1509933471679688,Corridor,Dark
+ea78e5ac-1c8e-43b2-bec4-7ecf4338c279.png,Clear Path,3.3053648471832275,Corridor,Dark
+1fc777bc-71d5-4eb1-ad24-f16481994201.png,Structural,2.841417074203491,Corridor,Dark
+a126d369-a6cc-45f3-90f3-157290f35af1.png,Large Obstacle,2.4121756553649902,Corridor,Dim
+eaa3fad1-7962-4620-916d-06b051400d3e.png,Small/Low Obstacle,2.124653577804565,Living Room,Bright
+d11ce1e4-5d23-4e37-9a83-679582dfcd06.png,Structural,2.7135725021362305,Corridor,Bright
+6365a906-8870-4581-9026-27defc7ae629.png,Structural,1.891081690788269,Living Room,Bright
+e97a9dc2-f63b-4acb-9229-09c06b620e93.png,Large Obstacle,1.9783469438552856,Home Office,Dark
+938b6fa4-0d07-4caa-899e-ac7606df749a.png,Large Obstacle,2.213009834289551,Home Office,Dim
+03ecbad3-8cdd-4424-a8e4-c242188267c2.png,Large Obstacle,1.4083173274993896,Kitchen,Bright
+b0ba4a0f-71c9-439a-94ee-226a00d3ca06.png,Clear Path,2.3029582500457764,Kitchen,Dark
+e7593473-e7c6-4842-9fd4-1c678683c8ee.png,Structural,2.5107176303863525,Living Room,Dark
+e860debd-e51f-4734-8048-b434aa99dacb.png,Clear Path,3.062950372695923,Kitchen,Dim
+e9d2150d-384c-4c73-aa0b-2b264963f565.png,Small/Low Obstacle,1.4697144031524658,Living Room,Bright
+9433351f-1053-4e77-af34-33fe0d623dc9.png,Small/Low Obstacle,2.7168402671813965,Corridor,Dim
+528ea2fb-93a2-41a7-a6ca-e140f0c28e92.png,Small/Low Obstacle,2.1119325160980225,Corridor,Bright
+647311a4-54b9-4629-8d75-5c95f1acf98d.png,Small/Low Obstacle,1.872664451599121,Living Room,Dim
+9610c17f-e7ea-418b-9499-d15967f55fc7.png,Elevation Change,1.724353551864624,Living Room,Bright
+b3b877f2-709c-4470-a796-37f67782df50.png,Large Obstacle,1.8060309886932373,Home Office,Dim
+f0e07b2c-a469-4a63-b609-d69f7c60d61a.png,Large Obstacle,1.5574640035629272,Home Office,Dim
+69d6f1cd-77c1-4e6e-bec1-f01287fb0414.png,Clear Path,2.739602565765381,Corridor,Dark
+a3b820c2-2cd9-4f52-a8e7-2cb04ac3285d.png,Clear Path,3.2592673301696777,Kitchen,Bright
+c505d220-66f7-4d0a-9a33-466e609c926d.png,Small/Low Obstacle,1.9478157758712769,Home Office,Bright
+1adeed9f-edb7-4541-a51b-c9d5b3c2e9e2.png,Structural,1.8264721632003784,Corridor,Bright
+ae73b59d-95d5-48be-8696-e9f6f2f3ba45.png,Clear Path,2.9859941005706787,Living Room,Dim
+a01ec035-04b2-4fff-bcd1-2ffe9df636f7.png,Large Obstacle,1.0174319744110107,Home Office,Dim
+8e3b52de-de6c-495a-b565-a9bc92f19d99.png,Clear Path,1.92466938495636,Kitchen,Dim
+6e153552-7476-47d1-b6ec-25adeb462833.png,Large Obstacle,1.4494006633758545,Living Room,Dim
+79aafd43-e0f3-4f71-9f8c-0a8ddf41afb6.png,Elevation Change,1.2246201038360596,Home Office,Dim
+2e22598e-7e92-4dca-879d-0ed99e1df426.png,Clear Path,4.833775997161865,Living Room,Dim
+8b941d62-f9a0-456e-9288-464f9483c575.png,Clear Path,4.097289085388184,Living Room,Dark
+0281fa5c-3aa6-4f02-aab6-33486ada2016.png,Large Obstacle,2.039686679840088,Home Office,Dark
+ab1b9556-be0e-4582-8a90-17e245484034.png,Clear Path,3.0040812492370605,Living Room,Dim
+2c1b171b-f1b9-4609-a5a7-077f16aad853.png,Structural,3.1443002223968506,Home Office,Dark
+64b6b7b4-9581-4de4-bdce-f08eebdcb9aa.png,Small/Low Obstacle,2.196205139160156,Home Office,Bright
+fefaaa29-314d-4efd-ba1d-768da7efba7c.png,Small/Low Obstacle,1.0202033519744873,Kitchen,Bright
+c5fe06ca-0a30-4c8e-abde-082c6f73bb64.png,Small/Low Obstacle,2.5499370098114014,Home Office,Dim
+a26cd084-efd8-449c-9ca9-eb8499531902.png,Structural,2.2725272178649902,Living Room,Dark
+0291324e-8687-4709-a84d-b6d2a0c9f029.png,Clear Path,2.906258344650269,Corridor,Dark
+b59f65a5-8d74-4c7a-9ef4-7341134e6293.png,Structural,2.44852614402771,Kitchen,Bright
+072401ef-a8dd-475f-9ed7-f740b45695e1.png,Structural,1.6004493236541748,Home Office,Dim
+d16a8c63-5a1c-4cef-86cd-16445a218702.png,Structural,1.5434448719024658,Corridor,Dim
+cd0c67b1-6fa2-40b0-8689-880bef5e3b9f.png,Clear Path,2.561683416366577,Corridor,Bright
+1a8f5df3-5f86-4020-ae84-7a1a665e11cf.png,Structural,2.1538803577423096,Corridor,Bright
+f921c103-fb40-4615-847d-ecf3a3e1c7f9.png,Large Obstacle,2.459801197052002,Home Office,Bright
+b9cd3218-8120-46a8-bd1f-99cf23fc8263.png,Structural,2.431618452072144,Corridor,Dark
+0f59c60c-a18d-49d1-a1ba-0ec99aedbc17.png,Large Obstacle,2.744083881378174,Living Room,Bright
+c53f69dd-e343-4125-9746-10da75340c5b.png,Clear Path,3.473823308944702,Home Office,Dim
+7dd73fad-72e8-4dc3-9f79-fd8f084689ef.png,Clear Path,3.3496689796447754,Living Room,Bright
+9796ee03-40bd-4fe4-a915-b7bf9a617a11.png,Small/Low Obstacle,1.7837425470352173,Home Office,Dark
+f911bb7c-539d-49c1-b1a7-38cece327796.png,Clear Path,1.8286640644073489,Kitchen,Dim
+46f64d9d-41ee-4ead-abaf-0168700448e4.png,Clear Path,2.495981454849243,Corridor,Bright
+5951d773-7e54-4405-88b8-be64b2ae6e42.png,Structural,2.6699583530426025,Corridor,Dark
+1e06f15f-6e1a-4e79-b8b7-54fa90d5c40d.png,Large Obstacle,1.470186710357666,Living Room,Dim
+0009cde9-237d-4b69-bf5b-3850b43104b4.png,Large Obstacle,2.8317058086395264,Home Office,Dim
+d72e19f0-977b-45d1-82a7-2932107dace3.png,Large Obstacle,2.014021873474121,Corridor,Dim
+daa39369-d854-463c-b211-6e465bfd1044.png,Structural,1.9426947832107544,Living Room,Dark
+73970c2b-f008-4786-97a1-ab5101d1cd04.png,Large Obstacle,2.01315975189209,Kitchen,Dim
+c53002bf-8ee6-44bb-b14f-4a97fe5339b2.png,Clear Path,2.098250389099121,Kitchen,Dim
+5e6fa6f5-b2e9-4fa2-bbef-df95ea1aee81.png,Clear Path,3.1165812015533447,Living Room,Dark
+0c5345e3-622e-4641-8c9e-df6c43f260e8.png,Structural,3.280740737915039,Corridor,Dark
+794fb24c-cf44-4d76-879c-961ea322db3a.png,Large Obstacle,1.954349994659424,Corridor,Bright
+0cfa00a5-e7e2-4bd1-a7b2-85d91c1e6dd4.png,Elevation Change,1.875633716583252,Living Room,Bright
+3ab1b402-b06a-4c03-8e33-ef2d51c0124d.png,Structural,2.422283887863159,Kitchen,Dim
+0d74c401-14b6-4489-b5c2-85d003f4631b.png,Small/Low Obstacle,1.8945331573486328,Corridor,Bright
+ccea4f12-7214-4ba1-8e9d-05af5ee34cc3.png,Structural,2.323054313659668,Living Room,Bright
+d1907986-2f5b-43a5-98a8-5ffabbed8268.png,Large Obstacle,2.0262787342071533,Living Room,Bright
+19fbe3c1-a4b7-418f-81b3-c2b9e1dfa40d.png,Clear Path,3.996696710586548,Corridor,Dim
+2d55688b-a850-4873-a1b4-9c9997ecc01e.png,Large Obstacle,1.6911215782165527,Corridor,Bright
+96356a2f-d9d0-4073-8051-91604ca473d0.png,Small/Low Obstacle,2.476743459701538,Living Room,Bright
+7ea307a4-20ae-43be-a967-dec98b4e84b5.png,Structural,2.77339243888855,Kitchen,Dim
+14f102ce-63ad-4297-913f-7d358f9c55d4.png,Elevation Change,2.9664127826690674,Home Office,Dark
+901f91b0-822b-4d6d-af68-1ed4b4ee0a6d.png,Structural,1.742784023284912,Home Office,Dim
+b749b77c-2cbd-4a04-9a60-16849a1053f1.png,Structural,3.6340816020965576,Home Office,Dim
+57890179-f173-4ebb-8b1a-e99e449147f9.png,Structural,2.2245116233825684,Living Room,Bright
+44e31c14-4db8-491a-9c76-51c2d3016d5e.png,Small/Low Obstacle,1.8350281715393064,Living Room,Dim
+75bccc66-a804-48ed-a983-db86179ea77c.png,Small/Low Obstacle,1.254276990890503,Living Room,Bright
+81accf0e-5a62-41d4-9fda-2109b063d2bd.png,Large Obstacle,2.0649917125701904,Living Room,Dark
+62f5f07d-fe32-40a1-9979-0569fdda7044.png,Small/Low Obstacle,2.816800117492676,Corridor,Dim
+0f99e6a5-0edd-4267-a095-8692106ac553.png,Clear Path,3.5390288829803467,Living Room,Dim
+97ba4e12-b6c2-4288-9e43-faa3b9acb262.png,Clear Path,4.446325302124023,Home Office,Dim
+f76ad7de-e441-4683-aa70-b698579c1fd1.png,Clear Path,2.537050247192383,Home Office,Dim
+210a3906-f433-4747-b191-90664883ba08.png,Structural,1.5807665586471558,Corridor,Dim
+002abb13-dedd-4e94-82a8-e6643125cd15.png,Clear Path,2.719899892807007,Living Room,Dim
+4aace4ff-76cc-4573-990f-bb0d6b03a9f3.png,Large Obstacle,1.8173911571502688,Home Office,Dim
+4d7cbfd0-b589-4901-9cb5-30a8907ba488.png,Small/Low Obstacle,1.448458909988403,Home Office,Bright
+b2b932b0-a93a-4bbb-843f-8a2cc4ed0dd8.png,Large Obstacle,2.0703988075256348,Corridor,Dark
+44134c53-444b-4bd9-8299-4de006e605b9.png,Small/Low Obstacle,2.1729066371917725,Home Office,Dim
+54c4f423-3bfb-4b57-9a71-dd67eb21fdcb.png,Small/Low Obstacle,2.952657461166382,Corridor,Dark
+7b966e9c-5511-469b-a72e-8390b17d260c.png,Large Obstacle,2.981799364089966,Home Office,Dim
+e1fcd286-7bd0-4f79-8499-4437218a7b03.png,Structural,2.370069742202759,Kitchen,Dim
+2ebdf85a-b221-4693-997b-58f15f6c1f87.png,Clear Path,3.820568799972534,Home Office,Dim
+c0a1d8ee-7d9c-4556-8262-e07da9860d7d.png,Large Obstacle,2.0370659828186035,Kitchen,Dim
+483746e2-8a1d-4d09-9b8a-41c7f92527e7.png,Structural,2.2285993099212646,Living Room,Bright
+9f722f41-44f1-439d-bd96-e559b8e076a5.png,Elevation Change,2.017066478729248,Kitchen,Dark
+7e2296c3-afd8-42dd-a99a-08ecf5933d8e.png,Clear Path,3.240355968475342,Living Room,Bright
+469a7b9e-fdd2-4e02-8536-f69b0a951a79.png,Clear Path,3.908172845840454,Home Office,Bright
+2316309d-905d-4393-89bc-78113b559f0c.png,Large Obstacle,1.7260292768478394,Home Office,Dim
+94ce32e0-9e7a-4e34-8d3e-1eafd47d4dfc.png,Small/Low Obstacle,2.162152051925659,Corridor,Bright
+fe6b87ee-464b-4837-be6f-faf2d9588904.png,Structural,2.6270129680633545,Kitchen,Dim
+b0ad51fb-1564-4931-95bc-db38abfe4e36.png,Large Obstacle,1.6174936294555664,Corridor,Dark
+7f59ceee-5882-4c73-9803-16daace5cfff.png,Clear Path,3.080541610717773,Living Room,Bright
+db1a0ffa-17cf-4c75-a317-a9c41515f7c7.png,Clear Path,2.642957925796509,Home Office,Dim
+b1a6e2a6-748c-4987-9c16-4c6cca86faa0.png,Elevation Change,2.814378499984741,Corridor,Dark
+5c673d53-b882-4ada-a1fe-f3f138474a5b.png,Clear Path,4.904353141784668,Home Office,Dim
+1461cd82-8727-42a9-b1d1-6a1caf32682f.png,Small/Low Obstacle,1.1872437000274658,Kitchen,Bright
+81f7f569-53e3-4fef-b4d5-d4f120c52a44.png,Structural,2.1972241401672363,Home Office,Dark
+981cb758-3210-4d85-9d96-d0788949dfd6.png,Small/Low Obstacle,2.155055522918701,Corridor,Dark
+0e21b697-79b2-47eb-97a3-e80e224ee042.png,Small/Low Obstacle,1.9696277379989624,Corridor,Bright
+9e69d7b8-6255-4fd5-afa2-20426814c640.png,Elevation Change,1.7749712467193604,Home Office,Dim
+44073d53-8770-44f6-b4c7-225d590ef036.png,Structural,3.809530973434448,Living Room,Dark
+1a97aa02-b942-4382-b043-c4a6e0d42f69.png,Large Obstacle,3.068123579025269,Living Room,Dark
+2772ceab-5e50-4173-883a-469bf4f503e3.png,Structural,3.637088060379028,Home Office,Bright
+1d0adc80-f2b0-4c59-b5f3-b90b42a28931.png,Clear Path,4.240047454833984,Home Office,Dim
+489f7b77-bf0c-42f6-8127-7de511daae5a.png,Large Obstacle,3.1766819953918457,Living Room,Dim
+4bc21c04-3c53-46f8-bc09-9a4cd1d77a44.png,Structural,2.628944635391236,Kitchen,Bright
+233a1e17-73bd-40e8-ae27-b99e13b46139.png,Small/Low Obstacle,1.5424553155899048,Living Room,Bright
+78d6328b-f0dd-463d-928a-7418f8f9afc6.png,Structural,2.4947080612182617,Home Office,Bright
+5df82cf9-3722-4102-9b26-06788d069fb8.png,Elevation Change,2.202981948852539,Living Room,Dim
+83ed6939-cb04-4176-a8fe-2585587654c1.png,Elevation Change,2.5586466789245605,Corridor,Dim
+a94a487f-8c20-4ebf-b209-87060b64a985.png,Small/Low Obstacle,0.8272998332977295,Home Office,Dim
+0e64f896-613a-4bcd-990c-4fa5420772de.png,Structural,2.9164226055145264,Home Office,Dim
+8794057b-e107-4466-86d2-28b223ff189d.png,Small/Low Obstacle,1.27770733833313,Home Office,Bright
+fb304c75-4703-43fa-a3a8-e7f65dc9de05.png,Large Obstacle,1.974593162536621,Corridor,Bright
+01dffc0e-386a-42b9-8040-3d5c048f5880.png,Clear Path,2.969754934310913,Kitchen,Dim
+dcaa96c3-4aed-4a0e-a849-b1d3468542c0.png,Elevation Change,1.312271237373352,Home Office,Dim
+a07462b4-6e1f-457f-b3a2-d5486a3165ed.png,Structural,2.5546369552612305,Corridor,Bright
+62c444bb-19f1-404a-ad4e-f605922477a1.png,Small/Low Obstacle,0.9766495823860168,Home Office,Dim
+de0bc4b8-d66b-45fd-8cb4-3fcde72351da.png,Elevation Change,0.7940888404846191,Home Office,Bright
+6ab7dd75-0944-45e0-b648-b4474ab833c4.png,Clear Path,3.2404167652130127,Living Room,Bright
+a4319322-6285-4316-a119-155114f75b6d.png,Large Obstacle,2.1367881298065186,Kitchen,Bright
+2ce7610e-78f1-4cbb-b98e-e12604b53592.png,Clear Path,1.707711100578308,Kitchen,Dim
+0f46329e-16d5-46f8-aa3c-f2fd9ca3d091.png,Clear Path,4.548810958862305,Home Office,Dim
+0565e3ba-24ec-4a9c-b78c-47e6aea03b78.png,Large Obstacle,3.1357622146606445,Living Room,Dark
+13d2ace6-5601-492f-a4cd-3f068a7d13d7.png,Structural,2.442821502685547,Corridor,Dim
+874c6726-1903-4daa-bc50-2a486aa3bcd4.png,Structural,1.5245033502578735,Kitchen,Bright
+a85178cf-c7d5-4131-a8f2-888c1e174269.png,Large Obstacle,2.041861057281494,Corridor,Bright
+11b7bca9-d41e-4a33-9f06-a55852ed7693.png,Elevation Change,2.6907894611358643,Home Office,Dim
+58749434-8daa-48b0-8818-5308a2ef81a4.png,Clear Path,3.892427682876587,Home Office,Dim
+6bb85cc7-b56c-43cf-b935-defcd176f07d.png,Structural,2.684272527694702,Corridor,Dark
+12b9673c-c8d6-4d14-93f3-1bbafb367c33.png,Structural,2.39099383354187,Corridor,Dark
+0f2f2d82-d6d9-4707-aeee-8eb3eeaee941.png,Structural,3.279137134552002,Corridor,Dim
+6ef9b778-6b62-4079-87c4-dddd38d44a04.png,Structural,2.080772876739502,Corridor,Bright
+8ac2aab0-ef82-4324-8218-2bf1a41be60e.png,Clear Path,4.409141540527344,Living Room,Dark
+91ba0d54-c2f7-4b80-806a-38c8332762d7.png,Clear Path,3.5822713375091557,Living Room,Bright
+b75feb47-aa1b-4669-ad99-c18eae510235.png,Large Obstacle,1.6440314054489136,Home Office,Bright
+93b8c6d7-901e-4288-be57-6ba2115d3014.png,Clear Path,3.779019832611084,Living Room,Dark
+5ca57f8f-0771-4a1a-9820-0343e13be051.png,Structural,3.3780550956726074,Home Office,Dim
+025d310b-4ab4-498f-a4d2-24dc27173907.png,Clear Path,1.994149088859558,Living Room,Dim
+dafd767f-e1b9-444f-ad75-73b812f4616e.png,Large Obstacle,3.524940252304077,Living Room,Bright
+ba760c22-646d-47e1-9113-1045b599f5ee.png,Small/Low Obstacle,2.118107795715332,Home Office,Bright
+8319cbe6-2d66-4ae7-a31a-c6d04c85464a.png,Large Obstacle,1.6919023990631104,Home Office,Dim
+02e4a780-ec10-4631-b239-8b1962aa8ca4.png,Small/Low Obstacle,2.676962852478028,Corridor,Dim
+d48dfb4e-f566-4954-a371-5d07daf9efba.png,Clear Path,4.170333385467529,Home Office,Dim
+b9353522-e857-42f4-97e6-48a2ce04f03a.png,Elevation Change,2.3637619018554688,Corridor,Dim
+823d4f7a-1557-4e26-ba44-5e5cfe4395d3.png,Clear Path,2.559883117675781,Kitchen,Bright
+2179a496-1974-4e43-9b4b-845ba5aef5d0.png,Elevation Change,1.129150390625,Kitchen,Bright
+08ee2f81-d596-4ec1-8e63-764c367f1f21.png,Large Obstacle,1.7769629955291748,Home Office,Dim
+61a12abb-0fda-41f4-8c3d-fcd7348a1d92.png,Structural,2.417701482772827,Corridor,Bright
+4b342aa2-5529-4720-a34b-e7a93d56587c.png,Structural,2.169139862060547,Kitchen,Dim
+400cd0ba-c5b2-47ef-8fb5-f1d55ea016cb.png,Clear Path,5.200392723083496,Living Room,Dark
+05c478a5-05a1-4019-8027-50ad81228f08.png,Elevation Change,2.3818109035491943,Corridor,Bright
+14485f83-4edd-4214-92c4-57be9314e50e.png,Structural,2.1720316410064697,Home Office,Dark
+ff3e86f0-2828-43d9-8b78-a048111d4578.png,Structural,2.88340163230896,Kitchen,Dark
+48f0c49e-1a86-4e2c-bee5-5e96f088e1b0.png,Clear Path,2.0776126384735107,Kitchen,Bright
+090c9e05-1f0d-4ed5-9efb-c4cea7e0c25b.png,Structural,3.01499605178833,Corridor,Dim
+dfad02af-7211-4e81-ab51-f45b7006be33.png,Clear Path,2.3807482719421387,Corridor,Bright
+5eff822a-baa8-4e51-a805-aa9819addcb3.png,Small/Low Obstacle,2.274815559387207,Home Office,Dim
+0a7d622a-16b2-4a10-a41a-835543722b0f.png,Clear Path,3.628483057022095,Living Room,Dim
+d054ee23-326f-4bf7-985a-54e433272070.png,Clear Path,3.133363008499145,Living Room,Dim
+73aab0f7-5261-4bab-afbf-49a6e9283c2e.png,Large Obstacle,1.722839593887329,Corridor,Dark
+4e675c97-99e8-4263-ae09-82b929aa9e8c.png,Elevation Change,1.8039463758468628,Corridor,Dim
+5ff0344c-c188-4423-9de2-7b7205e66767.png,Clear Path,3.6269004344940186,Home Office,Dim
+1b4d2b13-3c43-4899-8257-8de80f3c35db.png,Clear Path,4.254843235015869,Living Room,Dim
+37e98ead-14ee-42af-8319-080ad15277ef.png,Elevation Change,1.5408716201782229,Home Office,Bright
+2d37e0c0-f119-41ab-9a5b-fb0fe1cc8b52.png,Small/Low Obstacle,1.0591166019439695,Corridor,Bright
+0c3a9f84-e7ea-42b2-8db1-2eda3e4b26da.png,Large Obstacle,4.201950550079346,Home Office,Dim
+831470c6-56bd-45e3-8369-dc0c5a6a08b6.png,Elevation Change,1.8071213960647583,Home Office,Dark
+16a6d3c4-8dcf-4732-a4f7-dedd85d0bc59.png,Small/Low Obstacle,2.8760786056518555,Home Office,Dim
+c4e97f34-91ab-4474-9322-a0937de58ddd.png,Small/Low Obstacle,1.5861488580703735,Living Room,Dim
+f230dca2-5447-4159-944e-c7b6c729f42f.png,Structural,2.918489694595337,Corridor,Dim
+e0d04747-4435-4b1f-be68-4bf710fd168a.png,Large Obstacle,2.479932308197021,Home Office,Dim
+6e07b632-b275-4042-a4b5-6adf176bd386.png,Small/Low Obstacle,1.8242197036743164,Living Room,Bright
+1ed8a352-a6d5-40fd-8a47-e1eeeeee1ae0.png,Structural,3.0957934856414795,Living Room,Dark
+f678caab-33a2-4b52-84ec-6b35d42b93a9.png,Structural,1.5188915729522705,Corridor,Bright
+d14e82a5-039f-4cc3-87e1-898a9da73ff3.png,Large Obstacle,2.335957765579224,Living Room,Dim
+c31a8e81-5fc7-44f2-82b9-4875658733d1.png,Elevation Change,2.1658968925476074,Living Room,Dim
+3704e579-0c86-4905-b1f2-df88b814b037.png,Small/Low Obstacle,2.585662841796875,Corridor,Dim
+d1087d29-8ac5-4957-b3d8-b2b6306a8c86.png,Small/Low Obstacle,2.430349349975586,Living Room,Dim
+c9dcc21e-3355-4284-9dd6-674a2727e070.png,Structural,2.1291656494140625,Corridor,Bright
+a1aa4cc9-5431-4d80-a064-92237a5ddbde.png,Structural,2.767702102661133,Home Office,Dim
+7255c919-db5f-4c7a-b849-5500a8ef6081.png,Clear Path,3.375432014465332,Corridor,Dark
+c185cd28-d309-45c6-82ab-d008ff72661d.png,Structural,4.29371452331543,Living Room,Dim
+28b7ee7b-69ce-47d5-a381-4176bda52506.png,Clear Path,3.602800130844116,Home Office,Dim
+c2f9b7b8-2a9a-4545-9f78-247d826941d2.png,Large Obstacle,1.9226878881454468,Kitchen,Dim
+4b1a7b5b-5913-4a09-a6af-e83e846cab4a.png,Structural,2.7088215351104736,Home Office,Dim
+e2ed6688-6604-48ba-b915-f35b3dbc35bb.png,Small/Low Obstacle,3.082358837127685,Home Office,Dim
+0b9032bc-1465-476e-b2ee-58ea9d28582e.png,Structural,2.7169644832611084,Corridor,Dark
+692497b8-c968-4c21-881e-a2b78d616eab.png,Clear Path,3.881794452667236,Home Office,Dim
+271b025d-61f2-4d16-83a4-9693f86b7296.png,Elevation Change,1.4633982181549072,Corridor,Bright
+a67e2486-2275-435f-870d-ad0174d20e0a.png,Clear Path,3.900689125061035,Living Room,Dim
+4a15e2c0-0a03-456d-b2ce-2f4157b2dab3.png,Structural,2.4042367935180664,Corridor,Dark
+41ae6a15-3e4d-4642-b085-3e5218efe971.png,Clear Path,2.6192290782928467,Home Office,Dim
+d6bc6fd6-c226-4c37-bef7-b6b916aefb26.png,Clear Path,1.579116940498352,Living Room,Dim
+cd2c4b09-0e95-4dad-a4d6-a7dac1963954.png,Structural,2.7350850105285645,Living Room,Dim
+8efef631-aea2-40ab-b8b0-3b8c04aac93b.png,Structural,1.7750449180603027,Corridor,Dark
+4011f00e-f36b-49df-a46d-10577c9363b6.png,Structural,3.146169900894165,Home Office,Bright
+d381b2d1-21bc-46aa-b45e-6bbf56175a96.png,Clear Path,3.612353563308716,Living Room,Bright
+a749f373-a88c-4dd8-abb9-684aa8687339.png,Clear Path,4.397736549377441,Home Office,Dim
+c43d9267-7c24-4a89-9d41-26503f2ea248.png,Small/Low Obstacle,1.9938716888427732,Living Room,Bright
+4bd08395-cb34-454c-8f3a-05e62ee3daa6.png,Elevation Change,2.9872689247131348,Living Room,Dim
+2f6bf0f7-3a32-4c97-bb24-c078cfb0a0e6.png,Large Obstacle,1.4048084020614624,Living Room,Dim
+7ae6dc6f-16aa-4377-841e-b5722ff2f0a9.png,Elevation Change,1.588932752609253,Living Room,Dim
+d85bfefe-82ae-4a3a-839b-ca3b6a736d5d.png,Small/Low Obstacle,3.1380200386047363,Corridor,Bright
+b64c0f1f-80e7-4822-8f79-42820774ffcb.png,Structural,2.307555913925171,Home Office,Dim
+9bf65a12-9d2d-47c8-90bb-831da3839fb2.png,Structural,1.7021011114120483,Living Room,Dim
+0d99f003-5924-49ee-aefd-085c2f0cc132.png,Elevation Change,1.5600905418395996,Home Office,Dim
+fbd06bf7-a83d-497d-9476-33e353672645.png,Small/Low Obstacle,0.7941066026687622,Home Office,Bright
+f26cfcdc-4642-492b-92c2-44d8954b91b7.png,Clear Path,4.536687850952148,Home Office,Dim
+d58c17da-33d0-4f57-bc45-062c3c631746.png,Clear Path,2.9764912128448486,Living Room,Bright
+50739f66-8f4d-4efd-9699-635df896e987.png,Clear Path,3.297186851501465,Living Room,Dim
+5dc02a26-3ba8-4e6d-bca7-c4ef1fbe3e10.png,Clear Path,4.1932549476623535,Home Office,Dim
+c8c5cbea-053c-497e-a930-9e99c340a3a3.png,Large Obstacle,2.109522581100464,Living Room,Dim
+7e56ede0-adfe-4a8e-8d8b-6757e7014713.png,Clear Path,3.381584405899048,Living Room,Dim
+90f2a3ed-5211-4676-a645-2b69700b3f67.png,Structural,2.272022247314453,Living Room,Bright
+e06ebc86-78e1-47d5-81c4-f75cda0aee20.png,Structural,4.414409160614014,Living Room,Dim
+8fd3d695-eeeb-45d8-9a77-1ace3197d052.png,Elevation Change,2.8259828090667725,Living Room,Dim
+f3130d95-a0e8-400b-8eec-641df90e1c8b.png,Small/Low Obstacle,3.299142837524414,Living Room,Dim
+3b72a306-28b7-4597-8fb3-d2827ed04cb9.png,Structural,2.729950189590454,Living Room,Dim
+f3f1bd99-147f-4a4a-8108-0e45386fc994.png,Clear Path,3.13552474975586,Home Office,Dim
+39049464-5754-4ce2-8e4c-5deeba95ff11.png,Structural,1.5168161392211914,Corridor,Bright
+c586af30-4ef1-42bc-8c44-f063d5eb8aa4.png,Clear Path,5.087062358856201,Kitchen,Dim
+730cba76-4d09-4649-be9e-6273666e5e58.png,Structural,2.498720169067383,Corridor,Dim
+58418486-9581-47b3-b2a2-621cfa00ea83.png,Large Obstacle,1.5428600311279297,Home Office,Dim
+c7a6255b-8a85-4125-a4bb-c2342a27699e.png,Clear Path,3.450915813446045,Living Room,Bright
+9ac30876-1bde-430f-872b-c0db0f844700.png,Clear Path,2.7345199584960938,Home Office,Dim
+dc89275f-1686-4240-954e-016026c69c88.png,Structural,2.829670190811157,Corridor,Dark
+79620757-853c-475f-aa9d-55d3dee49a23.png,Structural,4.546349048614502,Corridor,Dim
+e8381099-3b10-4586-83b1-478c81fc7d39.png,Clear Path,3.343949794769287,Living Room,Dark
+523ee260-f066-47bc-85c3-e1aa6749393f.png,Small/Low Obstacle,1.9608029127120967,Kitchen,Bright
+00c9b35f-4da5-4a57-8402-3e40ac767289.png,Large Obstacle,3.236384391784668,Living Room,Dim
+1f0df466-125c-4bdf-b745-b11ba61ae2e4.png,Small/Low Obstacle,1.355244278907776,Home Office,Dim
+40b08d88-984b-4c58-9694-0e54866ac41e.png,Structural,2.016191244125366,Kitchen,Bright
+0258e040-245f-4929-82f2-86ceda91eee5.png,Small/Low Obstacle,1.3076287508010864,Living Room,Bright
+ee93d5e2-09d5-4188-9bce-4e9331783010.png,Structural,2.783572196960449,Living Room,Dim
+5856dcb1-b272-4b86-b1eb-341b6be1a51a.png,Small/Low Obstacle,2.514126300811768,Living Room,Dim
+3df05bbd-c21c-49d0-a0fb-549f2800fa03.png,Elevation Change,1.3407690525054932,Home Office,Bright
+e246acaf-4497-406c-ae88-2bb02399f3b1.png,Elevation Change,2.609901666641236,Corridor,Dark
+abf4fb61-9dde-4446-a64a-bcc0ce20ad81.png,Structural,2.0059046745300293,Corridor,Bright
+b83b49c8-fea9-4193-a3ce-07c3a803a77b.png,Large Obstacle,2.064374685287476,Corridor,Bright
+23448f53-294f-4cec-85e1-d9cc18494bf2.png,Clear Path,3.967530012130737,Living Room,Bright
+e9c548f0-e271-4cea-90de-b4019e48e498.png,Elevation Change,1.7013797760009766,Corridor,Bright
+18b065c8-157a-4e34-839f-76ab3f39a7ae.png,Structural,2.963979959487915,Living Room,Dim
+f1ae99b5-4c3d-417f-8497-3ed4c05a3a1c.png,Clear Path,2.600082874298096,Home Office,Bright
+3d07d1b6-e4bf-4cf8-916a-69a50c3e3e17.png,Clear Path,3.2439966201782227,Kitchen,Bright
+d6fa5e71-5b56-499a-95a2-fa272fece7a0.png,Clear Path,4.388172149658203,Living Room,Dark
+b3ed5b8a-c340-470c-a7fe-dd52a23e7d59.png,Small/Low Obstacle,2.112136125564575,Corridor,Bright
+0bef9944-a698-4395-a21b-bcf237bb3960.png,Large Obstacle,2.1232481002807617,Home Office,Dim
+18dd135c-d468-4008-b551-096372badbef.png,Large Obstacle,2.350273847579956,Living Room,Dark
+b0e07987-90a3-4d51-948e-92670135e9fb.png,Structural,3.2938244342803955,Living Room,Dark
+6b73b305-7b06-4a0f-a8e4-7e44ff917d2d.png,Structural,1.9445240497589111,Kitchen,Dark
+d4519fe8-9f98-44be-b99f-ea2e29cbdee3.png,Elevation Change,2.624018907546997,Living Room,Bright
+c6db468f-3106-4dfa-881e-31620b035253.png,Large Obstacle,1.4434213638305664,Home Office,Dark
+24c622b5-ffff-4e41-8a64-83813910059e.png,Clear Path,4.470700740814209,Corridor,Dark
+677be2bc-293c-4538-96fb-f020006a458d.png,Structural,1.644295334815979,Corridor,Bright
+f52f8368-4f19-49cb-a2b1-41e61c55a009.png,Small/Low Obstacle,1.3145397901535034,Kitchen,Dark
+8746393e-08f7-4b31-a32c-6e264006e221.png,Small/Low Obstacle,2.828358888626098,Home Office,Bright
+a5ddd566-0054-4b33-9fe0-3b8cd402ed3f.png,Elevation Change,3.362910509109497,Corridor,Dim
+40547f0c-ba8b-4da0-bf80-fd2af00c11b3.png,Small/Low Obstacle,1.1878196001052856,Kitchen,Dim
+0ae81e39-a9ad-4437-9c95-7bf87c758bae.png,Small/Low Obstacle,1.792312502861023,Kitchen,Bright
+80ead5a0-27d3-470b-8c49-b3fea4c5b7e1.png,Clear Path,3.869288921356201,Home Office,Dim
+745cb3ab-3df8-4a3f-a580-6915a6809eee.png,Structural,3.2965357303619385,Corridor,Dark
+ff7623c5-0a97-4722-bb1a-55408d856644.png,Small/Low Obstacle,1.3279727697372437,Living Room,Dim
+d3b67a58-93a4-43e7-8c8f-304fca92b5f7.png,Clear Path,4.688713073730469,Living Room,Dark
+4428b25f-dd01-490b-99d8-22b066f46ef9.png,Clear Path,4.196930408477783,Living Room,Dim
+a07b72b0-12e6-417a-b6b0-d3b555551f5e.png,Structural,2.5934038162231445,Kitchen,Dark
+941fc0da-fc1d-4de0-ba3a-5501285e6fb7.png,Large Obstacle,1.6546754837036133,Home Office,Bright
+26ae0463-bde6-4223-ac66-464c6540e9d9.png,Structural,2.3169076442718506,Living Room,Bright
+33783e0a-dcc9-45e5-b8e0-f86045a499f5.png,Clear Path,3.562962770462036,Home Office,Bright
+5a8180b4-18fb-4531-809b-62027d285a41.png,Large Obstacle,3.673793315887451,Living Room,Dim
+3aff420c-0139-430b-bd22-ffc70037de84.png,Structural,1.4313067197799685,Corridor,Dim
+8da63d9b-b542-4fba-8d47-afb6021b8318.png,Large Obstacle,1.8190107345581052,Kitchen,Dark
+7ed93132-ad77-49c4-83c0-9898d7071976.png,Small/Low Obstacle,2.6108953952789307,Corridor,Dim
+158f1163-5bbb-43d2-a188-a338b6f14566.png,Structural,1.5514650344848633,Corridor,Bright
+40d02dfd-db60-4c43-89fe-100dec0b7f4b.png,Structural,1.9425982236862185,Kitchen,Dim
+2e6ab300-462e-42c3-b9b8-60db5f4c2f8f.png,Large Obstacle,3.266714334487915,Home Office,Dim
+25ece9cf-0b16-477e-ab2e-d44a9ff6862b.png,Clear Path,4.785758972167969,Home Office,Dim
+55c5afbf-1dbe-4f10-9de6-32cb8114e3f9.png,Small/Low Obstacle,1.4589852094650269,Kitchen,Dim
+11a2bade-7eeb-4b2e-8b69-01ad65fa0fb7.png,Structural,1.9975481033325195,Corridor,Dark
+3dc4a4bf-4c25-4d70-b085-3e9e26f2829f.png,Structural,2.6885457038879395,Corridor,Dim
+8de54d8f-1966-4ae6-a4bf-7feedd5a6eba.png,Large Obstacle,2.4385900497436523,Living Room,Bright
+b238349d-5825-4477-8b0d-82a3db65641b.png,Small/Low Obstacle,1.7375798225402832,Home Office,Dim
+c5def800-f4d6-4969-b6f4-cfa64b0141f8.png,Small/Low Obstacle,2.0447041988372803,Home Office,Dim
+bb4aa2a0-b9d8-41bd-a3fe-27fd892ac635.png,Clear Path,4.175064086914063,Living Room,Dim
+59cf15a1-d6cb-4e34-9229-c464ec8beae0.png,Clear Path,3.514770984649658,Corridor,Dim
+8b21a5e8-4194-42f4-98c1-e025d8854857.png,Clear Path,2.8080997467041016,Kitchen,Bright
+ed714400-7542-46b4-bd4b-ed62cfc01e32.png,Large Obstacle,1.4779510498046875,Home Office,Bright
+a830c48b-9ebc-4803-900d-42d83831c538.png,Clear Path,4.37503719329834,Living Room,Dim
+24803b33-4c9f-4e92-b0d0-798e3f49c86b.png,Structural,4.242506980895996,Living Room,Dim
+51ffd565-35de-48b2-9fee-6730f869da1f.png,Large Obstacle,1.4488558769226074,Living Room,Dim
+fc184db5-f337-4512-846c-fac1d3ed1a02.png,Small/Low Obstacle,2.4814658164978027,Living Room,Dark
+4cb0c57c-6945-408a-b7ed-76d5bb07fec9.png,Structural,2.326220750808716,Kitchen,Dark
+e151d0c4-d1cc-47a7-9f63-248380354762.png,Large Obstacle,2.258922576904297,Home Office,Bright
+04f66fdd-369f-4d3f-ae7e-de535272a9a4.png,Large Obstacle,2.4728615283966064,Living Room,Bright
+724d5e8d-7274-4e91-9d13-02bf3e295cec.png,Structural,1.1118111610412598,Living Room,Dim
+16d43917-e3c7-4943-865a-3a10fc4947af.png,Structural,2.7595114707946777,Home Office,Dim
+0e57f1da-5927-4d19-96ee-fefdd2377bff.png,Large Obstacle,2.327147483825684,Home Office,Dark
+a346139e-20d0-47a6-b351-08e483fd03d0.png,Clear Path,2.031440258026123,Living Room,Dim
+7c5c8c5f-9a7d-43db-96a2-5660dcaed2d7.png,Clear Path,3.76124119758606,Home Office,Bright
+af478228-2bbe-4703-a6e9-39ac6b05b63a.png,Clear Path,3.716165542602539,Corridor,Bright
+b34a15cf-093b-4298-8154-c7b25c0b7549.png,Structural,2.548041582107544,Living Room,Dim
+aa0d20bc-6101-4224-adf6-29938e996dab.png,Large Obstacle,1.6043013334274292,Home Office,Bright
+53caf553-953c-4651-bcc8-5e7e47bbdc74.png,Large Obstacle,2.0859923362731934,Living Room,Dim
+a6ea8951-02ad-477f-9464-517834457a5b.png,Structural,1.512128472328186,Home Office,Bright
+d789953f-8ec8-4e1d-800a-6d705e2cdd9d.png,Structural,2.234270572662353,Corridor,Bright
+1247643a-d8fb-43a9-907d-fd048dac1da6.png,Structural,3.6886179447174072,Living Room,Dim
+90ee8754-f248-4046-b940-cdb4c9cebc62.png,Clear Path,5.201370716094971,Living Room,Dark
+788bfc9f-ce53-414b-81a0-bd142a2c670c.png,Large Obstacle,2.171077013015747,Living Room,Dark
+5f54af03-97cd-47ce-b60b-229f6578c88b.png,Large Obstacle,2.2620441913604736,Corridor,Dark
+f0fa9a19-f716-4470-9feb-2cb00509d912.png,Large Obstacle,2.2686514854431152,Living Room,Dark
+791dac73-e0e3-4d2b-ae72-c4cc728857c0.png,Clear Path,4.510725975036621,Home Office,Dim
+178e7c66-93d7-4fdf-bece-6645b04728e1.png,Small/Low Obstacle,1.5728150606155396,Kitchen,Dim
+ab8a23a7-4875-4e26-a289-4f5bbbfc04d1.png,Elevation Change,1.404711365699768,Home Office,Bright
+95b2faa7-48e3-4098-895d-1aaf4459faf0.png,Clear Path,2.5458197593688965,Corridor,Bright
+dc23781a-963d-4455-89b9-178c0c6d963e.png,Structural,3.1270246505737305,Living Room,Dim
+e6af7ecb-8580-4639-8737-9d51850e7e81.png,Structural,3.174055576324463,Corridor,Dim
+9022e5e1-4f24-47d7-a705-0ff42ded76d1.png,Structural,2.336796760559082,Kitchen,Dim
+28aa5484-32f5-41d4-91fb-cbd868df9cb7.png,Clear Path,4.43208122253418,Corridor,Dim
+fe5a9110-01d1-45eb-976d-7b42ca93ed45.png,Small/Low Obstacle,1.346416473388672,Kitchen,Bright
+2ad9b6ef-6569-4fc3-8713-568373b64072.png,Small/Low Obstacle,1.4179457426071167,Kitchen,Bright
+4967cd1c-9787-48bc-af27-b948ad1e0d9a.png,Structural,2.057826519012451,Kitchen,Dark
+fe9ac7da-bfeb-4f09-815e-11c7d8aea748.png,Clear Path,2.383014440536499,Kitchen,Bright
+e81145da-af8e-4182-b18d-2bf8c3c7b4cb.png,Structural,3.22971510887146,Home Office,Dim
+14201165-6b34-408a-ab84-6c14054a9020.png,Small/Low Obstacle,2.370668172836304,Home Office,Dim
+db4a8013-3902-4991-b7b4-2cfe75c91575.png,Large Obstacle,1.81963050365448,Home Office,Dark
+8927fcaf-7ea3-4896-aa0d-909eb31c66d1.png,Structural,1.7218377590179443,Corridor,Bright
+872173e8-a82d-499e-8702-c9cfc428da28.png,Structural,2.600687265396118,Corridor,Dark
+5cc0fd1f-367d-479e-883c-13eec98a8602.png,Large Obstacle,1.7590852975845337,Home Office,Dim
+d55e30e9-b9a1-4f94-8d97-e48f5d46bab0.png,Small/Low Obstacle,1.4080352783203125,Living Room,Bright
+c8f35e65-33e4-45e1-a499-592f4d126287.png,Large Obstacle,2.09346342086792,Living Room,Bright
+70769947-54fb-4917-bc87-630942c04192.png,Structural,3.151039123535156,Corridor,Dark
+fdefea11-3d0e-43bc-95a1-6b5e323e4363.png,Small/Low Obstacle,3.09942364692688,Living Room,Dim
+c372f172-29a0-4bc6-8134-bf428cc5cc97.png,Clear Path,4.375823020935059,Living Room,Bright
+c15bfd75-0166-4642-a32d-6bd76963e7e9.png,Elevation Change,1.6146293878555298,Home Office,Dim
+3964603f-1edc-41b7-a905-11bd03e1387c.png,Clear Path,2.2322020530700684,Kitchen,Bright
+17338589-980f-418a-bc34-4af242dcce0e.png,Elevation Change,2.00659441947937,Living Room,Dim
+2b3eb67f-53fb-4758-a10a-32afc8f34dad.png,Clear Path,3.871929407119751,Living Room,Dark
+5d14a438-b66a-4972-b4f8-0713f9f044a7.png,Structural,2.7373814582824707,Corridor,Dim
+ab1e921e-bb19-469b-8174-388511aa8a17.png,Large Obstacle,1.8561043739318848,Home Office,Dim
+ac14ba5e-906f-44f9-8420-3dc7c0f7868c.png,Large Obstacle,1.923243880271912,Home Office,Bright
+8458c002-1be2-4ab0-bd20-0bd660f9752d.png,Elevation Change,0.9238234758377076,Home Office,Dim
+e7b2e63c-d8bd-45c3-8081-a1230cbe290c.png,Small/Low Obstacle,2.250262498855591,Living Room,Dark
+0f88b31d-c97f-44d4-a9ec-d76750a5cc07.png,Large Obstacle,1.8250364065170288,Home Office,Bright
+78318ced-5647-4cdc-ac0d-ac610d88ae81.png,Large Obstacle,3.650015115737915,Home Office,Dark
+2a3b00b6-0de9-42e0-8a79-6dcc6112873a.png,Small/Low Obstacle,1.4860087633132937,Living Room,Bright
+f5de01a9-a9d0-4395-a48a-eed3d8878685.png,Small/Low Obstacle,1.3590545654296875,Kitchen,Bright
+ed706a0e-047b-4ce0-956b-3befd0aa1efe.png,Large Obstacle,1.5580055713653564,Corridor,Bright
+03e529e3-64da-4c4e-9467-f79095bf607b.png,Structural,5.176967144012451,Home Office,Dim
+4ed96fb3-c530-4f00-a7ac-2cab6d740d8a.png,Elevation Change,1.3552048206329346,Home Office,Bright
+8f9a1c65-68eb-4bfd-bfe3-1cb5b3e3401c.png,Large Obstacle,2.34529185295105,Living Room,Dim
+39af8788-0a0c-4bc7-bebd-97eefef5166d.png,Large Obstacle,1.9385126829147337,Corridor,Dim
+093a219b-e973-4abb-bdad-61e74d90b39d.png,Large Obstacle,3.2218825817108154,Living Room,Dark
+3094981f-b917-4134-8886-afe6c957804a.png,Structural,2.4581243991851807,Living Room,Bright
+d803bb28-2be6-4edc-be9a-37cf35972b40.png,Structural,2.245227813720703,Home Office,Bright
+139bca4b-89e4-4543-9b18-e5d54f55affa.png,Clear Path,4.5145111083984375,Living Room,Dim
+71b3e978-f65a-46b8-84c3-1c409ca0945d.png,Structural,2.1288654804229736,Corridor,Bright
+107a0e56-eff2-451c-ad0f-02b6f834d993.png,Small/Low Obstacle,2.830928087234497,Home Office,Dim
+9a1d81fa-99e5-4650-9466-ad2cf95e486a.png,Small/Low Obstacle,1.673025369644165,Corridor,Bright
+5d799f32-737e-4386-80bc-edeb815e5fec.png,Structural,3.0595552921295166,Home Office,Dim
+9ef665ab-5ac9-4b04-8a37-d3dd8e11dc26.png,Structural,3.0864791870117188,Corridor,Dark
+1f32d9f0-b25d-45c1-80bb-6e6cbf31b736.png,Clear Path,3.009507656097412,Kitchen,Dark
+03cc1ab9-1281-444b-9f9a-c8171ec67afa.png,Clear Path,4.103456020355225,Living Room,Bright
+8e50b447-2524-4748-855f-fdf5306e7a4f.png,Small/Low Obstacle,1.8223817348480225,Corridor,Bright
+e0abea94-30dc-4611-a2e9-f0276c142bdc.png,Small/Low Obstacle,2.807668685913086,Living Room,Dim
+b0cc6c94-c5ed-435a-beb7-fb09cc128fd8.png,Structural,3.4233672618865967,Living Room,Dim
+bfb743eb-3396-454f-ace6-4611de6d20c8.png,Clear Path,3.19966197013855,Kitchen,Bright
+c97d641d-a45b-43c8-b1b5-1e491e42b3b9.png,Large Obstacle,1.5064557790756226,Home Office,Dim
+caafc933-b96c-4933-a854-4868a518020c.png,Structural,3.823144197463989,Living Room,Dim
+27112e8c-d98e-49d3-a24f-96dce8f68e6f.png,Clear Path,4.7486186027526855,Living Room,Dim
+f01f814d-4771-4f3b-8f1f-8e6162a677c2.png,Clear Path,2.2119057178497314,Kitchen,Bright
+7bb49118-0a8e-437f-b44c-6db432463f05.png,Structural,3.387613296508789,Living Room,Dim
+4d53c002-847e-4a99-9226-2afa37b32b5a.png,Elevation Change,2.562654972076416,Kitchen,Dim
+7e339347-3937-47b5-bbfa-d6965af91959.png,Structural,3.497469186782837,Corridor,Dim
+edf81381-1890-45a4-a7ed-253c71354844.png,Clear Path,2.639273166656494,Living Room,Dim
+58982b48-8a69-45f8-bbe3-8f341cdeef98.png,Small/Low Obstacle,1.6039700508117676,Home Office,Bright
+44a6b327-e869-41e4-aa28-ccf4588f14c1.png,Small/Low Obstacle,1.9113647937774656,Living Room,Bright
+24132107-d372-4861-97c9-11aeba725814.png,Large Obstacle,1.7528420686721802,Living Room,Bright
+f4c3743a-9f6d-449d-996e-e2400dce9ca9.png,Structural,2.7624852657318115,Home Office,Dim
+a27c5995-65ca-407f-91a2-bd7006a6869a.png,Structural,2.0513484477996826,Corridor,Dim
+2e94d427-141c-450a-8b47-df9e17ba99e8.png,Clear Path,4.927985191345215,Living Room,Dim
+34c32f2e-2451-4fc3-9a55-e13c05b1765c.png,Large Obstacle,1.8486675024032595,Corridor,Bright
+6a7bcdbd-3f74-472c-87f6-a985a47d4da2.png,Clear Path,2.630403995513916,Home Office,Dim
+8225c0c3-7f3f-424e-a09e-0f5cfff9fdfc.png,Large Obstacle,3.068712949752808,Living Room,Dark
+f597f746-ba8e-4ed2-bedc-4cd70dcd2bb4.png,Large Obstacle,3.1236114501953125,Living Room,Dark
+da50fa2c-f0ab-4b5d-bd57-916f66ab2f7c.png,Structural,3.7382266521453857,Living Room,Dim
+684671e7-3e15-4366-b0df-4a1580a504f9.png,Large Obstacle,2.4512510299682617,Corridor,Dim
+c06f5691-e3c6-493b-9522-473589d84ae4.png,Structural,2.350276470184326,Living Room,Bright
+a63754f9-c1be-4fc4-86bc-c2baca63725e.png,Clear Path,4.313943386077881,Living Room,Dark
+ea623d98-c896-4272-ae7e-277afa83d098.png,Structural,1.8222781419754028,Corridor,Bright
+1abeb9cf-5ea4-4c18-b23c-851fd86d38a2.png,Clear Path,1.602491855621338,Kitchen,Dim
+2d22e82e-a72d-4ca1-a0a6-d2b1755f4f80.png,Small/Low Obstacle,0.9606693387031556,Home Office,Dim
+852ebb56-f5c6-4a7a-91d0-c029e0837f00.png,Small/Low Obstacle,1.482100248336792,Home Office,Bright
+2bcfc488-a748-43dc-af0c-912ea75bb5e9.png,Clear Path,5.172730445861816,Corridor,Bright
+7de51e65-56f1-4343-a262-a456ca62ab18.png,Clear Path,5.782464027404785,Corridor,Dim
+c0a9346e-cdd2-4381-bb99-41e0ef3b61eb.png,Clear Path,2.7622768878936768,Living Room,Dim
+eda64cfa-f5bd-4d93-8c47-fe5e0f9f45de.png,Clear Path,5.1406025886535645,Living Room,Dark
+1c70ec15-45e8-4024-98a0-b8167ec2d1f1.png,Large Obstacle,2.860887050628662,Living Room,Dim
+cfdfa0a2-a3c6-4841-8032-50b6599280df.png,Small/Low Obstacle,1.9457720518112185,Corridor,Bright
+78d79cf4-8ff8-43bd-9d69-f075e6742576.png,Structural,2.0118391513824463,Corridor,Bright
+77f0233a-37f2-467e-a595-eefac86a3fb9.png,Small/Low Obstacle,1.5058529376983645,Home Office,Bright
+9f43a01e-5380-4a19-bf3a-356cbe483fdd.png,Large Obstacle,1.5439348220825195,Corridor,Dim
+5d84602e-2dcf-4c89-bbd9-ffa054a19ad3.png,Large Obstacle,3.857401132583618,Living Room,Dim
+ebbbbfbb-035e-4786-92ef-e70534187370.png,Structural,2.9964890480041504,Corridor,Dark
+b22b86cc-3416-4c1d-a4a2-46212f9dd507.png,Clear Path,4.803874969482422,Living Room,Dim
+fdcb8cf6-2a59-49c6-8f88-2885cadc9372.png,Large Obstacle,2.761307954788208,Corridor,Dim
+0d4bcd81-99b7-45fc-8378-8e2c65eae05d.png,Elevation Change,1.8379571437835691,Home Office,Dim
+18db55cc-b297-4081-b35f-5b58a634472a.png,Large Obstacle,2.3260650634765625,Home Office,Dim
+47934f8c-3117-41fd-b531-06fa0af6684d.png,Large Obstacle,2.114391803741455,Kitchen,Bright
+10c9981c-c0e4-479c-a58c-7d681067e800.png,Structural,1.2831635475158691,Living Room,Dim
+9d620681-2cad-4167-91d0-63bb6e9a3ac8.png,Structural,2.173729419708252,Corridor,Dark
+acc4d545-b42b-4135-a280-9cdea1faf4de.png,Large Obstacle,2.929515600204468,Living Room,Dim
+0bf72536-8143-4ddc-921c-fa7da0d64b0b.png,Clear Path,4.669804096221924,Living Room,Dim
+911b5959-ad1a-44e4-9d21-e60d5f526db2.png,Structural,1.742660403251648,Corridor,Dark
+c9de8a9d-7595-40ad-9b7c-f85187b70a8b.png,Structural,1.6189067363739014,Corridor,Bright
+989adee9-2d13-4424-b95a-d739262dc971.png,Large Obstacle,1.0049933195114136,Living Room,Dim
+e3aa6e09-77da-45fc-868a-9b4e880e36c2.png,Structural,2.839942693710327,Home Office,Dim
+4acee4d7-a9aa-4081-8bc8-48c29e29a01a.png,Small/Low Obstacle,2.083614587783813,Living Room,Bright
+92082f3e-c799-4149-a100-f69790f759e7.png,Clear Path,2.7871861457824707,Corridor,Bright
+23eda6f5-282d-4484-8c1f-0aaa63d3b08f.png,Elevation Change,1.3213309049606323,Home Office,Dim
+49f532b0-7dfe-4021-99dd-10b1ceca58f5.png,Structural,1.281505465507507,Living Room,Bright
+b9016751-0212-441f-ba51-0b575ee3c254.png,Clear Path,4.215780258178711,Home Office,Dim
+6adc09d6-0944-4da9-9488-a3287e5136d9.png,Elevation Change,1.6743392944335938,Corridor,Bright
+893f440c-a381-4abf-b8be-89048f875ec6.png,Large Obstacle,1.3994951248168943,Kitchen,Dim
+2629ad95-e1f4-4b99-ae62-d5029a31b2a6.png,Clear Path,3.079115867614746,Living Room,Dim
+733e3ba3-d4aa-4b15-9c75-fb84eb835b91.png,Elevation Change,1.3710174560546875,Corridor,Bright
+6b5c4617-7bfb-46cd-99e4-c2d9abd4ac02.png,Clear Path,2.336984872817993,Living Room,Dark
+a4cc04ad-f3f9-498e-a02e-d60448c12a72.png,Large Obstacle,2.245823383331299,Corridor,Bright
+60ca08be-781e-4d44-8fb5-1ab14f4fe2bf.png,Structural,2.833404302597046,Corridor,Dark
+21e052d9-9baa-4eaa-9062-282e5dd817d3.png,Small/Low Obstacle,1.674390435218811,Corridor,Bright
+74255062-3694-4b78-b042-1bc8faf72802.png,Clear Path,2.884574174880981,Living Room,Bright
+bf75acbe-3cae-4c2e-8ffd-06b8708c6109.png,Clear Path,3.854237318038941,Living Room,Bright
+467f0d2f-d156-4904-bd6c-8370e4121cb1.png,Clear Path,3.716698884963989,Living Room,Bright
+0ebbb2b7-6d3d-4dbe-b110-1198e697d7d1.png,Clear Path,4.117228984832764,Home Office,Dim
+f4e66475-af29-4006-ac34-eb2ab1baab61.png,Clear Path,4.793112754821777,Home Office,Dim
+519d6d07-509d-428e-b404-158ff5676176.png,Clear Path,4.315735816955566,Home Office,Bright
+d52bed1c-502d-4ff4-9e8e-8a3c68fbd4b5.png,Small/Low Obstacle,2.128823518753052,Corridor,Dim
+6558fa27-6b9d-47cb-8c24-1b7dce6dfcea.png,Structural,1.7217103242874146,Corridor,Bright
+dffecc48-3a45-4e4a-87a5-c3a231f4eff1.png,Clear Path,5.112937450408936,Living Room,Dim
+30cb72a0-7b7c-470f-94ad-f0a336dd6423.png,Large Obstacle,2.1340250968933105,Home Office,Dim
+a54f27e3-b877-47a9-a106-1322a855a999.png,Small/Low Obstacle,2.0318679809570312,Living Room,Bright
+14ff76e9-9e7f-4d06-84c3-2842c2ee1b9a.png,Large Obstacle,2.7430408000946045,Living Room,Dark
+4bc6568a-5bbc-4262-a2c0-0271aa409eea.png,Structural,3.7641255855560303,Living Room,Dark
+9ce318e5-fa3d-43f8-9227-da07932efadb.png,Structural,2.7135283946990967,Living Room,Dark
+c82b4f75-0da1-4463-9441-cdd758a48c0d.png,Elevation Change,3.0568904876708984,Living Room,Dim
+fd27e181-4b2c-49e4-9250-bd4eb5eebe03.png,Large Obstacle,2.7247977256774902,Living Room,Dim
+eee1ebde-a951-4d56-91ad-409b178f0eb4.png,Clear Path,2.8836793899536133,Home Office,Dark
+c133a0bf-7e77-4522-b68e-828633e5b096.png,Structural,3.802181482315064,Living Room,Dark
+18fe4d67-ca88-4910-9c74-68e3354d9280.png,Clear Path,3.036574363708496,Corridor,Bright
+9463ab54-e894-44ba-8d37-dc5f46c1bcdf.png,Elevation Change,2.702486515045166,Corridor,Dark
+1e92fd8a-5a06-42c2-bb66-197f5ed47647.png,Large Obstacle,2.691444396972656,Home Office,Dim
+5408eb88-af74-4835-a21d-2140267ff888.png,Structural,2.810322999954224,Corridor,Dark
+bb92cff9-6764-4a11-b9ab-81ac7750cce3.png,Large Obstacle,2.0811266899108887,Home Office,Bright
+f8a7edaf-c5d8-4dbc-90a0-ed53faead288.png,Small/Low Obstacle,2.002815961837769,Kitchen,Bright
+53e507af-ef42-4505-aa52-ccbf99498d06.png,Small/Low Obstacle,2.7612011432647705,Home Office,Dim
+0aeae415-703e-4f36-9fc3-e9b954636e67.png,Structural,1.637543797492981,Kitchen,Dim
+196ac55b-f1a4-4a8e-bdb2-a0aaf86824a2.png,Structural,1.989649534225464,Home Office,Dim
+48fa4a60-79b2-4914-ab28-117b4c2b2f56.png,Structural,2.6539080142974854,Corridor,Dim
+d2c84702-9336-45df-a1d5-3e7116b92f6a.png,Clear Path,3.245411872863769,Living Room,Dim
+4ce5eb87-8600-4e77-a871-90de862962c0.png,Elevation Change,2.862152338027954,Living Room,Dark
+ef9a9c88-a1e4-4238-9ad6-73553d2fa465.png,Small/Low Obstacle,2.51131272315979,Corridor,Bright
+72bbf52d-5bf1-4f80-b86f-cca176f26bf1.png,Structural,1.5576322078704834,Corridor,Dim
+618dbe92-12d5-4bb3-992b-372f822cf92b.png,Clear Path,4.906772613525391,Living Room,Dark
+f6bb914d-5f56-41f2-aa36-dd934b85220c.png,Structural,1.768612504005432,Home Office,Dim
+1910c1f6-17d0-4cce-bb26-0985fe903c27.png,Structural,4.4746994972229,Home Office,Bright
+fffce748-d212-4085-9592-93f9a3da5ab4.png,Large Obstacle,1.8646262884140012,Living Room,Dim
+a96ffae7-b56a-4475-a8b5-871dfe914db2.png,Clear Path,3.0639126300811768,Kitchen,Bright
+0fda1a64-9d4f-450b-b82d-0efc626cdf4c.png,Structural,2.055233955383301,Corridor,Bright
+c7d28b73-34b4-4b3d-a9cb-720dbef25f8b.png,Clear Path,3.3966095447540283,Living Room,Dim
+d9f5c3c4-3ac5-4a97-8cc7-dcb609d6d4b3.png,Large Obstacle,1.6379108428955078,Corridor,Dim
+487b11ec-385f-439d-ae59-4ec09aee52c3.png,Clear Path,4.084266185760498,Living Room,Dim
+c2b7ea92-6815-4d72-89b5-6a41d1736020.png,Large Obstacle,1.589488506317139,Corridor,Dim
+d7b13014-ebf0-4f07-9cd7-e0f2235c101a.png,Structural,2.386428117752075,Kitchen,Dark
+55ca1777-171a-4aa7-9326-d1866404153d.png,Clear Path,4.265847206115723,Home Office,Dim
+ac3c7817-a4e9-4f97-91d4-255879fb92b1.png,Structural,1.7413934469223022,Corridor,Dark
+eeee8ed4-99d3-49a8-b750-2471a439ea7c.png,Structural,1.5547447204589844,Corridor,Bright
+bab46072-94ba-46a0-ab2d-3a22bbaab625.png,Clear Path,2.173241376876831,Living Room,Dim
+19c376e2-d09e-4526-b67e-6a2760338d67.png,Clear Path,5.31955623626709,Corridor,Bright
+b9a1a7fc-4e9c-41e7-8fe8-c845c7d44675.png,Small/Low Obstacle,1.2769296169281006,Home Office,Bright
+d4e7a39d-420f-468f-8b8b-ebf84f4f76f2.png,Structural,1.5574780702590942,Corridor,Bright
+6fa283b8-86bf-4ddb-ad3a-281ca73f7c9d.png,Elevation Change,2.810933828353882,Home Office,Bright
+47c06bb9-f8a1-41b9-8e7e-3074a7d896f1.png,Large Obstacle,3.4531090259552,Home Office,Dim
+03848e50-8aa7-4d27-8f96-fb2cee4daba8.png,Structural,2.339015483856201,Home Office,Bright
+8e53e8da-37dd-4ab1-b68b-47f413a23adc.png,Large Obstacle,2.63260817527771,Kitchen,Dim
+de250a2b-5a60-4aa9-aa1b-a79dc33bd232.png,Structural,2.294083833694458,Corridor,Dark
+727a3e0e-0c7c-4181-a64f-02d9af1142ac.png,Elevation Change,1.7730807065963743,Home Office,Bright
+ad44f76f-bce1-4ad4-84cc-a9fa07eb9983.png,Clear Path,4.335742950439453,Home Office,Dim
+6cfc3221-f230-4613-aad5-67fe19d6970b.png,Elevation Change,1.642412185668945,Home Office,Dark
+3d4617da-8f50-4b59-9552-801ab0a433c5.png,Structural,2.951305389404297,Living Room,Bright
+eb7fde5d-5e99-4072-8a52-5044db96c582.png,Elevation Change,1.5692905187606812,Kitchen,Dim
+5d28d9b0-3206-4963-9e84-2ed17c8ab8f0.png,Large Obstacle,1.347671627998352,Home Office,Dim
+7d9d6bea-276d-4fb2-b046-71d9b05a77ab.png,Large Obstacle,2.9618353843688965,Living Room,Dark
+7294f5ff-49cd-47e2-af58-5faec89be0ff.png,Structural,2.24053692817688,Corridor,Dark
+f5e3c232-92f3-4039-a509-bbe53854dcb2.png,Large Obstacle,2.307835340499878,Corridor,Dark
+26260a97-ea71-4d46-a465-955f14ca80b3.png,Structural,1.8388447761535645,Home Office,Bright
+32c38b9e-a9e9-442d-a695-ff0e392b1d61.png,Structural,2.5019009113311768,Kitchen,Bright
+8e8b3966-2224-4a73-add8-6caee84d6842.png,Small/Low Obstacle,2.5055220127105717,Home Office,Dim
+bf95c7bf-10a6-47a7-b833-66c75b0aebbb.png,Clear Path,3.1712119579315186,Corridor,Dim
+44e8f83c-ccf5-478b-a6e1-ade7d4e74d75.png,Structural,2.459777355194092,Corridor,Dim
+d7d0df05-d616-4eb8-bb58-bb9817e8636f.png,Structural,1.877392292022705,Corridor,Bright
+7a1a54ce-3768-4b3f-adfb-2bce584b1520.png,Elevation Change,1.886589288711548,Corridor,Bright
+0a9d1621-781a-4871-81c1-fa912e269392.png,Small/Low Obstacle,1.732973575592041,Home Office,Dark
+f27363a0-e474-4e6d-90b6-8ffb7761c990.png,Large Obstacle,2.727003335952759,Living Room,Dim
+3e01c919-2806-4cb3-88a8-4228fd001a91.png,Clear Path,2.7505362033843994,Living Room,Dim
+9640c7bf-851c-48df-8819-fcf350cd419d.png,Small/Low Obstacle,1.8511160612106323,Home Office,Dim
+6c70b817-0d55-46c8-9f78-628785f65667.png,Large Obstacle,1.6243908405303955,Home Office,Dim
+65426bfa-eba7-402e-96c8-f47fec55a827.png,Structural,2.353032350540161,Living Room,Dim
+ecc09ff2-e256-405e-9a42-b3443018851a.png,Elevation Change,2.6252200603485107,Corridor,Dim
+945d7327-6f84-43bd-af1a-2d6625dfa007.png,Small/Low Obstacle,1.5069396495819092,Living Room,Dim
+eb89652f-4055-41ea-9120-285f2caa3523.png,Small/Low Obstacle,2.065880298614502,Corridor,Bright
+52a6749e-5497-4c3c-b4b4-39a8457d0290.png,Large Obstacle,2.0327064990997314,Corridor,Bright
+992cc750-ae81-4885-bb96-5b761f01c630.png,Structural,1.997698783874512,Corridor,Dim
+0fcea53f-0817-4112-8aad-cd1607b96056.png,Large Obstacle,1.6280617713928225,Living Room,Bright
+4fd95dea-29a4-4154-b389-45531efe6dee.png,Large Obstacle,1.3919881582260132,Home Office,Bright
+12bf3a2e-26be-4df4-938c-04cf82a9a3b0.png,Small/Low Obstacle,0.9185933470726012,Living Room,Dim
+20e61dfa-24fb-4cab-9a42-bf9e7fc1c39f.png,Structural,1.297980546951294,Corridor,Dim
+d19d7ab6-589e-447d-accd-b4c1bca6460d.png,Elevation Change,2.114238739013672,Living Room,Dark
+f06cd2b3-af9c-4814-8ea5-46596d058443.png,Structural,2.573452949523926,Living Room,Dim
+91366a48-902d-48e9-bf30-d5f6a02c9a55.png,Large Obstacle,2.3028388023376465,Living Room,Dim
+b0db1300-fc38-4a64-9f29-75efc26b3833.png,Small/Low Obstacle,1.8703850507736208,Living Room,Dim
+41fb069e-7a02-415d-9e4a-2048f3cd1b9b.png,Small/Low Obstacle,1.620706558227539,Kitchen,Bright
+174726c3-760d-4d7b-be55-57a92c0f770b.png,Small/Low Obstacle,1.730444312095642,Corridor,Dim
+556da241-bc1b-4205-848f-810c56611411.png,Structural,2.1262571811676025,Living Room,Dim
+37337d9e-5192-40f6-a5e4-e8b10a87a90a.png,Structural,1.9791580438613887,Home Office,Bright
+a09bf980-0188-490a-9356-6fa2e61cf31c.png,Structural,2.053386926651001,Corridor,Bright
+b5bd2a13-9ca0-407e-a3ae-522b9bd061bd.png,Elevation Change,1.1327736377716064,Home Office,Bright
+405420ef-96f0-467e-955c-f8f2413e543c.png,Small/Low Obstacle,2.2254302501678467,Home Office,Bright
+ea882ec2-88f4-4df3-89a3-22e5cb715bf8.png,Clear Path,6.35749626159668,Corridor,Dim
+68f90b66-ffcc-4c09-a10a-299ac0223383.png,Structural,2.7264513969421387,Home Office,Dim
+b24fadd1-2201-488b-a792-4454b370844b.png,Elevation Change,2.0954360961914062,Living Room,Dim
+3bddc2bf-28f5-42af-b6ca-929ba70f8176.png,Clear Path,3.5706074237823486,Living Room,Bright
+05c05c4d-fd1e-4508-b926-dbd04534288a.png,Structural,1.6571091413497925,Home Office,Bright
+883e0df6-35c6-42fd-8b71-880764a9ab50.png,Elevation Change,1.3222471475601196,Corridor,Bright
+915faa46-4f22-4c3d-9641-aa38e27b3770.png,Clear Path,2.841164350509644,Living Room,Dim
+5c71ee38-13e9-4c08-98a5-e7b53e951a64.png,Structural,2.124397993087769,Living Room,Dim
+91b3f9e6-93b5-4f63-9a99-cbc31ebdf592.png,Clear Path,3.197030544281006,Home Office,Dim
+7f3a6a44-d723-4aca-a75c-3ceae072f669.png,Structural,2.119595527648926,Corridor,Dark
+f62b2468-6460-4e44-bf80-b271fe769bab.png,Structural,2.6173806190490723,Corridor,Dark
+527b204f-13ce-40ee-a62a-afc67d6e8ae0.png,Clear Path,2.5314366817474365,Living Room,Bright
+49b24e55-0c0e-4805-8f95-87e54a8a0079.png,Elevation Change,2.2654576301574707,Living Room,Dim
+a25ce178-3776-4de5-a424-8040b500765f.png,Small/Low Obstacle,1.4272485971450806,Living Room,Bright
+0c4a31ca-f8b7-43c9-b48f-732d72319ce7.png,Elevation Change,2.2114181518554688,Living Room,Dark
+3540117c-b9e1-4951-bd58-8d5160df36c2.png,Small/Low Obstacle,1.2557567358016968,Home Office,Bright
+5c6d9bed-6f7e-40da-ae86-b1b10d096067.png,Large Obstacle,1.3585108518600464,Home Office,Dim
+bdd41990-2163-4ca7-8583-e622935b40de.png,Clear Path,3.070059061050415,Living Room,Dark
+1aaa6f88-4dee-4583-af02-9ad38fd9c640.png,Large Obstacle,2.481229066848755,Home Office,Dim
+89e72cf1-5714-4986-a616-76074ef21aea.png,Clear Path,3.468839168548584,Living Room,Dim
+06bdb728-0a08-42d6-a29d-a0fc919c4fbd.png,Small/Low Obstacle,1.98139488697052,Corridor,Bright
+ce04c4f8-5847-49da-8648-82d03aa5892e.png,Small/Low Obstacle,2.2640881538391118,Living Room,Dark
+f0ca1efa-3999-43f7-b83b-06f6381cfecc.png,Small/Low Obstacle,1.7282556295394895,Home Office,Bright
+1e7e6143-be63-4e85-91d0-ece9cc85848e.png,Clear Path,4.676398277282715,Home Office,Dim
+6c002e13-b702-4817-81a3-4cf5426d016e.png,Large Obstacle,1.4353188276290894,Home Office,Dim
+9b3b0cda-ed84-4587-a9fa-ee9bb8520375.png,Small/Low Obstacle,2.7667973041534424,Corridor,Dark
+76ab8f4d-82f2-4fc6-924b-b632f85380d0.png,Elevation Change,2.6448090076446533,Living Room,Bright
+33cb75e4-a8c7-46fd-8c6b-c7c9860f1cd6.png,Elevation Change,1.6942265033721924,Corridor,Bright
+6e66aace-de21-40ce-82e1-d7b06ba14a62.png,Structural,1.6443347930908203,Kitchen,Bright
+4d7b3979-a240-41b4-ae17-621d8116e79c.png,Small/Low Obstacle,3.125270128250122,Living Room,Dim
+e4838449-22d5-49bf-af53-fcb7d6f01b8f.png,Structural,4.427949905395508,Living Room,Dim
+ffddf6ba-0b86-4aec-89e7-268839a2d8cd.png,Clear Path,0.7650317549705505,Living Room,Bright
+0b8d8346-e2a4-4b51-b05c-38fcd8c05c69.png,Structural,2.835362911224365,Living Room,Dim
+a6da1165-b2b0-499a-8c64-cec6bd4075b0.png,Clear Path,4.706381797790527,Living Room,Dim
+2fddd80e-8813-4ffd-ad38-da996baba499.png,Large Obstacle,1.5027154684066772,Home Office,Bright
+8ba3325e-fe89-4f12-b0e5-4b286f2d41c1.png,Structural,3.1672234535217285,Living Room,Dark
+93cfb5d6-2c6b-4126-889e-5f0da481533b.png,Structural,1.9690734148025515,Kitchen,Dim
+4edd18a1-2702-43c8-9aa2-aa01619d3dcc.png,Elevation Change,1.6477432250976562,Home Office,Dim
+5b76668e-e94c-43fb-a682-294b72b26cc1.png,Small/Low Obstacle,1.3793333768844604,Living Room,Bright
+b5e3af49-f710-442c-a842-295836e50dc9.png,Clear Path,2.35906720161438,Kitchen,Dark
+2a968afe-18b5-4773-84ec-fe5dd3b87a73.png,Clear Path,2.832345724105835,Living Room,Dark
+101f3e35-283a-47bb-8ea2-15da56dfe5ab.png,Structural,3.557222843170166,Corridor,Dim
+4382b486-74b0-4e79-9400-1202160e5ddf.png,Small/Low Obstacle,1.742745280265808,Living Room,Dim
+fdeb8d2d-45ae-4681-ae12-644d67255a30.png,Clear Path,1.778150200843811,Living Room,Bright
+5b9cdcec-f0ed-43d7-8532-3b21323bbbbe.png,Small/Low Obstacle,1.1085768938064575,Living Room,Bright
+13862eb3-fff6-4b66-9ff5-0af818a9a526.png,Small/Low Obstacle,1.9261466264724727,Living Room,Bright
+fd671ab6-56b5-4476-aa04-75f4edf1d78c.png,Large Obstacle,3.3801939487457275,Home Office,Dim
+8db6701f-5fef-49f9-8d94-9e14abf1f5de.png,Structural,1.4413158893585205,Living Room,Bright
+cbba9235-f63c-458b-a54a-7acadbb17c9a.png,Structural,2.445378065109253,Living Room,Dim
+70f7837f-dc19-40f2-b563-6f22bbbd6a7d.png,Large Obstacle,2.1418468952178955,Living Room,Bright
+d070b1db-5292-4c83-8ec3-88fdabe3a234.png,Structural,3.5798122882843018,Corridor,Dark
+31f63078-17e7-4383-a69e-14d22c623224.png,Structural,1.6546931266784668,Kitchen,Bright
+79bb6cb0-9eab-4155-83c1-afcbf4106ca7.png,Structural,3.919813871383667,Living Room,Dim
+0cf96648-8795-4d45-861a-8210437cbae2.png,Clear Path,3.737163543701172,Home Office,Dim
+0c79c002-9d07-4e24-aaec-984ec3d822e4.png,Large Obstacle,2.120612382888794,Corridor,Dim
+38a61e8e-d691-4547-9ffc-f2581fabe964.png,Elevation Change,1.8382959365844729,Corridor,Bright
+c0c070d8-0a81-4097-9c63-4d58977d2b7c.png,Structural,2.2953672409057617,Home Office,Dark
+7bb4832c-825b-4199-a66f-5a3946160f1b.png,Structural,3.2335782051086426,Corridor,Dim
+4b645073-c9f2-4b1c-809d-0d37989c0f5a.png,Structural,1.978887915611267,Corridor,Bright
+ebeb8ab2-bfea-4d45-a3f5-62070e7594b2.png,Elevation Change,1.6818088293075562,Kitchen,Dim
+e4b17b61-b820-43d1-813e-a0895b2c4ba1.png,Clear Path,2.338660955429077,Home Office,Dim
+95e0fb0a-f967-45cc-85b9-e337078c73d8.png,Clear Path,2.597944736480713,Living Room,Bright
+92610fba-84d6-4903-a85a-1a2392741f85.png,Large Obstacle,2.6407477855682373,Home Office,Dim
+0c4537a2-0c9f-4f78-a009-92b11ddc39de.png,Small/Low Obstacle,0.3787505030632019,Home Office,Dim
+3a0dabea-3f2a-4ce5-86ef-78ed98bdb919.png,Clear Path,4.088788986206055,Living Room,Dim
+6d45ee07-eee4-4e96-b6bd-f5b7328995bb.png,Clear Path,3.151447057723999,Kitchen,Bright
+c443a783-ce0b-41fc-a8e6-9150d895cb9d.png,Small/Low Obstacle,2.6890668869018555,Corridor,Dim
+7acc1ab2-3658-482a-b7e6-b90e319ebba2.png,Small/Low Obstacle,1.85332989692688,Home Office,Dim
+c200ef82-1619-4704-a5e4-eb1801781f66.png,Clear Path,4.5927324295043945,Corridor,Dark
+278357e3-0cc9-41df-969a-885968928be0.png,Small/Low Obstacle,3.61187481880188,Home Office,Bright
+9d5e6840-aeab-4ad5-a6a4-b0bf3cf974a8.png,Small/Low Obstacle,2.204442024230957,Living Room,Dark
+19a83d4c-d6ac-4fc5-a958-b82a0f67b3a1.png,Clear Path,2.8869338035583496,Home Office,Dim
+b8d63f06-b5e9-40aa-8546-c21a922a0494.png,Large Obstacle,2.595746755599976,Living Room,Dim
+7f0ce05e-5f7a-4f9b-b7df-791f8b72f34c.png,Large Obstacle,2.3569769859313965,Corridor,Bright
+80570006-d3fd-4fe1-95d4-cabf6daf1a13.png,Structural,2.12096643447876,Living Room,Dim
+c0976b0f-13fb-4b4e-8d53-3b3aacb3d46d.png,Large Obstacle,1.858142375946045,Kitchen,Bright
+712f0f6d-4a6d-4ec8-9f98-288e8b287c2f.png,Large Obstacle,2.36944580078125,Home Office,Dim
+1887e579-81a7-4eab-81a0-b6cc48fc4ecf.png,Large Obstacle,2.7114992141723637,Living Room,Dim
+ebd36056-73e2-4132-9ad4-79be22dad652.png,Clear Path,1.6562190055847168,Kitchen,Dark
+d264e153-5dd9-43c6-b018-246d220fbe41.png,Clear Path,4.325530052185059,Home Office,Dim
+9186dc53-3671-4392-a260-28a769ba1838.png,Structural,2.176724433898926,Corridor,Dark
+7ce93abc-1218-4bc6-8532-ff4a6193902d.png,Large Obstacle,2.451342821121216,Corridor,Dark
+6f6f2167-1096-4f35-a21d-ddf63796dc67.png,Elevation Change,2.690620183944702,Living Room,Dark
+57576e84-4025-4dea-8838-ef31c4e9e95a.png,Structural,2.151639699935913,Living Room,Bright
+66f2a227-13ae-4034-99a6-06bef4a27327.png,Small/Low Obstacle,1.2776410579681396,Living Room,Bright
+345e0181-c894-496e-8b89-aa0f6c20d8a5.png,Small/Low Obstacle,2.612374782562256,Home Office,Dim
+2eff1789-2614-4f4d-9015-2fe3b366db6a.png,Structural,2.5734803676605225,Corridor,Dark
+673d190a-b887-47f9-a476-64aad53080fd.png,Clear Path,4.388184070587158,Home Office,Dim
+95d2cced-f651-4292-bda6-d12b18c2034d.png,Small/Low Obstacle,1.4435474872589111,Home Office,Dim
+044e8052-ad26-40ed-b68c-30293e3a9a0e.png,Clear Path,3.302763700485229,Living Room,Bright
+7aa5b199-0aac-48cf-85ab-f7c0afce31c6.png,Structural,2.2590012550354004,Home Office,Dark
+34b28ef8-e92c-445d-8f1c-4640a61e4300.png,Large Obstacle,2.983699321746826,Kitchen,Dark
+eabaa702-f6ba-4160-9e28-caa6dedb13e1.png,Clear Path,4.170064449310303,Home Office,Bright
+b8e631ac-f720-427e-b024-07bc759169d0.png,Structural,1.6829787492752075,Corridor,Dark
+e4732355-27c1-4149-b9f7-20569696a4c5.png,Large Obstacle,1.894601821899414,Home Office,Dim
+e5315093-d1ba-4bdc-bf3f-5e8555bd06a0.png,Large Obstacle,2.211763858795166,Corridor,Bright
+bff2aa7d-ef0c-4534-a275-81c672da62a8.png,Structural,2.039630174636841,Corridor,Dark
+10892a6d-45a2-4e2e-86df-0b846b720265.png,Clear Path,1.916198492050171,Corridor,Bright
+683cb368-6c43-472e-9079-684891f10420.png,Large Obstacle,2.7591021060943604,Living Room,Dark
+cca707a6-054d-4196-b80b-e0a349c065e3.png,Structural,2.261557102203369,Corridor,Dark
+3eaad16d-3b5d-4793-adda-72802061740b.png,Small/Low Obstacle,2.7203969955444336,Corridor,Dark
+d94a9206-6c75-4a2a-b6a2-22d655975bc5.png,Elevation Change,1.6133480072021484,Kitchen,Bright
+b3e2693b-2a7c-480d-b0b6-f54671919946.png,Structural,2.6323742866516118,Home Office,Dim
+4cb42133-44b1-40bd-8bac-68e9713fac1f.png,Large Obstacle,1.6688015460968018,Kitchen,Bright
+3767ea21-f380-4d37-b6b6-4f46c0f91d49.png,Structural,2.2851722240448,Living Room,Dim
+827ea021-2b18-4e75-99f7-89ddac24eb79.png,Large Obstacle,1.576324224472046,Home Office,Dim
+ac5ad8fa-3779-4276-a895-c236ed8acf9c.png,Small/Low Obstacle,2.774192571640014,Corridor,Dim
+3f188a0a-7445-4e0c-8aa6-7bc7dc39af16.png,Clear Path,4.487897396087647,Home Office,Dim
+6e077fa0-3fae-4be2-9b99-16289dd01dd3.png,Structural,1.637415885925293,Corridor,Bright
+edad9637-6e9e-4787-a8b4-f7e659705702.png,Structural,3.076312065124512,Corridor,Dim
+92e73f5a-085f-41fa-ba30-b1adb7231b8c.png,Large Obstacle,2.0896174907684326,Home Office,Bright
+f18ef56d-49da-40c9-8fe2-ef287e504aac.png,Structural,1.3164938688278198,Living Room,Dim
+5343c38d-d3c4-4dae-8bf2-08368892271a.png,Clear Path,4.209861755371094,Corridor,Dim
+e81307f2-ed2b-4b2e-a00b-764a0c6bd046.png,Structural,1.8060438632965088,Home Office,Dim
+1ff381ec-59ae-455f-9932-e36ea31ba021.png,Structural,1.4726388454437256,Corridor,Bright
+7fa691b4-75b0-472b-b150-a1e8b381ce5c.png,Large Obstacle,1.0128473043441772,Home Office,Dim
+a523db83-1bfe-4e75-a9ed-78f02c5b7161.png,Structural,3.175733804702759,Home Office,Dim
+de56ebfe-257c-4c4c-942e-b514e14193ff.png,Structural,1.8705759048461916,Kitchen,Dark
+cdb91ff7-1e0a-4c9c-bf57-f1d3188a21ee.png,Clear Path,3.959587812423706,Living Room,Dim
+5b5e69cb-e6ff-4aed-a568-33e749d3556c.png,Structural,1.9665477275848389,Living Room,Bright
+f12e8e1c-6d69-42f3-b998-69270fd17b0a.png,Large Obstacle,2.8986499309539795,Corridor,Dim
+d8c05e7e-8644-49d7-8c4e-526f5ff075c9.png,Large Obstacle,2.8487391471862797,Living Room,Dark
+34b3b784-b0e2-4bfd-a8ab-0b378aec921a.png,Clear Path,4.065059185028076,Living Room,Dark
+c3206278-a50d-4af0-8bfd-32d51252fd77.png,Structural,1.832504153251648,Living Room,Bright
+7efba8d6-2ad6-406f-a68d-11b5e76891d8.png,Large Obstacle,3.0183231830596924,Living Room,Dim
+30fbe869-217c-4299-b597-8cf5e4e96ea5.png,Clear Path,3.3389668464660645,Home Office,Bright
+302d236d-44aa-4484-a743-dbf73b630e83.png,Large Obstacle,1.7889440059661863,Corridor,Bright
+4def029f-5280-4f67-9b9b-c3beaf262596.png,Large Obstacle,1.120274782180786,Kitchen,Dark
+afe9dacb-e523-4d95-bb32-50f616d0600f.png,Structural,2.105132818222046,Home Office,Dark
+d2b27ac2-a521-48a2-a29c-acfbe9bfbdd7.png,Structural,1.8120352029800413,Corridor,Bright
+e81cefb6-8a8b-497a-be9c-20fa5284e885.png,Clear Path,2.910633087158203,Corridor,Bright
+9096837a-d512-4366-8bac-4285ef6cb3ca.png,Large Obstacle,2.56877064704895,Living Room,Dark
+6e9604cf-ae12-41ad-85f8-7f388826435b.png,Structural,3.204530954360962,Corridor,Dim
+8c248965-d4a9-4e7a-9f04-b39afdefedf1.png,Clear Path,2.5278494358062744,Kitchen,Bright
+d4fa1b6d-1c7b-46d4-ae2a-219d8a6ec69c.png,Clear Path,2.950692653656006,Living Room,Bright
+a690dd3a-b36c-4130-839b-775352613300.png,Structural,2.1482362747192383,Living Room,Bright
+a4b086fa-1803-4762-a9de-30b81e1a190e.png,Structural,2.006088733673096,Kitchen,Dim
+f72057e1-4052-45e8-bdf5-46cb96685632.png,Structural,1.8939083814620967,Corridor,Dark
+64c03ee7-2d5b-44e2-a9d5-464cd5f53d24.png,Small/Low Obstacle,1.2933422327041626,Home Office,Dim
+87f282ed-7a9b-43ba-bf19-2151f18a4bb7.png,Structural,2.984750270843506,Corridor,Dark
+5128ef51-d3ff-4c95-afde-f6ff7e14e1c2.png,Small/Low Obstacle,1.4393688440322876,Kitchen,Bright
+1a5dd335-14d8-4daa-9489-9b63ffb1342b.png,Small/Low Obstacle,1.5207507610321045,Kitchen,Bright
+8c99b05d-88d7-4b6a-83b7-aeff1adea89a.png,Clear Path,2.6954641342163086,Kitchen,Bright
+96569753-6994-4ada-bb76-2f6ef8c65f83.png,Small/Low Obstacle,1.0946799516677856,Home Office,Dark
+88802294-92e4-4c95-8794-999543f89cc5.png,Structural,2.511110782623291,Living Room,Dark
+ba6b6097-4ea6-4eba-bc5d-0d8df16f4bd7.png,Large Obstacle,2.7832188606262207,Home Office,Dim
+ffae123f-972c-4b4e-bf1f-a220417422de.png,Small/Low Obstacle,2.1837852001190186,Living Room,Dim
+8ae83790-a529-4cc6-88b0-7c00f4bbfd2b.png,Large Obstacle,2.7551848888397217,Living Room,Dim
+bec33e25-a56d-485c-ad9c-d6713ded5e2f.png,Large Obstacle,2.6001126766204834,Living Room,Bright
+f46ce374-65a8-4ec1-8b17-ee5e1229c39f.png,Structural,2.120609998703003,Home Office,Dim
+1a694aa3-bb3c-4a6a-bdcf-0493565e973b.png,Small/Low Obstacle,1.4172661304473877,Home Office,Dark
+1e07861a-b4fb-4ea7-bbac-2756cd4ca561.png,Structural,2.0349009037017822,Corridor,Dark
+3db09ecc-a5a1-49ce-a8e3-50f97a086544.png,Small/Low Obstacle,1.9746546745300293,Living Room,Dark
+4b1ddd72-ef42-4c63-88e6-e3b6ab270412.png,Clear Path,3.264756679534912,Home Office,Bright
+2376bba7-89c9-4be3-a989-18aedd50f6df.png,Small/Low Obstacle,2.160707473754883,Home Office,Dim
+7f0d016f-0a8d-4fde-9098-cc475bd0949a.png,Structural,2.177206516265869,Corridor,Dark
+91554116-c7f8-494f-9d6d-b4b3449419b6.png,Large Obstacle,2.098830461502075,Home Office,Dim
+f249f3be-9165-4fc9-ae81-daea1c19acec.png,Large Obstacle,1.3989074230194092,Home Office,Bright
+6b6b36cb-58f2-4dd4-bc52-635bf2ca4da6.png,Large Obstacle,1.4737921953201294,Corridor,Bright
+ec180e5a-7d70-419b-a119-7d5d5ed5cb0a.png,Elevation Change,2.196967601776123,Corridor,Dim
+4e8c59bd-cacd-4865-8a63-d7352249701b.png,Large Obstacle,3.3989901542663574,Living Room,Dim
+ac6c113b-289f-493b-8ef5-ac0d23f0c583.png,Structural,2.748180389404297,Corridor,Dark
+27a9ee12-3130-4049-b010-a1fe0e9878a4.png,Structural,3.387644052505493,Living Room,Bright
+1a9e9b2d-dc92-4b5f-9ad1-f591b309a07f.png,Clear Path,3.6035714149475098,Home Office,Bright
+bdc58cba-513d-4ae6-8bea-46bc7eef31d1.png,Large Obstacle,1.34869122505188,Living Room,Bright
+aa558081-fa6f-4be3-b352-55cf74b2ca76.png,Elevation Change,1.0218751430511477,Living Room,Bright
+241c0325-3dbf-4ed4-9b02-4e4db11de262.png,Structural,1.8498817682266235,Corridor,Bright
+9b391e2a-426d-4bc7-a505-5cd9ad1ad74b.png,Clear Path,1.905179023742676,Kitchen,Bright
+42bd84f1-f5e5-4316-a407-94e73a70460a.png,Small/Low Obstacle,1.390636324882507,Living Room,Bright
+fedf8b01-2381-4845-87c5-d0e3d57d40a7.png,Structural,1.6504987478256226,Kitchen,Bright
+f0bc69ab-121a-4ff9-84a1-a9a73de67722.png,Small/Low Obstacle,3.395551443099976,Corridor,Dim
+407c1901-1178-44a2-9be9-ee0b6c00762d.png,Structural,3.6598427295684814,Living Room,Dark
+6257ab9a-d0fe-4f53-b313-c499187d72ad.png,Clear Path,3.624005556106568,Living Room,Bright
+93c26b4c-bdfb-48e3-99be-41e89aeef157.png,Small/Low Obstacle,2.8972747325897217,Corridor,Dim
+8992488b-0015-420c-af06-477535b9fde2.png,Small/Low Obstacle,1.7389205694198608,Corridor,Bright
+b777e228-6471-4992-a511-b27161addc9e.png,Large Obstacle,4.628310203552246,Living Room,Dim
+3a54d99e-57d0-4e7b-a7ae-80232ed8a6df.png,Elevation Change,2.7801835536956787,Kitchen,Dark
+08359286-1769-4a05-979e-1f2d9806691d.png,Structural,2.1858816146850586,Home Office,Dark
+e368dd6d-80dd-4467-9b9a-b994c9670d60.png,Small/Low Obstacle,2.404086112976074,Corridor,Dark
+7e9d6b2f-5f31-45d6-9e62-33d0e36380df.png,Small/Low Obstacle,2.068524122238159,Corridor,Bright
+70aa060f-74a7-4ced-b2f1-1f3ad1453176.png,Elevation Change,3.143617868423462,Living Room,Dark
+dc202ad8-a7f3-4d7f-a542-ad6620019ef8.png,Large Obstacle,1.821768283843994,Home Office,Dark
+de605737-aac3-443a-ac09-0fc763a65f53.png,Clear Path,1.7763004302978516,Living Room,Bright
+27fd10fe-5917-44d3-96b1-17e7019793e5.png,Small/Low Obstacle,1.205986738204956,Kitchen,Dim
+e880199b-4259-46c9-b7bf-b11dc38201bc.png,Large Obstacle,2.412317514419556,Living Room,Bright
+6f5fb543-00ab-4ecb-81f9-6efdc1f69dcc.png,Clear Path,2.388510465621948,Kitchen,Dark
+43f16d6a-f035-48eb-bcd0-a3aaf87432b6.png,Large Obstacle,3.187537908554077,Living Room,Dark
+b583d4a5-94a8-432b-abc3-6908f79aadb9.png,Structural,2.284059762954712,Kitchen,Dim
+bde50180-ef37-47dc-abce-f0a088504079.png,Large Obstacle,3.2441515922546387,Home Office,Dim
+0dad9ff1-0b71-4ea1-8423-b7432b19fd4d.png,Elevation Change,2.926960229873657,Kitchen,Dark
+39619c56-97d8-4c7a-b798-680f54e50275.png,Structural,2.1445152759552,Living Room,Bright
+781ea03d-ea55-4fe8-985c-dd4bcbfc308e.png,Structural,1.9245234727859497,Home Office,Bright
+bb63fe52-8429-4fae-b136-8c28485ad530.png,Small/Low Obstacle,2.946615219116211,Living Room,Dim
+4c0b6c67-2a95-412a-b208-a4d953043c55.png,Elevation Change,2.172916889190674,Kitchen,Dark
+c4697b1e-13b7-414b-a9a9-315280b11272.png,Small/Low Obstacle,1.9424701929092407,Corridor,Dim
+b3cc4825-e984-499c-98d6-95698701803f.png,Large Obstacle,2.0168116092681885,Home Office,Dark
+81502261-e9ec-4e6d-8dbe-24902b3ae8bd.png,Small/Low Obstacle,1.6181291341781616,Home Office,Dim
+101f2ef6-0021-4b47-9218-66dee121ffb5.png,Structural,3.205183506011963,Home Office,Bright
+b1674afb-4ebb-41ed-9f74-3b6be2068e19.png,Small/Low Obstacle,1.2382164001464844,Home Office,Dim
+aee95269-c8ed-44e7-8edc-4e437f30d60f.png,Structural,4.505123138427734,Living Room,Dim
+cf118616-6bce-4fe5-9d9f-fd4c44a86a16.png,Small/Low Obstacle,1.5070301294326782,Home Office,Dim
+b85b24da-0e88-4628-a004-9b8298cdbd3b.png,Elevation Change,3.028758764266968,Living Room,Dark
+155a114e-23b6-40a8-a463-91bbadc47289.png,Small/Low Obstacle,1.03911292552948,Living Room,Dim
+36038af6-4bab-44e1-a0cc-0ed8940b1d43.png,Elevation Change,2.115516901016236,Kitchen,Bright
+e847211c-50cd-4b08-830e-7e530336f261.png,Large Obstacle,1.551517367362976,Corridor,Bright
+1951b7e1-8641-4f70-a249-3e1efc39ccd5.png,Clear Path,1.5316779613494873,Living Room,Bright
+55ba5657-c4fc-4115-849d-d2bd6cb5219a.png,Large Obstacle,3.5883655548095703,Home Office,Dim
+e087718b-153c-4956-abd8-216eb4ba56ec.png,Clear Path,3.3550775051116943,Home Office,Dark
+f2a756f8-eeb7-4ebd-9cfa-c84dc33308d7.png,Large Obstacle,2.271369457244873,Home Office,Dim
+4bf298d8-9d93-4358-aabe-9a801aa518ca.png,Small/Low Obstacle,1.1666710376739502,Home Office,Dim
+7444dccf-d4d7-4c4c-aed4-e343973470e7.png,Structural,1.645507574081421,Corridor,Dim
+be6bf763-62b7-4f35-ac0a-f63a2c5a562d.png,Structural,1.8257580995559688,Kitchen,Bright
+2ef0ac00-ea2c-4685-9648-9b4a575881b8.png,Large Obstacle,1.557825803756714,Home Office,Dim
+e70df9bd-43a7-4fda-b2f2-25b8d2bb8717.png,Structural,3.113820791244507,Home Office,Bright
+ee51a2ea-c1df-4e9d-beb9-4d263f37f5de.png,Small/Low Obstacle,2.114738941192627,Kitchen,Dark
+a27fcacd-8cc7-4be1-ac0d-b9c55fad3981.png,Clear Path,4.176292419433594,Living Room,Dim
+ad9078b4-24d6-422d-ad0e-ef983290f375.png,Structural,1.5286661386489868,Corridor,Dim
+48627201-c1d0-4679-817a-74ccbfe906d4.png,Elevation Change,1.6844234466552734,Home Office,Bright
+85e94986-8d69-4314-abc8-22ed161aeee8.png,Elevation Change,2.7407147884368896,Kitchen,Dim
+61a1dc89-ff03-475b-8a46-fe752c805f26.png,Large Obstacle,2.46675443649292,Home Office,Dark
+63462a22-0ede-4d5b-80db-6be906d27cda.png,Structural,2.43967604637146,Kitchen,Bright
+9e0933b3-2a50-4cb2-ac15-2aeb1183aba5.png,Small/Low Obstacle,2.3604321479797363,Corridor,Bright
+7911a785-1982-4069-8d8d-65f96717b500.png,Structural,2.4205257892608643,Corridor,Bright
+ebe76be3-c959-43d5-89a7-986a2c4e41d6.png,Clear Path,4.248835563659668,Home Office,Dim
+d7be6205-318f-4efe-ae55-d72fd3023232.png,Large Obstacle,1.7580287456512451,Home Office,Dim
+baa248a1-f88d-4886-8dec-a55acdc92c5f.png,Elevation Change,1.718856692314148,Living Room,Bright
+fce1b717-6321-4ba2-8337-1006f47cfc78.png,Elevation Change,2.8778176307678223,Corridor,Bright
+443ddfa9-23c4-4ff2-86c7-9dbdfb513554.png,Structural,1.90548312664032,Kitchen,Bright
+b7d9bef1-1074-4cd5-b992-0bde3c9d6ae7.png,Small/Low Obstacle,1.193950891494751,Home Office,Bright
+a0af9357-1c04-4c07-9ca4-e3663101a5be.png,Structural,2.8532934188842773,Living Room,Dark
+dad7142c-b2b7-486c-ad1c-af1c78f91192.png,Structural,1.486684799194336,Corridor,Dim
+de85272e-99b3-4cb8-a411-5af25c4aaeab.png,Structural,1.9762681722640991,Kitchen,Dim
+e71be550-78bb-4443-9c84-8c7737dbceea.png,Clear Path,2.20228123664856,Living Room,Dim
+2e05b70c-c2c8-404d-b0de-8d6f7fdcd491.png,Clear Path,4.5280442237854,Corridor,Dim
+a92a76ad-e4ec-4a00-896a-ff771174103b.png,Large Obstacle,1.5321743488311768,Corridor,Dim
+6e193f90-c35e-496a-b760-3183fa88d347.png,Structural,1.941648006439209,Corridor,Dim
+c8805d1e-1b4c-472f-b21c-24fe5bf9e1a1.png,Large Obstacle,2.710206985473633,Living Room,Bright
+4f0a71d2-ec94-4cc6-98fd-b9ab2e207db0.png,Clear Path,4.570282459259033,Corridor,Bright
+8debd490-7bc8-4bb2-b1aa-8b406f919512.png,Small/Low Obstacle,2.6916911602020264,Living Room,Bright
+b8efdf50-fbbf-4451-a1bd-1b0cec4f885c.png,Small/Low Obstacle,1.520633339881897,Home Office,Dark
+2d050548-e7b2-4ca4-ba6e-73d6e691d161.png,Large Obstacle,2.263986110687256,Living Room,Dim
+30caa29a-a806-4621-add4-6be336857c3f.png,Large Obstacle,1.3102718591690063,Living Room,Bright
+9418f1e4-afb6-4b1e-8d62-d4bcf603acb7.png,Clear Path,3.5235700607299805,Living Room,Dim
+5cb7e66c-786b-4244-a4a0-53e3cd396629.png,Clear Path,3.1467652320861816,Kitchen,Bright
+629a07b8-2425-44c9-8beb-edd35aed5a7c.png,Structural,3.377526044845581,Corridor,Dim
+46418555-9aab-47dc-92da-a69265087d3f.png,Elevation Change,2.048771619796753,Home Office,Dark
+bfb343e4-9801-4736-82a9-c8932f40fa29.png,Structural,2.3029415607452397,Corridor,Dim
